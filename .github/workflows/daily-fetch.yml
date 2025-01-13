@@ -29,6 +29,11 @@ jobs:
         run: |
           git diff --exit-code || echo "Files have changed"
 
+      - name: List files to check file paths
+        run: |
+          echo "Listing files in the repository"
+          ls
+
       - name: Commit changes if files were updated
         run: |
           git config --global user.name "github-actions"
