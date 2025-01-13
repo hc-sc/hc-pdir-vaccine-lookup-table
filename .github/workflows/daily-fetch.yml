@@ -33,7 +33,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add vaccine-table/nvc-bundle.js vaccine-table/nvc-bundle.json
+          git add vaccine-table/nvc-bundle.js nvc-version.json
           git commit -m "Update nvc-bundle.js and nvc-bundle.json" || echo "No changes to commit"
 
       - name: Push changes to repository
