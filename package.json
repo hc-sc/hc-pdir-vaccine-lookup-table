@@ -1,0 +1,39 @@
+{
+  "name": "pdir-lookup-table-automation",
+  "version": "1.0.0",
+  "description": "This project implements PDIR Lookup table",
+  "main": "app.js",
+  "scripts": {
+    "fetch": "ts-node app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/raviraj-mangukiya/pdir-lookup-table-automation.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Raviraj.Mangukiya@hc-sc.gc.ca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raviraj-mangukiya/pdir-lookup-table-automation/issues"
+  },
+  "homepage": "https://github.com/raviraj-mangukiya/pdir-lookup-table-automation#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.30.7",
+    "@typescript-eslint/parser": "^5.30.7",
+    "axios": "^0.27.2",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-typescript": "^17.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.0.0",
+    "prettier": "^2.7.1",
+    "ts-jest": "^28.0.7",
+    "typescript": "^4.7.4",
+    "ts-node": "^10.9.1"
+  }
+}
