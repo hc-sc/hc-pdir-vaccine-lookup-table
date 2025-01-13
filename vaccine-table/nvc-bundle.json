@@ -1,0 +1,5015 @@
+{
+  "3526007": {
+    "displayName": "Rabies vaccine, human",
+    "disease": [
+      {
+        "14168008": "Rabies"
+      }
+    ]
+  },
+  "9542007": {
+    "displayName": "HBIg hepatitis B immunoglobulin unspecified",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ]
+  },
+  "9778000": {
+    "displayName": "CMVIg cytomegalovirus immunoglobulin unspecified",
+    "disease": [
+      {
+        "28944009": "Cytomegalovirus disease"
+      }
+    ]
+  },
+  "11866009": {
+    "displayName": "Plague vaccine",
+    "disease": [
+      {
+        "58750007": "Plague"
+      }
+    ]
+  },
+  "14745005": {
+    "displayName": "Hepatitis A virus vaccine",
+    "disease": [
+      {
+        "40468003": "Hepatitis A"
+      }
+    ]
+  },
+  "33234009": {
+    "displayName": "Smallpox vaccine",
+    "disease": [
+      {
+        "67924001": "Smallpox"
+      }
+    ]
+  },
+  "34689006": {
+    "displayName": "Hepatitis B virus vaccine",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ]
+  },
+  "35736007": {
+    "displayName": "Cholera vaccine",
+    "disease": [
+      {
+        "63650001": "Cholera"
+      }
+    ]
+  },
+  "46233009": {
+    "displayName": "Influenza virus vaccine",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "48028008": {
+    "displayName": "D-Hib diphtheria + Haemophilus influenzae type b unspecified",
+    "disease": [
+      {
+        "397428000": "Diphtheria",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ]
+  },
+  "56844000": {
+    "displayName": "Yellow fever vaccine",
+    "disease": [
+      {
+        "16541001": "Yellow fever"
+      }
+    ]
+  },
+  "59999009": {
+    "displayName": "Td tetanus + diphtheria adult unspecified",
+    "disease": [
+      {
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria"
+      }
+    ]
+  },
+  "61153008": {
+    "displayName": "Measles, mumps and rubella vaccine",
+    "disease": [
+      {
+        "14189004": "Measles",
+        "36653000": "Rubella",
+        "36989005": "Mumps"
+      }
+    ]
+  },
+  "61602008": {
+    "displayName": "Pertussis vaccine",
+    "disease": [
+      {
+        "27836007": "Pertussis"
+      }
+    ]
+  },
+  "62294009": {
+    "displayName": "VarIg varicella immunoglobulin unspecified",
+    "disease": [
+      {
+        "38907003": "Varicella"
+      }
+    ]
+  },
+  "68208009": {
+    "displayName": "Clostridium tetani toxoid adsorbed and Corynebacterium diphtheriae toxoid antigens-containing vaccine product",
+    "disease": [
+      {
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria"
+      }
+    ]
+  },
+  "77048008": {
+    "displayName": "DAtx diphtheria antitoxin unspecified",
+    "disease": [
+      {
+        "397428000": "Diphtheria"
+      }
+    ]
+  },
+  "79873000": {
+    "displayName": "VIG vaccinia immune globulin unspecified",
+    "disease": [
+      {
+        "67924001": "Smallpox"
+      }
+    ]
+  },
+  "80834004": {
+    "displayName": "RabIg rabies immunoglobulin unspecified",
+    "disease": [
+      {
+        "14168008": "Rabies"
+      }
+    ]
+  },
+  "86080005": {
+    "displayName": "BAtx botulism antitoxin unspecified",
+    "disease": [
+      {
+        "414531002": "Intoxication with Clostridium botulinum toxin"
+      }
+    ]
+  },
+  "86337009": {
+    "displayName": "TIg tetanus immunoglobulin unspecified",
+    "disease": [
+      {
+        "76902006": "Tetanus"
+      }
+    ]
+  },
+  "89428009": {
+    "displayName": "Typhoid vaccine",
+    "disease": [
+      {
+        "4834000": "Typhoid fever"
+      }
+    ]
+  },
+  "90043005": {
+    "displayName": "Mumps live virus vaccine",
+    "disease": [
+      {
+        "36989005": "Mumps"
+      }
+    ]
+  },
+  "108723008": {
+    "displayName": "RSVIg respiratory syncytial virus immunoglobulin unspecified",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ]
+  },
+  "108725001": {
+    "displayName": "Palivizumab-containing product",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ]
+  },
+  "108729007": {
+    "displayName": "Varicella virus vaccine",
+    "disease": [
+      {
+        "38907003": "Varicella"
+      }
+    ]
+  },
+  "111164008": {
+    "displayName": "Poliovirus vaccine",
+    "disease": [
+      {
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "115578007": {
+    "displayName": "Pneumococcal polysaccharide antigen"
+  },
+  "116077000": {
+    "displayName": "Rotavirus vaccine",
+    "disease": [
+      {
+        "18624000": "Rotavirus infection"
+      }
+    ]
+  },
+  "116083002": {
+    "displayName": "Lyme disease vaccine",
+    "disease": [
+      {
+        "23502006": "Lyme disease"
+      }
+    ]
+  },
+  "120941004": {
+    "displayName": "Cytomegalovirus antibody"
+  },
+  "120975003": {
+    "displayName": "Haemophilus influenzae type b antigen"
+  },
+  "120980007": {
+    "displayName": "Rabies lyssavirus antigen"
+  },
+  "120981006": {
+    "displayName": "Meningococcal group W-135 antigen"
+  },
+  "120982004": {
+    "displayName": "Neisseria meningitidis serogroup Y antigen"
+  },
+  "120983009": {
+    "displayName": "Neisseria meningitidis serogroup C antigen"
+  },
+  "120985002": {
+    "displayName": "Pneumococcal antigen"
+  },
+  "120996005": {
+    "displayName": "Human papillomavirus antigen"
+  },
+  "120997001": {
+    "displayName": "Measles virus antigen"
+  },
+  "120998006": {
+    "displayName": "Rubella virus antigen"
+  },
+  "121000004": {
+    "displayName": "Rotavirus antigen"
+  },
+  "121004008": {
+    "displayName": "Lyme antigen"
+  },
+  "121005009": {
+    "displayName": "Varicella antigen"
+  },
+  "121006005": {
+    "displayName": "Influenza A virus antigen"
+  },
+  "121025008": {
+    "displayName": "Human papillomavirus 16 antigen"
+  },
+  "121027000": {
+    "displayName": "Japanese encephalitis virus antigen"
+  },
+  "121030007": {
+    "displayName": "Measles virus antigen"
+  },
+  "121033009": {
+    "displayName": "Plasmodium falciparum antigen"
+  },
+  "121074009": {
+    "displayName": "Pertussis antigen"
+  },
+  "121077002": {
+    "displayName": "Meningococcal antigen"
+  },
+  "121079004": {
+    "displayName": "Neisseria meningitidis serogroup A antigen"
+  },
+  "121080001": {
+    "displayName": "Meningococcal group B antigen"
+  },
+  "121087003": {
+    "displayName": "Orthorubulavirus parotitidis antigen"
+  },
+  "121235008": {
+    "displayName": "Human papillomavirus 18 antigen"
+  },
+  "125688000": {
+    "displayName": "Inactivated poliovirus vaccine",
+    "disease": [
+      {
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "125690004": {
+    "displayName": "Live poliovirus vaccine",
+    "disease": [
+      {
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "125714002": {
+    "displayName": "Pneu-C-7 pneumococcal conjugate 7-valent unspecified",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "135642004": {
+    "displayName": "Pneumococcal polysaccharide vaccine",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "259858000": {
+    "displayName": "Varicellovirus humanalpha3 antibody"
+  },
+  "260210008": {
+    "displayName": "Influenza virus antigen"
+  },
+  "260214004": {
+    "displayName": "Varicellovirus humanalpha3 antigen"
+  },
+  "303233001": {
+    "displayName": "Hepatitis B virus antigen"
+  },
+  "333521006": {
+    "displayName": "Anthrax vaccine",
+    "disease": [
+      {
+        "409498004": "Anthrax"
+      }
+    ]
+  },
+  "333598008": {
+    "displayName": "Pneumococcal vaccine",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "333621002": {
+    "displayName": "Tetanus vaccine",
+    "disease": [
+      {
+        "76902006": "Tetanus"
+      }
+    ]
+  },
+  "333680004": {
+    "displayName": "Haemophilus influenzae Type b vaccine",
+    "disease": [
+      {
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ]
+  },
+  "333697005": {
+    "displayName": "Japanese B encephalitis vaccine",
+    "disease": [
+      {
+        "52947006": "Encephalitis, Japanese"
+      }
+    ]
+  },
+  "333699008": {
+    "displayName": "Tick-borne encephalitis vaccine",
+    "disease": [
+      {
+        "712986001": "Tickborne encephalitis"
+      }
+    ]
+  },
+  "333702001": {
+    "displayName": "Hepatitis A+B vaccine",
+    "disease": [
+      {
+        "40468003": "Hepatitis A",
+        "66071002": "Hepatitis B"
+      }
+    ]
+  },
+  "333707007": {
+    "displayName": "Hepatitis A+typhoid vaccine",
+    "disease": [
+      {
+        "4834000": "Typhoid fever",
+        "40468003": "Hepatitis A"
+      }
+    ]
+  },
+  "333711001": {
+    "displayName": "Ig immune globulin unspecified",
+    "disease": [
+      {
+        "14189004": "Measles"
+      }
+    ]
+  },
+  "346639000": {
+    "displayName": "Typhoid polysaccharide vaccine",
+    "disease": [
+      {
+        "4834000": "Typhoid fever"
+      }
+    ]
+  },
+  "346696005": {
+    "displayName": "Typhoid live oral vaccine",
+    "disease": [
+      {
+        "4834000": "Typhoid fever"
+      }
+    ]
+  },
+  "359068008": {
+    "displayName": "Meningococcal C conjugate vaccine",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "385336006": {
+    "displayName": "Botulism antitoxin"
+  },
+  "386012008": {
+    "displayName": "Measles vaccine",
+    "disease": [
+      {
+        "14189004": "Measles"
+      }
+    ]
+  },
+  "386013003": {
+    "displayName": "Rubella vaccine",
+    "disease": [
+      {
+        "36653000": "Rubella"
+      }
+    ]
+  },
+  "386900007": {
+    "displayName": "Palivizumab"
+  },
+  "396417009": {
+    "displayName": "Diphtheria toxoid"
+  },
+  "407737004": {
+    "displayName": "Varicella-zoster vaccine",
+    "disease": [
+      {
+        "4740000": "Shingles"
+      }
+    ]
+  },
+  "407746005": {
+    "displayName": "Varicella-zoster live attenuated vaccine",
+    "disease": [
+      {
+        "4740000": "Shingles"
+      }
+    ]
+  },
+  "409269001": {
+    "displayName": "Intranasal influenza live virus vaccine",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "409629009": {
+    "displayName": "Anthrax antigen"
+  },
+  "412175006": {
+    "displayName": "Diphtheria antitoxin"
+  },
+  "412324003": {
+    "displayName": "Typhoid VI polysaccharide unspecified",
+    "disease": [
+      {
+        "4834000": "Typhoid fever"
+      }
+    ]
+  },
+  "412375000": {
+    "displayName": "Tetanus toxoid"
+  },
+  "416653007": {
+    "displayName": "BIG-IV botulism immunoglobulin unspecified",
+    "disease": [
+      {
+        "414531002": "Intoxication with Clostridium botulinum toxin"
+      }
+    ]
+  },
+  "417299009": {
+    "displayName": "Botulism immunoglobulin"
+  },
+  "418268006": {
+    "displayName": "Bacillus Calmette-Guerin antigen-containing product",
+    "disease": [
+      {
+        "56717001": "Tuberculosis"
+      }
+    ]
+  },
+  "418747006": {
+    "displayName": "Hepatitis B immunoglobulin"
+  },
+  "419550004": {
+    "displayName": "Measles + mumps + rubella + varicella vaccine",
+    "disease": [
+      {
+        "14189004": "Measles",
+        "36653000": "Rubella",
+        "36989005": "Mumps",
+        "38907003": "Varicella"
+      }
+    ]
+  },
+  "420084002": {
+    "displayName": "Immune globulin"
+  },
+  "420261000": {
+    "displayName": "Meningococcal groups A+C+W135+Y vaccine",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "422303009": {
+    "displayName": "Rabies immunoglobulin"
+  },
+  "423531006": {
+    "displayName": "Meningococcus vaccine",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "424519000": {
+    "displayName": "Human papillomavirus vaccine",
+    "disease": [
+      {
+        "240532009": "Human papilloma virus infection"
+      }
+    ]
+  },
+  "426971004": {
+    "displayName": "Haemophilus influenzae Type b + recombinant hepatitis B virus vaccine",
+    "disease": [
+      {
+        "66071002": "Hepatitis B",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ]
+  },
+  "428214002": {
+    "displayName": "Diphtheria vaccine",
+    "disease": [
+      {
+        "397428000": "Diphtheria"
+      }
+    ]
+  },
+  "428527002": {
+    "displayName": "Human tetanus immunoglobulin"
+  },
+  "442269004": {
+    "displayName": "Influenza A virus subtype H1N1 antigen"
+  },
+  "443651005": {
+    "displayName": "Influenza A virus subtype H1N1 vaccine",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "448964007": {
+    "displayName": "Pneumococcal 13-valent conjugate vaccine",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "449019003": {
+    "displayName": "Acellular pertussis vaccine",
+    "disease": [
+      {
+        "27836007": "Pertussis"
+      }
+    ]
+  },
+  "451022006": {
+    "displayName": "Inactivated Influenza split virion subtype H1N1v-like strain unadjuvanted vaccine",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "709155002": {
+    "displayName": "Plague antigen"
+  },
+  "709157005": {
+    "displayName": "Vibrio cholerae toxin antigen"
+  },
+  "709348007": {
+    "displayName": "Human papillomavirus, type 11 antigen"
+  },
+  "709358006": {
+    "displayName": "Human papillomavirus, type 6 antigen"
+  },
+  "713610005": {
+    "displayName": "Acellular Bordetella pertussis antigen"
+  },
+  "713616004": {
+    "displayName": "Poliomyelitis antigen"
+  },
+  "713618003": {
+    "displayName": "Hepatitis A virus antigen"
+  },
+  "713619006": {
+    "displayName": "Rota P1A (8) serotype antigen"
+  },
+  "713620000": {
+    "displayName": "Live Poliovirus Ag"
+  },
+  "713621001": {
+    "displayName": "Rota G3 serotype antigen"
+  },
+  "713622008": {
+    "displayName": "Rota G1 serotype antigen"
+  },
+  "713628007": {
+    "displayName": "Rota G1 (P8) serotype antigen"
+  },
+  "713629004": {
+    "displayName": "Yellow fever antigen"
+  },
+  "713631008": {
+    "displayName": "Smallpox antigen"
+  },
+  "713640007": {
+    "displayName": "Rota G4 serotype antigen"
+  },
+  "713641006": {
+    "displayName": "Lyme antigen"
+  },
+  "714076000": {
+    "displayName": "Whole cell Bordetella pertussis antigen"
+  },
+  "714077009": {
+    "displayName": "Rota G2 serotype antigen"
+  },
+  "714078004": {
+    "displayName": "Pneumococcal conjugate antigen"
+  },
+  "715978009": {
+    "displayName": "Meningococcal conjugate antigen"
+  },
+  "715979001": {
+    "displayName": "Meningococcal polysaccharide antigen"
+  },
+  "716265005": {
+    "displayName": "Meningococcal conjugate group A antigen"
+  },
+  "716266006": {
+    "displayName": "Meningococcal conjugate group C antigen"
+  },
+  "716267002": {
+    "displayName": "Meningococcal conjugate group Y antigen"
+  },
+  "716268007": {
+    "displayName": "Meningococcal conjugate group W-135 antigen"
+  },
+  "716269004": {
+    "displayName": "Meningococcal polysaccharide group A antigen"
+  },
+  "716270003": {
+    "displayName": "Meningococcal polysaccharide group C antigen"
+  },
+  "716271004": {
+    "displayName": "Meningococcal polysaccharide group Y antigen"
+  },
+  "716272006": {
+    "displayName": "Meningococcal polysaccharide group W-135 antigen"
+  },
+  "717220006": {
+    "displayName": "Vaccinia human immune globulin"
+  },
+  "718280005": {
+    "displayName": "Bacillus Calmette-Guerin antigen"
+  },
+  "719956007": {
+    "displayName": "Inactivated Poliovirus antigen"
+  },
+  "721120005": {
+    "displayName": "Vibrio cholerae recombinant toxin B subunit antigen"
+  },
+  "766838005": {
+    "displayName": "Varicella antigen"
+  },
+  "767841007": {
+    "displayName": "Vi polysaccharide typhoid antigen"
+  },
+  "777050007": {
+    "displayName": "RSVAb respiratory syncytial virus monoclonal antibody palivizumab unspecified",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ]
+  },
+  "785864002": {
+    "displayName": "Meningococcal group B vaccine",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "836381006": {
+    "displayName": "Diphtheria unspecified",
+    "disease": [
+      {
+        "397430003": "Diphtheria"
+      }
+    ]
+  },
+  "840536004": {
+    "displayName": "Antigen of SARS-CoV-2"
+  },
+  "844578004": {
+    "displayName": "Inactivated Poliovirus antigen"
+  },
+  "860818003": {
+    "displayName": "Anth anthrax unspecified",
+    "disease": [
+      {
+        "409498004": "Anthrax"
+      }
+    ]
+  },
+  "863875008": {
+    "displayName": "Live poliomyelitis antigen"
+  },
+  "871717007": {
+    "displayName": "YF yellow fever unspecified",
+    "disease": [
+      {
+        "16541001": "Yellow fever"
+      }
+    ]
+  },
+  "871718002": {
+    "displayName": "PLAG plague unspecified",
+    "disease": [
+      {
+        "58750007": "Plague"
+      }
+    ]
+  },
+  "871719005": {
+    "displayName": "TBE tick-borne encephalitis unspecified",
+    "disease": [
+      {
+        "712986001": "Tickborne encephalitis"
+      }
+    ]
+  },
+  "871724008": {
+    "displayName": "JE Japanese encephalitis unspecified",
+    "disease": [
+      {
+        "52947006": "Encephalitis, Japanese"
+      }
+    ]
+  },
+  "871726005": {
+    "displayName": "Rab rabies unspecified",
+    "disease": [
+      {
+        "14168008": "Rabies"
+      }
+    ]
+  },
+  "871727001": {
+    "displayName": "Sma smallpox unspecified",
+    "disease": [
+      {
+        "67924001": "Smallpox"
+      }
+    ]
+  },
+  "871732000": {
+    "displayName": "R rubella unspecified",
+    "disease": [
+      {
+        "36653000": "Rubella"
+      }
+    ]
+  },
+  "871738001": {
+    "displayName": "Mu mumps live unspecified",
+    "disease": [
+      {
+        "36989005": "Mumps"
+      }
+    ]
+  },
+  "871739009": {
+    "displayName": "Poliomyelitis unspecified",
+    "disease": [
+      {
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "871740006": {
+    "displayName": "IPV poliomyelitis inactivated unspecified",
+    "disease": [
+      {
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "871742003": {
+    "displayName": "T tetanus unspecified",
+    "disease": [
+      {
+        "76902006": "Tetanus"
+      }
+    ]
+  },
+  "871751006": {
+    "displayName": "HA hepatitis A unspecified",
+    "disease": [
+      {
+        "40468003": "Hepatitis A"
+      }
+    ]
+  },
+  "871761004": {
+    "displayName": "Rota rotavirus unspecified",
+    "disease": [
+      {
+        "18624000": "Rotavirus infection"
+      }
+    ]
+  },
+  "871764007": {
+    "displayName": "Hib Haemophilus influenzae type b unspecified",
+    "disease": [
+      {
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ]
+  },
+  "871765008": {
+    "displayName": "M measles unspecified",
+    "disease": [
+      {
+        "36989005": "Mumps"
+      }
+    ]
+  },
+  "871768005": {
+    "displayName": "Influenza virus antigen only vaccine product in nasal dose form",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "871772009": {
+    "displayName": "Inf influenza A virus subtype H1N1 unspecified",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "871803007": {
+    "displayName": "HAHB hepatitis A + B unspecified",
+    "disease": [
+      {
+        "40468003": "Hepatitis A",
+        "66071002": "Hepatitis B"
+      }
+    ]
+  },
+  "871804001": {
+    "displayName": "HA-Typh-I hepatitis A + typhoid injectable unspecified",
+    "disease": [
+      {
+        "4834000": "Typhoid fever",
+        "40468003": "Hepatitis A"
+      }
+    ]
+  },
+  "871806004": {
+    "displayName": "Hib+HB Haemophilus influenzae Type b + hepatitis B pediatric unspecified",
+    "disease": [
+      {
+        "66071002": "Hepatitis B",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ]
+  },
+  "871817003": {
+    "displayName": "MR measles + rubella unspecified",
+    "disease": [
+      {
+        "14189004": "Measles",
+        "36653000": "Rubella"
+      }
+    ]
+  },
+  "871822003": {
+    "displayName": "HB hepatitis B unspecified",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ]
+  },
+  "871826000": {
+    "displayName": "Td tetanus + diphtheria adult unspecified",
+    "disease": [
+      {
+        "76902006": "Tetanus",
+        "397430003": "Diphtheria"
+      }
+    ]
+  },
+  "871831003": {
+    "displayName": "MMR measles + mumps + rubella unspecified",
+    "disease": [
+      {
+        "14189004": "Measles",
+        "36653000": "Rubella",
+        "36989005": "Mumps"
+      }
+    ]
+  },
+  "871873006": {
+    "displayName": "Men-ACYW-135 meningococcal A + C + Y + W-135 unspecified",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "871908002": {
+    "displayName": "MMR-Var measles + mumps + rubella + varicella unspecified",
+    "disease": [
+      {
+        "14189004": "Measles",
+        "36653000": "Rubella",
+        "36989005": "Mumps",
+        "38907003": "Varicella"
+      }
+    ]
+  },
+  "871911001": {
+    "displayName": "LYM Lyme unspecified",
+    "disease": [
+      {
+        "23502006": "Lyme disease"
+      }
+    ]
+  },
+  "1003499009": {
+    "displayName": "Inf influenza A virus subtype H5N1 unspecified",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "1052328007": {
+    "displayName": "Pneu-C-7 pneumococcal conjugate 7-valent unspecified",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "1052330009": {
+    "displayName": "Pneu-C-10 pneumococcal conjugate 10-valent unspecified",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "1119343008": {
+    "displayName": "Severe acute respiratory syndrome coronavirus 2 mRNA"
+  },
+  "1119349007": {
+    "displayName": "COVID-19 messenger ribonucleic acid unspecified",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "1157024006": {
+    "displayName": "COVID-19 whole inactivated virus unspecified",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "1157044000": {
+    "displayName": "Recombinant non-replicating viral vector encoding severe acute respiratory syndrome coronavirus 2 spike protein"
+  },
+  "1162643001": {
+    "displayName": "COVID-19 recombinant spike protein unspecified",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "1252708008": {
+    "displayName": "Pneu-C-15 pneumococcal conjugate 15-valent unspecified",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "1252709000": {
+    "displayName": "Pneu-C-20 pneumococcal conjugate 20-valent unspecified",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "1287018009": {
+    "displayName": "Live attenuated Zaire ebolavirus antigen"
+  },
+  "1287549005": {
+    "displayName": "Zaire ebolavirus antigen"
+  },
+  "1344967001": {
+    "displayName": "Live attenuated Chikungunya virus antigen"
+  },
+  "1345036005": {
+    "displayName": "Live attenuated Chikungunya virus antigen only vaccine product",
+    "disease": [
+      {
+        "111864006": "Chikungunya fever"
+      }
+    ]
+  },
+  "19291000087108": {
+    "displayName": "Inf Xanaflu API",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27041000087109": "Drug Safety, Abbott Laboratories, Limited (supplier)"
+      }
+    ]
+  },
+  "19311000087109": {
+    "displayName": "Men-B BEXSERO NVD",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27191000087103": "Novartis Vaccines and Diagnostics Inc. (supplier)"
+      }
+    ]
+  },
+  "19441000087102": {
+    "displayName": "MMR-Var ProQuad Merck",
+    "disease": [
+      {
+        "14189004": "Measles",
+        "36653000": "Rubella",
+        "36989005": "Mumps",
+        "38907003": "Varicella"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "19321000087101": {
+    "displayName": "LZV ZOSTAVAX II MC",
+    "disease": [
+      {
+        "4740000": "Shingles"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "19351000087108": {
+    "displayName": "Men-C-ACYW-135 NIMENRIX GSK",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "20741000087105": {
+    "displayName": "Inf FLUMIST QUADRIVALENT AZC",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "26881000087109": "AstraZeneca Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "20691000087107": {
+    "displayName": "Inf FLUZONE Quadrivalent SP",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "20871000087109": {
+    "displayName": "HPV-9 GARDASIL 9 Merck",
+    "disease": [
+      {
+        "240532009": "Human papilloma virus infection"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "21671000087103": {
+    "displayName": "Men-B BEXSERO GSK",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "21771000087109": {
+    "displayName": "JE IXIARO VAL",
+    "disease": [
+      {
+        "52947006": "Encephalitis, Japanese"
+      }
+    ],
+    "MAH": [
+      {
+        "27371000087104": "Valneva Austria GmbH (supplier)"
+      }
+    ]
+  },
+  "22681000087109": {
+    "displayName": "Inf INFLUVAC BGP",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "26911000087109": "BGP Pharma ULC (supplier)"
+      }
+    ]
+  },
+  "23031000087108": {
+    "displayName": "Men-B Trumenba Pfiz",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27241000087103": "Pfizer Canada ULC (supplier)"
+      }
+    ]
+  },
+  "24201000087108": {
+    "displayName": "Chol-Ecol-O DUKORAL VAL",
+    "disease": [
+      {
+        "11840006": "Traveler's diarrhea",
+        "63650001": "Cholera"
+      }
+    ],
+    "MAH": [
+      {
+        "27381000087102": "Valneva Sweden AB (supplier)"
+      }
+    ]
+  },
+  "26551000087104": {
+    "displayName": "TBE FSME-IMMUN Bax",
+    "disease": [
+      {
+        "712986001": "Tickborne encephalitis"
+      }
+    ],
+    "MAH": [
+      {
+        "26941000087105": "Baxter Corporation (supplier)"
+      }
+    ]
+  },
+  "28571000087109": {
+    "displayName": "COVID-19 SPIKEVAX (original strain) 0.20 mg/mL mRNA Mod",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "51461000087108": "Moderna Biopharma Canada Corporation (supplier)"
+      }
+    ]
+  },
+  "28761000087108": {
+    "displayName": "COVID-19 VAXZEVRIA AZC",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "26881000087109": "AstraZeneca Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "31541000087105": {
+    "displayName": "Var VARILRIX GSK",
+    "disease": [
+      {
+        "38907003": "Varicella"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "21711000087102": {
+    "displayName": "Rab RabAvert GSK",
+    "disease": [
+      {
+        "14168008": "Rabies"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "22181000087103": {
+    "displayName": "DPT-HB-Hib PENTAVAC PFS SII",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "66071002": "Hepatitis B",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ],
+    "MAH": [
+      {
+        "27331000087101": "Serum Institute of India LTD (supplier)"
+      }
+    ]
+  },
+  "23011000087103": {
+    "displayName": "RZV SHINGRIX GSK",
+    "disease": [
+      {
+        "4740000": "Shingles"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "23771000087108": {
+    "displayName": "Hib-HB COMVAX MCI",
+    "disease": [
+      {
+        "66071002": "Hepatitis B",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ],
+    "MAH": [
+      {
+        "27151000087108": "Merck & Co. Inc. (supplier)"
+      }
+    ]
+  },
+  "26541000087102": {
+    "displayName": "HA EPAXAL BB",
+    "disease": [
+      {
+        "40468003": "Hepatitis A"
+      }
+    ],
+    "MAH": [
+      {
+        "26961000087106": "Berna Biotech Limited (supplier)"
+      }
+    ]
+  },
+  "28491000087107": {
+    "displayName": "Inf FLUCELVAX QUAD SEQ",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27321000087103": "Seqirus UK Limited (supplier)"
+      }
+    ]
+  },
+  "28721000087103": {
+    "displayName": "DTaP TRIPACEL SP",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "30151000087105": {
+    "displayName": "COVID-19 COVIFENZ VLP MED",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "30161000087108": "Medicago Inc. (supplier)"
+      }
+    ]
+  },
+  "31431000087100": {
+    "displayName": "COVID-19 Convidecia",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "33221000087102": {
+    "displayName": "COVID-19 mRNA CureVac",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "33391000087109": {
+    "displayName": "COVID-19 Abdala",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "33441000087105": {
+    "displayName": "COVID-19 Medgen-Dynavax-NIAID",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "34591000087100": {
+    "displayName": "COVID-19 Soberana 02",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "33231000087100": {
+    "displayName": "Rab RABAVERT BN",
+    "disease": [
+      {
+        "14168008": "Rabies"
+      }
+    ],
+    "MAH": [
+      {
+        "26921000087101": "Bavarian Nordic AS (supplier)"
+      }
+    ]
+  },
+  "33401000087107": {
+    "displayName": "COVID-19 COVIran Barekat",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "33451000087108": {
+    "displayName": "COVID-19 QazCovid-in",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "34601000087108": {
+    "displayName": "COVID-19 SpikoGen",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "35661000087108": {
+    "displayName": "Inf Supemtek SP",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27291000087105": "Sanofi Pasteur SA (supplier)"
+      }
+    ]
+  },
+  "37871000087108": {
+    "displayName": "COVID-19 COMIRNATY Original / Omicron BA.1 30 mcg/0.3 mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "38821000087105": {
+    "displayName": "COVID-19 COMIRNATY Original & Omicron BA.4/BA.5 pediatric 3 mcg/0.2mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "51301000087102": {
+    "displayName": "RSV AREXVY GSK",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "51511000087105": {
+    "displayName": "COVID-19 COMIRNATY Omicron XBB.1.5 pediatric 3 mcg/0.2 mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "6851000087107": {
+    "displayName": "HA AVAXIM SP",
+    "disease": [
+      {
+        "40468003": "Hepatitis A"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "6901000087101": {
+    "displayName": "HA VAQTA Merck",
+    "disease": [
+      {
+        "40468003": "Hepatitis A"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "6951000087100": {
+    "displayName": "HB RECOMBIVAX HB Merck",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "20841000087101": {
+    "displayName": "DTaP-HB-IPV PEDIARIX GSK",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "66071002": "Hepatitis B",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "21781000087106": {
+    "displayName": "Men-C-ACYW-135 NIMENRIX Pfiz",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27241000087103": "Pfizer Canada ULC (supplier)"
+      }
+    ]
+  },
+  "22691000087106": {
+    "displayName": "DTaP-IPV KINRIX GSK",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis"
+      }
+    ],
+    "MAH": [
+      {
+        "27061000087105": "GlaxoSmithKline Biologicals (supplier)"
+      }
+    ]
+  },
+  "23691000087103": {
+    "displayName": "DTwP-HB Tritanrix GSK",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "66071002": "Hepatitis B",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria"
+      }
+    ],
+    "MAH": [
+      {
+        "27061000087105": "GlaxoSmithKline Biologicals (supplier)"
+      }
+    ]
+  },
+  "24211000087105": {
+    "displayName": "Typh-O Vivotif Pax",
+    "disease": [
+      {
+        "4834000": "Typhoid fever"
+      }
+    ]
+  },
+  "26571000087105": {
+    "displayName": "Sma IMVAMUNE BN",
+    "disease": [
+      {
+        "67924001": "Smallpox"
+      }
+    ],
+    "MAH": [
+      {
+        "26921000087101": "Bavarian Nordic AS (supplier)"
+      }
+    ]
+  },
+  "28581000087106": {
+    "displayName": "COVID-19 COMIRNATY (original strain) 30 mcg/0.3 mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "28951000087107": {
+    "displayName": "COVID-19 JCOVDEN Jan",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29151000087100": "Janssen Inc. (supplier)"
+      }
+    ]
+  },
+  "31301000087101": {
+    "displayName": "COVID-19 SINOPHARM-BIBP",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "20811000087102": {
+    "displayName": "Inf FLULAVAL TETRA IDB",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27101000087107": "ID Biomedical Corporation of Quebec (supplier)"
+      }
+    ]
+  },
+  "21691000087104": {
+    "displayName": "Men-C-C MENJUGATE Liquid GSK",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "21891000087103": {
+    "displayName": "Men-C-C NeisVac-C Pfiz",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27241000087103": "Pfizer Canada ULC (supplier)"
+      }
+    ]
+  },
+  "22971000087103": {
+    "displayName": "Inf AGRIFLU SEQ",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27321000087103": "Seqirus UK Limited (supplier)"
+      }
+    ]
+  },
+  "23711000087101": {
+    "displayName": "DTaP-Hib ACTacel SP",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "24381000087107": {
+    "displayName": "Inf AFLURIA TETRA SEQ",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27311000087106": "Seqirus Pty Ltd (supplier)"
+      }
+    ]
+  },
+  "26581000087107": {
+    "displayName": "Men-C-C MENINGITEC NB",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27211000087104": "Nuron Biotech B.V. (supplier)"
+      }
+    ]
+  },
+  "28591000087108": {
+    "displayName": "Inf INFLUSPLIT TETRA GSK",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27061000087105": "GlaxoSmithKline Biologicals (supplier)"
+      }
+    ]
+  },
+  "28961000087105": {
+    "displayName": "COVID-19 COVISHIELD VP",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29161000087102": "Verity Pharmaceuticals Inc. (supplier)"
+      }
+    ]
+  },
+  "31311000087104": {
+    "displayName": "COVID-19 CoronaVac",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "33201000087108": {
+    "displayName": "COVID-19 SINOPHARM-WIBP",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "33421000087101": {
+    "displayName": "COVID-19 EpiVacCorona",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "33471000087102": {
+    "displayName": "COVID-19 ZIFIVAX",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "21681000087101": {
+    "displayName": "Men-C-ACYW-135 Menveo GSK",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "21701000087104": {
+    "displayName": "Men-C-C MENJUGATE GSK",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "21931000087105": {
+    "displayName": "Inf FLUZONE High-Dose SP",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "22981000087101": {
+    "displayName": "Inf FLUAD SEQ",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27321000087103": "Seqirus UK Limited (supplier)"
+      }
+    ]
+  },
+  "23721000087109": {
+    "displayName": "DTaP-IPV TETRAVAC-ACELLULAIRE SP",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis"
+      }
+    ],
+    "MAH": [
+      {
+        "27261000087102": "Sanofi Pasteur (supplier)"
+      }
+    ]
+  },
+  "26521000087106": {
+    "displayName": "BCG Vaccine IDM",
+    "disease": [
+      {
+        "56717001": "Tuberculosis"
+      }
+    ],
+    "MAH": [
+      {
+        "27101000087107": "ID Biomedical Corporation of Quebec (supplier)"
+      }
+    ]
+  },
+  "28391000087101": {
+    "displayName": "Inf FLUAD Pediatric SEQ",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27321000087103": "Seqirus UK Limited (supplier)"
+      }
+    ]
+  },
+  "28611000087103": {
+    "displayName": "Inf INFLUVAC TETRA BGP",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "26911000087109": "BGP Pharma ULC (supplier)"
+      }
+    ]
+  },
+  "29171000087106": {
+    "displayName": "COVID-19 NUVAXOVID (original strain) Nova",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29951000087102": "Novavax Inc. (supplier)"
+      }
+    ]
+  },
+  "31341000087103": {
+    "displayName": "COVID-19 Sputnik V",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "33211000087105": {
+    "displayName": "COVID-19 COVAXIN",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "33361000087101": {
+    "displayName": "COVID-19 COMIRNATY (original strain) pediatric 10 mcg/0.2 mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "33431000087104": {
+    "displayName": "COVID-19 KCONVAC",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "35651000087105": {
+    "displayName": "COVID-19 SPIKEVAX (original strain) 0.10 mg/mL mRNA Mod",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "51461000087108": "Moderna Biopharma Canada Corporation (supplier)"
+      }
+    ]
+  },
+  "37701000087106": {
+    "displayName": "COVID-19 COMIRNATY Original & Omicron BA.4/BA.5 pediatric 10 mcg/0.2mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "38591000087106": {
+    "displayName": "COVID-19 SPIKEVAX Bivalent (Original / Omicron BA.4/BA.5) pediatric 10 mcg/0.2mL mRNA Mod",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "51461000087108": "Moderna Biopharma Canada Corporation (supplier)"
+      }
+    ]
+  },
+  "47591000087109": {
+    "displayName": "COVID-19 CORBEVAX BE",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "47581000087107": "Biological E. Limited (supplier)"
+      }
+    ]
+  },
+  "51501000087108": {
+    "displayName": "COVID-19 COMIRNATY Omicron XBB.1.5 pediatric 10 mcg/0.3 mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "56391000087101": {
+    "displayName": "Td ADSORBED without preservative SP",
+    "disease": [
+      {
+        "76902006": "Tetanus",
+        "397430003": "Diphtheria"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "6891000087102": {
+    "displayName": "HA VAQTA pediatric Merck",
+    "disease": [
+      {
+        "40468003": "Hepatitis A"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "6941000087103": {
+    "displayName": "HB RECOMBIVAX HB dialysis Merck",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "7021000087108": {
+    "displayName": "BCG Freeze-dried Glutamate BCG Vaccine Japan JBCG",
+    "disease": [
+      {
+        "56717001": "Tuberculosis"
+      }
+    ],
+    "MAH": [
+      {
+        "27131000087104": "Japan BCG Laboratory (supplier)"
+      }
+    ]
+  },
+  "7071000087107": {
+    "displayName": "Men-C-C MENJUGATE NVD",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27201000087101": "Novartis Vaccines and Diagnostics S.r.l. (supplier)"
+      }
+    ]
+  },
+  "7151000087100": {
+    "displayName": "JE IXIARO IAG",
+    "disease": [
+      {
+        "52947006": "Encephalitis, Japanese"
+      }
+    ],
+    "MAH": [
+      {
+        "27121000087101": "Intercell AG (supplier)"
+      }
+    ]
+  },
+  "7031000087105": {
+    "displayName": "Hib Act-HIB SP",
+    "disease": [
+      {
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "7081000087109": {
+    "displayName": "Men-C-C NeisVac-C GSK",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "7161000087102": {
+    "displayName": "MMR M-M-R II Merck",
+    "disease": [
+      {
+        "14189004": "Measles",
+        "36653000": "Rubella",
+        "36989005": "Mumps"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "7211000087109": {
+    "displayName": "TBE FSME-IMMUN BAG",
+    "disease": [
+      {
+        "712986001": "Tickborne encephalitis"
+      }
+    ]
+  },
+  "7311000087102": {
+    "displayName": "Typh-I TYPHIM Vi SP",
+    "disease": [
+      {
+        "4834000": "Typhoid fever"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "7361000087100": {
+    "displayName": "IPV IMOVAX Polio SP",
+    "disease": [
+      {
+        "398102009": "Poliomyelitis"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "7411000087108": {
+    "displayName": "LZV ZOSTAVAX MC",
+    "disease": [
+      {
+        "4740000": "Shingles"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "7461000087105": {
+    "displayName": "DTaP-IPV INFANRIX-IPV GSK",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "31571000087102": {
+    "displayName": "Inf FLUZONE High-Dose Quadrivalent SP",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "33411000087109": {
+    "displayName": "COVID-19 CoviVac",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "33461000087106": {
+    "displayName": "COVID-19 Sputnik Light",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "34611000087105": {
+    "displayName": "COVID-19 COMIRNATY (original strain) pediatric 3 mcg/0.2 mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "37311000087109": {
+    "displayName": "COVID-19 SPIKEVAX Bivalent (Original / Omicron BA.1) 0.10 mg/mL mRNA Mod",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "51461000087108": "Moderna Biopharma Canada Corporation (supplier)"
+      }
+    ]
+  },
+  "37881000087105": {
+    "displayName": "Pneu-C-20 PREVNAR 20 Pfiz",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27241000087103": "Pfizer Canada ULC (supplier)"
+      }
+    ]
+  },
+  "45391000087107": {
+    "displayName": "COVID-19 VidPrevtyn Beta SP",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "51471000087104": {
+    "displayName": "COVID-19 COMIRNATY Omicron XBB.1.5 30 mcg/0.3mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "51621000087101": {
+    "displayName": "COVID-19 COMIRNATY Omicron XBB.1.5 pediatric 10 mcg/0.2 mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "6861000087105": {
+    "displayName": "HA AVAXIM - Pediatric SP",
+    "disease": [
+      {
+        "40468003": "Hepatitis A"
+      }
+    ],
+    "MAH": [
+      {
+        "27291000087105": "Sanofi Pasteur SA (supplier)"
+      }
+    ]
+  },
+  "6911000087104": {
+    "displayName": "HB Engerix B GSK",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "6961000087102": {
+    "displayName": "HAHB Twinrix Junior GSK",
+    "disease": [
+      {
+        "40468003": "Hepatitis A",
+        "66071002": "Hepatitis B"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "7041000087104": {
+    "displayName": "Hib Hiberix GSK",
+    "disease": [
+      {
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "7111000087104": {
+    "displayName": "Men-P-ACYW-135 MENOMUNE-A/C/Y/W-135 SP",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "34631000087100": {
+    "displayName": "Anth BioThrax EBOL",
+    "disease": [
+      {
+        "409498004": "Anthrax"
+      }
+    ],
+    "MAH": [
+      {
+        "34621000087102": "Emergent BioDefense Operations Lansing LLC (supplier)"
+      }
+    ]
+  },
+  "37651000087101": {
+    "displayName": "COVID-19 SPIKEVAX Bivalent (Original / Omicron BA.4/BA.5) 0.10 mg/mL mRNA Mod",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "51461000087108": "Moderna Biopharma Canada Corporation (supplier)"
+      }
+    ]
+  },
+  "37891000087107": {
+    "displayName": "Pneu-C-15 VAXNEUVANCE Merck",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "45401000087105": {
+    "displayName": "Inf FOCLIVIA SEQ",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27321000087103": "Seqirus UK Limited (supplier)"
+      }
+    ]
+  },
+  "51481000087102": {
+    "displayName": "COVID-19 SPIKEVAX XBB.1.5 0.10 mg/mL mRNA Mod",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "51461000087108": "Moderna Biopharma Canada Corporation (supplier)"
+      }
+    ]
+  },
+  "55351000087104": {
+    "displayName": "RSV ABRYSVO Pfiz",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ],
+    "MAH": [
+      {
+        "27241000087103": "Pfizer Canada ULC (supplier)"
+      }
+    ]
+  },
+  "6871000087101": {
+    "displayName": "HA Havrix 1440 GSK",
+    "disease": [
+      {
+        "40468003": "Hepatitis A"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "6921000087107": {
+    "displayName": "HB Engerix B pediatric GSK",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "6971000087106": {
+    "displayName": "HAHB Twinrix GSK",
+    "disease": [
+      {
+        "40468003": "Hepatitis A",
+        "66071002": "Hepatitis B"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "7051000087101": {
+    "displayName": "Hib Liquid PedvaxHIB MC",
+    "disease": [
+      {
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "7131000087109": {
+    "displayName": "Men-C-ACYW-135 Menactra SP",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "7181000087108": {
+    "displayName": "MMR-Var PRIORIX-TETRA GSK",
+    "disease": [
+      {
+        "14189004": "Measles",
+        "36653000": "Rubella",
+        "36989005": "Mumps",
+        "38907003": "Varicella"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "33881000087102": {
+    "displayName": "COVID-19 COMIRNATY (original strain) tris-sucrose 30 mcg/0.3 mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "34921000087108": {
+    "displayName": "COVID-19 COVOVAX",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "37691000087106": {
+    "displayName": "COVID-19 COMIRNATY Original & Omicron BA.4/BA.5 30 mcg/0.3 mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "37901000087108": {
+    "displayName": "Typh-O Vivotif ETH",
+    "disease": [
+      {
+        "4834000": "Typhoid fever"
+      }
+    ]
+  },
+  "45411000087107": {
+    "displayName": "EZV ERVEBO Merck",
+    "disease": [
+      {
+        "45901000087102": "Zaire Ebolavirus disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "51491000087100": {
+    "displayName": "COVID-19 NUVAXOVID Omicron XBB.1.5 Nova",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29951000087102": "Novavax Inc. (supplier)"
+      }
+    ]
+  },
+  "56051000087108": {
+    "displayName": "Men-C-ACYW MenQuadfi SP",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "6881000087104": {
+    "displayName": "HA Havrix 720 Junior GSK",
+    "disease": [
+      {
+        "40468003": "Hepatitis A"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "6931000087109": {
+    "displayName": "HB RECOMBIVAX HB pediatric Merck",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "7011000087100": {
+    "displayName": "BCG Vaccine SP",
+    "disease": [
+      {
+        "56717001": "Tuberculosis"
+      }
+    ]
+  },
+  "7061000087103": {
+    "displayName": "Men-C-C Meningitec BB",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "7141000087103": {
+    "displayName": "Men-C-ACYW-135 Menveo NVD",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27191000087103": "Novartis Vaccines and Diagnostics Inc. (supplier)"
+      }
+    ]
+  },
+  "7191000087105": {
+    "displayName": "Rota ROTARIX GSK",
+    "disease": [
+      {
+        "18624000": "Rotavirus infection"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "7201000087107": {
+    "displayName": "Rota RotaTeq Merck",
+    "disease": [
+      {
+        "18624000": "Rotavirus infection"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "7301000087104": {
+    "displayName": "Typh-I TYPHERIX GSK",
+    "disease": [
+      {
+        "4834000": "Typhoid fever"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "7351000087103": {
+    "displayName": "HPV-4 GARDASIL MC",
+    "disease": [
+      {
+        "240532009": "Human papilloma virus infection"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "7401000087106": {
+    "displayName": "Chol-Ecol-O DUKORAL CSA",
+    "disease": [
+      {
+        "11840006": "Traveler's diarrhea",
+        "63650001": "Cholera"
+      }
+    ],
+    "MAH": [
+      {
+        "27021000087100": "Crucell Sweden AB (supplier)"
+      }
+    ]
+  },
+  "7451000087107": {
+    "displayName": "DTaP-HB-IPV-Hib INFANRIX hexa GSK",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "66071002": "Hepatitis B",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "7501000087105": {
+    "displayName": "DTaP-IPV-Hib INFANRIX-IPV/Hib GSK",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "7561000087109": {
+    "displayName": "Inf Vaxigrip SP",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27291000087105": "Sanofi Pasteur SA (supplier)"
+      }
+    ]
+  },
+  "7611000087106": {
+    "displayName": "Inf Intanza 15 micrograms SP",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27291000087105": "Sanofi Pasteur SA (supplier)"
+      }
+    ]
+  },
+  "7511000087107": {
+    "displayName": "DTaP-IPV-Hib PENTACEL SP",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "7571000087100": {
+    "displayName": "Inf FLUMIST AZC",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "26881000087109": "AstraZeneca Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "7621000087103": {
+    "displayName": "Inf INFLUVAC API",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "7681000087102": {
+    "displayName": "Pneu-C-13 Prevnar 13 Pfiz",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27241000087103": "Pfizer Canada ULC (supplier)"
+      }
+    ]
+  },
+  "7171000087106": {
+    "displayName": "MMR PRIORIX GSK",
+    "disease": [
+      {
+        "14189004": "Measles",
+        "36653000": "Rubella",
+        "36989005": "Mumps"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "7221000087101": {
+    "displayName": "YF-VAX SP",
+    "disease": [
+      {
+        "16541001": "Yellow fever"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "7321000087105": {
+    "displayName": "Typh-O Vivotif CS",
+    "disease": [
+      {
+        "4834000": "Typhoid fever"
+      }
+    ]
+  },
+  "7371000087109": {
+    "displayName": "Td ADSORBED with preservative SP",
+    "disease": [
+      {
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "7421000087100": {
+    "displayName": "DTaP Tripacel Hybrid SP",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397430003": "Diphtheria"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "7471000087101": {
+    "displayName": "DTaP-IPV QUADRACEL SP",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "7521000087104": {
+    "displayName": "DTaP-IPV-Hib PEDIACEL SP",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "7231000087104": {
+    "displayName": "VARILRIX 3300000 plaque forming units per 0.5 milliliter powder and diluent for solution for injection GlaxoSmithKline Inc.",
+    "disease": [
+      {
+        "38907003": "Varicella"
+      }
+    ]
+  },
+  "7331000087107": {
+    "displayName": "HA-Typh-I ViVAXIM SP",
+    "disease": [
+      {
+        "4834000": "Typhoid fever",
+        "40468003": "Hepatitis A"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "7381000087106": {
+    "displayName": "Rab Imovax Rabies SP",
+    "disease": [
+      {
+        "14168008": "Rabies"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "7431000087103": {
+    "displayName": "Tdap ADACEL SP",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "7481000087104": {
+    "displayName": "Tdap-IPV ADACEL-POLIO SP",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "7531000087102": {
+    "displayName": "Td-IPV Td Polio Adsorbed SP",
+    "disease": [
+      {
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "7241000087105": {
+    "displayName": "Var VARIVAX III Merck",
+    "disease": [
+      {
+        "38907003": "Varicella"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "7341000087101": {
+    "displayName": "HPV-2 CERVARIX GSK",
+    "disease": [
+      {
+        "240532009": "Human papilloma virus infection"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "7391000087108": {
+    "displayName": "Rab RabAvert NVD",
+    "disease": [
+      {
+        "14168008": "Rabies"
+      }
+    ],
+    "MAH": [
+      {
+        "27171000087102": "Novartis Vaccines and Diagnostics (supplier)"
+      }
+    ]
+  },
+  "7441000087109": {
+    "displayName": "Tdap BOOSTRIX GSK",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "7491000087102": {
+    "displayName": "Tdap-IPV BOOSTRIX-POLIO GSK",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "7541000087108": {
+    "displayName": "Inf FLUVIRAL IDB",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27101000087107": "ID Biomedical Corporation of Quebec (supplier)"
+      }
+    ]
+  },
+  "7601000087109": {
+    "displayName": "Inf Intanza 9 micrograms SP",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27291000087105": "Sanofi Pasteur SA (supplier)"
+      }
+    ]
+  },
+  "7651000087105": {
+    "displayName": "Pneu-C-7 Prevnar Pfiz",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27231000087109": "Pfizer Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "7671000087104": {
+    "displayName": "Pneu-C-10 SYNFLORIX GSK",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27071000087101": "GlaxoSmithKline Inc. (supplier)"
+      }
+    ]
+  },
+  "7581000087103": {
+    "displayName": "Inf Agriflu NVD",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27191000087103": "Novartis Vaccines and Diagnostics Inc. (supplier)"
+      }
+    ]
+  },
+  "7631000087101": {
+    "displayName": "Pneu-P-23 Pneumo 23 SP",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27291000087105": "Sanofi Pasteur SA (supplier)"
+      }
+    ]
+  },
+  "8651000087109": {
+    "displayName": "Inf FLUZONE SP",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27291000087105": "Sanofi Pasteur SA (supplier)"
+      }
+    ]
+  },
+  "7591000087101": {
+    "displayName": "Inf FLUAD NVD",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27191000087103": "Novartis Vaccines and Diagnostics Inc. (supplier)"
+      }
+    ]
+  },
+  "7641000087107": {
+    "displayName": "Pneu-P-23 Pneumovax 23 Merck",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "9851000087104": {
+    "displayName": "HA Epaxal Berna SSV",
+    "disease": [
+      {
+        "40468003": "Hepatitis A"
+      }
+    ]
+  },
+  "19301000087107": {
+    "displayName": "DAtx Diphtheria Antitoxin B.P. VINS",
+    "disease": [
+      {
+        "397428000": "Diphtheria"
+      }
+    ],
+    "MAH": [
+      {
+        "27361000087108": "VINS Bioproducts Limited (supplier)"
+      }
+    ]
+  },
+  "19331000087104": {
+    "displayName": "CMVIg Cytogam CSL",
+    "disease": [
+      {
+        "28944009": "Cytomegalovirus disease"
+      }
+    ]
+  },
+  "19361000087106": {
+    "displayName": "BAtx Botulism Antitoxin Behring NVD",
+    "disease": [
+      {
+        "1149327007": "Poisoning caused by Clostridium botulinum toxin"
+      }
+    ],
+    "MAH": [
+      {
+        "27171000087102": "Novartis Vaccines and Diagnostics (supplier)"
+      }
+    ]
+  },
+  "19411000087103": {
+    "displayName": "RSVAb SYNAGIS BI",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ],
+    "MAH": [
+      {
+        "28381000087103": "Boehringer Ingelheim (BI) Pharma KG (supplier)"
+      }
+    ]
+  },
+  "19391000087103": {
+    "displayName": "Ig GamaSTAN S/D Grif",
+    "disease": [
+      {
+        "14189004": "Measles"
+      }
+    ],
+    "MAH": [
+      {
+        "27091000087102": "Grifols Therapeutics Inc. (supplier)"
+      }
+    ]
+  },
+  "19421000087106": {
+    "displayName": "BIG-IV BabyBIG CDPH",
+    "disease": [
+      {
+        "1149327007": "Poisoning caused by Clostridium botulinum toxin"
+      }
+    ],
+    "MAH": [
+      {
+        "26991000087103": "California Department of Public Health (supplier)"
+      }
+    ]
+  },
+  "19471000087105": {
+    "displayName": "Ig IMMUNE SERUM GLOBULIN (HUMAN) Grif",
+    "disease": [
+      {
+        "14189004": "Measles"
+      }
+    ],
+    "MAH": [
+      {
+        "27091000087102": "Grifols Therapeutics Inc. (supplier)"
+      }
+    ]
+  },
+  "21941000087104": {
+    "displayName": "BAtx BAT Cang",
+    "disease": [
+      {
+        "1149327007": "Poisoning caused by Clostridium botulinum toxin"
+      }
+    ],
+    "MAH": [
+      {
+        "27001000087106": "Cangene Corporation (supplier)"
+      }
+    ]
+  },
+  "19431000087108": {
+    "displayName": "DAtx Diphtheria antitoxin IOI",
+    "disease": [
+      {
+        "397428000": "Diphtheria"
+      }
+    ]
+  },
+  "26531000087108": {
+    "displayName": "CMVIg Cytogam STR",
+    "disease": [
+      {
+        "28944009": "Cytomegalovirus disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27301000087109": "Saol Therapeutics Research Limited (supplier)"
+      }
+    ]
+  },
+  "23751000087102": {
+    "displayName": "BAtx BAT EBS",
+    "disease": [
+      {
+        "1149327007": "Poisoning caused by Clostridium botulinum toxin"
+      }
+    ],
+    "MAH": [
+      {
+        "27051000087107": "Emergent BioSolutions Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "28411000087101": {
+    "displayName": "HBIg HyperHEP B S/D 220 IU/mL Grif",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ],
+    "MAH": [
+      {
+        "27081000087104": "Grifols Canada Limited (supplier)"
+      }
+    ]
+  },
+  "45871000087102": {
+    "displayName": "HBIg HyperHEP B 220 IU/mL Grif",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ],
+    "MAH": [
+      {
+        "27091000087102": "Grifols Therapeutics Inc. (supplier)"
+      }
+    ]
+  },
+  "7971000087108": {
+    "displayName": "RabIg IMOGAM SP",
+    "disease": [
+      {
+        "14168008": "Rabies"
+      }
+    ],
+    "MAH": [
+      {
+        "27291000087105": "Sanofi Pasteur SA (supplier)"
+      }
+    ]
+  },
+  "26591000087109": {
+    "displayName": "VarIg VariZIG STR",
+    "disease": [
+      {
+        "38907003": "Varicella"
+      }
+    ],
+    "MAH": [
+      {
+        "27301000087109": "Saol Therapeutics Research Limited (supplier)"
+      }
+    ]
+  },
+  "30901000087107": {
+    "displayName": "DAtx Diphtheria Antitoxin (DAT) IBB",
+    "disease": [
+      {
+        "397428000": "Diphtheria"
+      }
+    ],
+    "MAH": [
+      {
+        "30891000087106": "Instituto Butantan Brasil (supplier)"
+      }
+    ]
+  },
+  "29721000087106": {
+    "displayName": "Ig GamaSTAN Grif",
+    "disease": [
+      {
+        "14189004": "Measles"
+      }
+    ],
+    "MAH": [
+      {
+        "27091000087102": "Grifols Therapeutics Inc. (supplier)"
+      }
+    ]
+  },
+  "45881000087100": {
+    "displayName": "HBIg HyperHEP B 110 IU/0.5 mL Grif",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ],
+    "MAH": [
+      {
+        "27091000087102": "Grifols Therapeutics Inc. (supplier)"
+      }
+    ]
+  },
+  "7981000087105": {
+    "displayName": "TIg HYPERTET S/D Grif",
+    "disease": [
+      {
+        "76902006": "Tetanus"
+      }
+    ],
+    "MAH": [
+      {
+        "27081000087104": "Grifols Canada Limited (supplier)"
+      }
+    ]
+  },
+  "26561000087101": {
+    "displayName": "HBIg HepaGam B STR",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ],
+    "MAH": [
+      {
+        "27301000087109": "Saol Therapeutics Research Limited (supplier)"
+      }
+    ]
+  },
+  "33841000087107": {
+    "displayName": "TIg HyperTET Grif",
+    "disease": [
+      {
+        "76902006": "Tetanus"
+      }
+    ],
+    "MAH": [
+      {
+        "27091000087102": "Grifols Therapeutics Inc. (supplier)"
+      }
+    ]
+  },
+  "7961000087104": {
+    "displayName": "RabIg HYPERRAB S/D Grif",
+    "disease": [
+      {
+        "14168008": "Rabies"
+      }
+    ],
+    "MAH": [
+      {
+        "27081000087104": "Grifols Canada Limited (supplier)"
+      }
+    ]
+  },
+  "28361000087109": {
+    "displayName": "RabIg KamRAB KAM",
+    "disease": [
+      {
+        "14168008": "Rabies"
+      }
+    ],
+    "MAH": [
+      {
+        "28401000087103": "Kamada Ltd (supplier)"
+      }
+    ]
+  },
+  "31551000087108": {
+    "displayName": "RabIg HyperRAB Grif",
+    "disease": [
+      {
+        "14168008": "Rabies"
+      }
+    ],
+    "MAH": [
+      {
+        "27091000087102": "Grifols Therapeutics Inc. (supplier)"
+      }
+    ]
+  },
+  "7951000087102": {
+    "displayName": "HBIg HyperHEP B Grif",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ]
+  },
+  "7941000087100": {
+    "displayName": "HBIg HepaGam B Cang",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ]
+  },
+  "7991000087107": {
+    "displayName": "VarIg VariZIG Cang",
+    "disease": [
+      {
+        "38907003": "Varicella"
+      }
+    ]
+  },
+  "56761000087108": {
+    "displayName": "Sma ACAM2000 EPDG",
+    "disease": [
+      {
+        "67924001": "Smallpox"
+      }
+    ],
+    "MAH": [
+      {
+        "56751000087105": "Emergent Product Development Gaithersburg Inc. (supplier)"
+      }
+    ]
+  },
+  "57881000087106": {
+    "displayName": "Inf AREPANRIX H5N1 IDB",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ],
+    "MAH": [
+      {
+        "27101000087107": "ID Biomedical Corporation of Quebec (supplier)"
+      }
+    ]
+  },
+  "57871000087109": {
+    "displayName": "RSVAb SYNAGIS AZC",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ],
+    "MAH": [
+      {
+        "26881000087109": "AstraZeneca Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "57911000087106": {
+    "displayName": "HBIg HepaGam B KIB",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ],
+    "MAH": [
+      {
+        "57851000087103": "KI BioPharma LLC (supplier)"
+      }
+    ]
+  },
+  "57901000087109": {
+    "displayName": "CMVIg Cytogam KIB",
+    "disease": [
+      {
+        "28944009": "Cytomegalovirus disease"
+      }
+    ],
+    "MAH": [
+      {
+        "57851000087103": "KI BioPharma LLC (supplier)"
+      }
+    ]
+  },
+  "57891000087108": {
+    "displayName": "VarIg VariZIG KIB",
+    "disease": [
+      {
+        "38907003": "Varicella"
+      }
+    ],
+    "MAH": [
+      {
+        "57851000087103": "KI BioPharma LLC (supplier)"
+      }
+    ]
+  },
+  "57861000087100": {
+    "displayName": "Typh-O Vivotif BN",
+    "disease": [
+      {
+        "4834000": "Typhoid fever"
+      }
+    ],
+    "MAH": [
+      {
+        "26921000087101": "Bavarian Nordic AS (supplier)"
+      }
+    ]
+  },
+  "58291000087105": {
+    "displayName": "RSVAb BEYFORTUS 100 mg/1 mL syringe SP",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "58301000087109": {
+    "displayName": "RSVAb BEYFORTUS 50 mg/0.5 mL syringe SP",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ],
+    "MAH": [
+      {
+        "27281000087108": "Sanofi Pasteur Limited (supplier)"
+      }
+    ]
+  },
+  "60261000087109": {
+    "displayName": "Chol-O VAXCHORA BN",
+    "disease": [
+      {
+        "11840006": "Traveler's diarrhea",
+        "63650001": "Cholera"
+      }
+    ],
+    "MAH": [
+      {
+        "26921000087101": "Bavarian Nordic AS (supplier)"
+      }
+    ]
+  },
+  "60671000087102": {
+    "displayName": "COVID-19 SPIKEVAX 0.10 mg/mL mRNA Mod",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "51461000087108": "Moderna Biopharma Canada Corporation (supplier)"
+      }
+    ]
+  },
+  "60681000087100": {
+    "displayName": "COVID-19 COMIRNATY 30 mcg/0.3 mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "60851000087107": {
+    "displayName": "COVID-19 NUVAXOVID Nova",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29951000087102": "Novavax Inc. (supplier)"
+      }
+    ]
+  },
+  "60831000087103": {
+    "displayName": "COVID-19 COMIRNATY pediatric 10 mcg/0.2 mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "60841000087109": {
+    "displayName": "COVID-19 COMIRNATY pediatric 10 mcg/0.3 mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "60891000087102": {
+    "displayName": "COVID-19 COMIRNATY pediatric 3 mcg/0.2 mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "60601000087107": {
+    "displayName": "Pneu-C-21 CAPVAXIVE Merck",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ],
+    "MAH": [
+      {
+        "27161000087106": "Merck Canada Inc. (supplier)"
+      }
+    ]
+  },
+  "61241000087101": {
+    "displayName": "Chik IXCHIQ VAL",
+    "disease": [
+      {
+        "111864006": "Chikungunya fever"
+      }
+    ],
+    "MAH": [
+      {
+        "27371000087104": "Valneva Austria GmbH (supplier)"
+      }
+    ]
+  },
+  "61431000087108": {
+    "displayName": "COVID-19 COMIRNATY pediatric 3 mcg/0.3 mL mRNA PB",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ],
+    "MAH": [
+      {
+        "29141000087103": "BioNTech Manufacturing GmbH (supplier)"
+      }
+    ]
+  },
+  "61761000087105": {
+    "displayName": "RSV mRESVIA mRNA Mod",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ],
+    "MAH": [
+      {
+        "51461000087108": "Moderna Biopharma Canada Corporation (supplier)"
+      }
+    ]
+  },
+  "21911000087100": {
+    "displayName": "BAtx botulism antitoxin heptavalent unspecified",
+    "disease": [
+      {
+        "414531002": "Intoxication with Clostridium botulinum toxin"
+      }
+    ]
+  },
+  "20891000087108": {
+    "displayName": "Vaccinia immune globulin"
+  },
+  "19451000087104": {
+    "displayName": "Hepatitis A antigen pediatric strength"
+  },
+  "291000221101": {
+    "displayName": "Typhoid antigen"
+  },
+  "51291000087101": {
+    "displayName": "RSV glycoprotein F antigen"
+  },
+  "7091000087106": {
+    "displayName": "Men-P-AC meningococcal polysaccharide A + C unspecified",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "7101000087101": {
+    "displayName": "Men-P-ACYW-135 meningococcal polysaccharide A + C + Y + W-135 unspecified",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "19341000087105": {
+    "displayName": "Hepatitis A antigen regular strength"
+  },
+  "21721000087105": {
+    "displayName": "Men-C-AC meningococcal conjugate A + C unspecified",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "27841000087102": {
+    "displayName": "Non-live Human alphaherpesvirus 3 antigen"
+  },
+  "30131000087101": {
+    "displayName": "Antigen of SARS-CoV-2 virus-like particle"
+  },
+  "52821000087108": {
+    "displayName": "Men-C-A meningococcal conjugate A unspecified",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "7781000087107": {
+    "displayName": "ap pertussis acellular adult unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis"
+      }
+    ]
+  },
+  "8301000087103": {
+    "displayName": "Inactivated poliomyelitis antigen"
+  },
+  "19371000087102": {
+    "displayName": "HA hepatitis A regular strength unspecified",
+    "disease": [
+      {
+        "40468003": "Hepatitis A"
+      }
+    ]
+  },
+  "21901000087102": {
+    "displayName": "Men-C-CY meningococcal conjugate C + Y unspecified",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "28441000087100": {
+    "displayName": "Var varicella unspecified",
+    "disease": [
+      {
+        "38907003": "Varicella"
+      }
+    ]
+  },
+  "45771000087109": {
+    "displayName": "Zaire ebolavirus antigen"
+  },
+  "161000221102": {
+    "displayName": "Diphtheria toxoid"
+  },
+  "20861000087100": {
+    "displayName": "HPV-9 human papillomavirus 9-valent unspecified",
+    "disease": [
+      {
+        "240532009": "Human papilloma virus infection"
+      }
+    ]
+  },
+  "29301000087104": {
+    "displayName": "SARS-CoV-2 recombinant spike protein antigen"
+  },
+  "51581000087101": {
+    "displayName": "Enterovirus A71 antigen"
+  },
+  "8451000087106": {
+    "displayName": "Tetanus toxoid"
+  },
+  "8611000087105": {
+    "displayName": "Diphtheria toxoid low dose"
+  },
+  "9811000087103": {
+    "displayName": "HA hepatitis A pediatric strength unspecified",
+    "disease": [
+      {
+        "40468003": "Hepatitis A"
+      }
+    ]
+  },
+  "551000221106": {
+    "displayName": "Tetanus toxoid"
+  },
+  "7121000087107": {
+    "displayName": "Men-C-ACYW meningococcal conjugate A + C + Y + W unspecified",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "19381000087100": {
+    "displayName": "Hepatitis B antigen pediatric strength"
+  },
+  "23021000087106": {
+    "displayName": "Varicella-zoster virus surface glycoprotein E antigen"
+  },
+  "28451000087102": {
+    "displayName": "Zos herpes zoster unspecified",
+    "disease": [
+      {
+        "4740000": "Shingles"
+      }
+    ]
+  },
+  "7741000087102": {
+    "displayName": "d diphtheria adult unspecified",
+    "disease": [
+      {
+        "397428000": "Diphtheria"
+      }
+    ]
+  },
+  "7801000087108": {
+    "displayName": "HPV-4 human papillomavirus quadrivalent unspecified",
+    "disease": [
+      {
+        "240532009": "Human papilloma virus infection"
+      }
+    ]
+  },
+  "8361000087104": {
+    "displayName": "Typhoid antigen"
+  },
+  "8471000087100": {
+    "displayName": "Vi polysaccharide typhoid antigen"
+  },
+  "8631000087100": {
+    "displayName": "Pertussis antigen standard dose"
+  },
+  "8741000087101": {
+    "displayName": "Hepatitis B antigen dialysis strength"
+  },
+  "7701000087100": {
+    "displayName": "D diphtheria pediatric unspecified",
+    "disease": [
+      {
+        "397428000": "Diphtheria"
+      }
+    ]
+  },
+  "7791000087109": {
+    "displayName": "HPV-2 human papillomavirus bivalent unspecified",
+    "disease": [
+      {
+        "240532009": "Human papilloma virus infection"
+      }
+    ]
+  },
+  "8351000087102": {
+    "displayName": "Tick-borne encephalitis virus antigen"
+  },
+  "45781000087106": {
+    "displayName": "Live attenuated Zaire ebolavirus antigen"
+  },
+  "561000221108": {
+    "displayName": "Live attenuated Varicellovirus humanalpha3 antigen"
+  },
+  "7761000087101": {
+    "displayName": "wP pertussis whole cell pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis"
+      }
+    ]
+  },
+  "7811000087105": {
+    "displayName": "Rota-1 rotavirus monovalent unspecified",
+    "disease": [
+      {
+        "18624000": "Rotavirus infection"
+      }
+    ]
+  },
+  "8591000087100": {
+    "displayName": "Acellular pertussis antigen low dose"
+  },
+  "8461000087109": {
+    "displayName": "Typhoid live attenuated Ty21a antigen"
+  },
+  "8621000087102": {
+    "displayName": "Diphtheria toxoid standard dose"
+  },
+  "8731000087107": {
+    "displayName": "Hepatitis B antigen regular strength"
+  },
+  "9831000087108": {
+    "displayName": "HB hepatitis B pediatric strength unspecified",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ]
+  },
+  "7771000087105": {
+    "displayName": "aP pertussis acellular pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis"
+      }
+    ]
+  },
+  "8771000087109": {
+    "displayName": "HB hepatitis B regular strength unspecified",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ]
+  },
+  "7821000087102": {
+    "displayName": "Rota-5 rotavirus pentavalent unspecified",
+    "disease": [
+      {
+        "18624000": "Rotavirus infection"
+      }
+    ]
+  },
+  "8601000087108": {
+    "displayName": "Acellular pertussis antigen standard dose"
+  },
+  "8641000087106": {
+    "displayName": "Pertussis antigen low dose"
+  },
+  "8781000087106": {
+    "displayName": "HB hepatitis B dialysis strength unspecified",
+    "disease": [
+      {
+        "66071002": "Hepatitis B"
+      }
+    ]
+  },
+  "8681000087101": {
+    "displayName": "Rota G2 serotype antigen"
+  },
+  "8701000087104": {
+    "displayName": "Rota G4 serotype antigen"
+  },
+  "8581000087102": {
+    "displayName": "Meningococcal polysaccharide group Y antigen"
+  },
+  "8571000087104": {
+    "displayName": "Meningococcal polysaccharide group W-135 antigen"
+  },
+  "8511000087106": {
+    "displayName": "Meningococcal conjugate group A antigen"
+  },
+  "8491000087101": {
+    "displayName": "Acellular pertussis antigen"
+  },
+  "8281000087104": {
+    "displayName": "Human papillomavirus, type 11 antigen"
+  },
+  "8751000087103": {
+    "displayName": "Rota G1 (P8) serotype antigen"
+  },
+  "8551000087105": {
+    "displayName": "Meningococcal polysaccharide group A antigen"
+  },
+  "8501000087109": {
+    "displayName": "Diphtheria toxoid"
+  },
+  "8481000087103": {
+    "displayName": "Whole cell pertussis antigen"
+  },
+  "8721000087105": {
+    "displayName": "Smallpox antigen"
+  },
+  "8691000087104": {
+    "displayName": "Rota G3 serotype antigen"
+  },
+  "8251000087107": {
+    "displayName": "Bacillus Calmette Guerin antigen"
+  },
+  "8271000087101": {
+    "displayName": "Hepatitis A antigen"
+  },
+  "8291000087102": {
+    "displayName": "Human papillomavirus, type 6 antigen"
+  },
+  "8331000087106": {
+    "displayName": "Plague antigen"
+  },
+  "8531000087101": {
+    "displayName": "Meningococcal conjugate group W-135 antigen"
+  },
+  "8661000087107": {
+    "displayName": "Enterotoxigenic e. coli antigen"
+  },
+  "8341000087100": {
+    "displayName": "Poliomyelitis antigen"
+  },
+  "8321000087109": {
+    "displayName": "Lyme antigen"
+  },
+  "8261000087105": {
+    "displayName": "Cholera antigen"
+  },
+  "8671000087103": {
+    "displayName": "Rota G1 serotype antigen"
+  },
+  "8711000087102": {
+    "displayName": "Rota P1A (8) serotype antigen"
+  },
+  "8411000087107": {
+    "displayName": "Pneumococcal conjugate antigen"
+  },
+  "8391000087107": {
+    "displayName": "Meningococcal polysaccharide antigen"
+  },
+  "8381000087105": {
+    "displayName": "Meningococcal conjugate antigen"
+  },
+  "8561000087108": {
+    "displayName": "Meningococcal polysaccharide group C antigen"
+  },
+  "8521000087103": {
+    "displayName": "Meningococcal conjugate group C antigen"
+  },
+  "8541000087107": {
+    "displayName": "Meningococcal conjugate group Y antigen"
+  },
+  "8371000087108": {
+    "displayName": "Yellow fever antigen"
+  },
+  "8311000087101": {
+    "displayName": "Live poliomyelitis antigen"
+  },
+  "58331000087101": {
+    "displayName": "Nirsevimab"
+  },
+  "51451000087105": {
+    "displayName": "Pneu-C-13 pneumococcal conjugate 13-valent unspecified",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "7251000087108": {
+    "displayName": "Pneu-P-23 pneumococcal polysaccharide 23-valent unspecified",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "1801000221105": {
+    "displayName": "Pneu-C pneumococcal conjugate unspecified",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "28481000087105": {
+    "displayName": "Pneu-P pneumococcal polysaccharide unspecified",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "581000221101": {
+    "displayName": "Cholera live attenuated antigen"
+  },
+  "60591000087104": {
+    "displayName": "Pneu-C-21 pneumococcal conjugate 21-valent unspecified",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "61221000087105": {
+    "displayName": "Monoclonal antibody to Human respiratory syncytial virus"
+  },
+  "151000221104": {
+    "displayName": "Corynebacterium diphtheriae antigen"
+  },
+  "571000221104": {
+    "displayName": "Vibrio cholerae antigen"
+  },
+  "541000221109": {
+    "displayName": "Clostridium tetani antigen"
+  },
+  "591000221103": {
+    "displayName": "Inactivated whole Vibrio cholerae antigen"
+  },
+  "61731000087103": {
+    "displayName": "RSV (respiratory syncytial virus) mRNA"
+  },
+  "1051000221104": {
+    "displayName": "OPV poliomyelitis live unspecified",
+    "disease": [
+      {
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "19461000087101": {
+    "displayName": "Men-B meningococcal B unspecified",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "20681000087105": {
+    "displayName": "Men-C-CY-Hib meningococcal conjugate C + Y + Haemophilus influenzae type b unspecified",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ]
+  },
+  "23701000087103": {
+    "displayName": "DTaP-Hib diphtheria + tetanus + acellular pertussis + Haemophilus influenzae type b pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ]
+  },
+  "319941000221104": {
+    "displayName": "BCG Bacillus Calmette Guerin unspecified",
+    "disease": [
+      {
+        "56717001": "Tuberculosis"
+      }
+    ]
+  },
+  "20591000087106": {
+    "displayName": "DPT-HB-Hib diptheria + pertussis + tetanus + hepatitis B + Haemophilus influenzae type b pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "66071002": "Hepatitis B",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ]
+  },
+  "2221000221107": {
+    "displayName": "Varicella-zoster live attenuated vaccine",
+    "disease": [
+      {
+        "38907003": "Varicella"
+      }
+    ]
+  },
+  "33381000087107": {
+    "displayName": "Inf influenza quadrivalent high-dose unspecified",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "45891000087103": {
+    "displayName": "EZV live attenuated Zaire ebolavirus unspecified",
+    "disease": [
+      {
+        "45901000087102": "Zaire Ebolavirus disease"
+      }
+    ]
+  },
+  "601000221108": {
+    "displayName": "Pertussis unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis"
+      }
+    ]
+  },
+  "19401000087100": {
+    "displayName": "Inf influenza quadrivalent unspecified",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "20641000087100": {
+    "displayName": "DTaP-HB-IPV diphtheria + tetanus + acellular pertussis + hepatitis b + inactivated poliomyelitis pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "66071002": "Hepatitis B",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "1981000221108": {
+    "displayName": "Men-B meningococcal B unspecified",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "20851000087103": {
+    "displayName": "Men-C-CY-Hib MENHIBRIX GSK",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ]
+  },
+  "21921000087108": {
+    "displayName": "Inf influenza trivalent high-dose unspecified",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "1181000221105": {
+    "displayName": "Inf influenza unspecified",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "20601000087103": {
+    "displayName": "DPT-HB diptheria + pertussis + tetanus + hepatitis B pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "66071002": "Hepatitis B",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria"
+      }
+    ]
+  },
+  "2171000221104": {
+    "displayName": "Typh-I typhoid polysaccharide injectable unspecified",
+    "disease": [
+      {
+        "4834000": "Typhoid fever"
+      }
+    ]
+  },
+  "24371000087105": {
+    "displayName": "HAHB Hepatitis A + B regular strength unspecified",
+    "disease": [
+      {
+        "40468003": "Hepatitis A",
+        "66071002": "Hepatitis B"
+      }
+    ]
+  },
+  "28531000087107": {
+    "displayName": "COVID-19 unspecified",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "6981000087108": {
+    "displayName": "Inf influenza A monovalent unspecified",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "7261000087106": {
+    "displayName": "Pneumococcal conjugate vaccine",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "7691000087100": {
+    "displayName": "Inf influenza trivalent unspecified",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "7841000087106": {
+    "displayName": "DTaP diphtheria + tetanus + acellular pertussis pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria"
+      }
+    ]
+  },
+  "7881000087101": {
+    "displayName": "DTaP-IPV diphtheria + tetanus + acellular pertussis + inactivated poliomyelitis pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "23681000087100": {
+    "displayName": "DTwP-HB diptheria + tetanus + whole cell pertussis + hepatitis B pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "66071002": "Hepatitis B",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria"
+      }
+    ]
+  },
+  "30141000087107": {
+    "displayName": "COVID-19 virus-like particle unspecified",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "33581000087104": {
+    "displayName": "COVID-19 pediatric mRNA unspecified",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "23001000087100": {
+    "displayName": "Zos zoster non-live adjuvanted unspecified",
+    "disease": [
+      {
+        "4740000": "Shingles"
+      }
+    ]
+  },
+  "27511000087101": {
+    "displayName": "Men-C-C meningococcal conjugate C unspecified",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "29061000087103": {
+    "displayName": "COVID-19 non-replicating vector unspecified",
+    "disease": [
+      {
+        "840539006": "COVID-19"
+      }
+    ]
+  },
+  "51311000087100": {
+    "displayName": "RSV respiratory syncytial virus unspecified",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ]
+  },
+  "56341000087108": {
+    "displayName": "LZV live attenuated herpes zoster unspecified",
+    "disease": [
+      {
+        "4740000": "Shingles"
+      }
+    ]
+  },
+  "7711000087103": {
+    "displayName": "Men-P-A meningococcal polysaccharide A unspecified",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "7931000087106": {
+    "displayName": "DTaP-IPV-Hib diphtheria + tetanus + acellular pertussis + inactivated poliomyelitis + Haemophilus influenza type b pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ]
+  },
+  "8231000087103": {
+    "displayName": "Men-C meningococcal conjugate unspecified",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "911000221103": {
+    "displayName": "HPV human papillomavirus unspecified",
+    "disease": [
+      {
+        "240532009": "Human papilloma virus infection"
+      }
+    ]
+  },
+  "981000221107": {
+    "displayName": "Pneu pneumococcal unspecified",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "45861000087106": {
+    "displayName": "PF Plasmodium falciparum unspecified",
+    "disease": [
+      {
+        "61462000": "Malaria"
+      }
+    ]
+  },
+  "51591000087104": {
+    "displayName": "EV-A71 enterovirus A71 unspecified",
+    "disease": [
+      {
+        "713456006": "Enterovirus 71 infection"
+      }
+    ]
+  },
+  "56011000087109": {
+    "displayName": "RZV recombinant herpes zoster unspecified",
+    "disease": [
+      {
+        "4740000": "Shingles"
+      }
+    ]
+  },
+  "7001000087102": {
+    "displayName": "Inf influenza A monovalent H1N1 adjuvanted unspecified",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "7281000087100": {
+    "displayName": "Measles + rubella vaccine",
+    "disease": [
+      {
+        "14189004": "Measles",
+        "36653000": "Rubella"
+      }
+    ]
+  },
+  "7901000087103": {
+    "displayName": "DT-IPV diphtheria + tetanus + inactivated poliomyelitis pediatric unspecified",
+    "disease": [
+      {
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "805595741000087102": {
+    "displayName": "Inf influenza A monovalent H1N1 unadjuvanted unspecified",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "7661000087108": {
+    "displayName": "Pneu-C-10 pneumococcal conjugate 10-valent unspecified",
+    "disease": [
+      {
+        "16814004": "Pneumococcal disease"
+      }
+    ]
+  },
+  "7731000087108": {
+    "displayName": "DTaP-HB-IPV-Hib diphtheria + tetanus + acellular pertussis + hepatitis b + inactivated poliomyelitis + Haemophilus influenzae type b pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "66071002": "Hepatitis B",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ]
+  },
+  "7831000087100": {
+    "displayName": "DPT diphtheria + pertussis + tetanus pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria"
+      }
+    ]
+  },
+  "7751000087104": {
+    "displayName": "T-IPV tetanus + inactivated poliomyelitis unspecified",
+    "disease": [
+      {
+        "76902006": "Tetanus",
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "7851000087109": {
+    "displayName": "Tdap tetanus + diphtheria + acellular pertussis adult unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria"
+      }
+    ]
+  },
+  "7891000087104": {
+    "displayName": "Tdap-IPV tetanus + diphtheria + acellular pertussis + inactivated poliomyelitis adult unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "8241000087109": {
+    "displayName": "Men-P meningococcal polysaccharide unspecified",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "621000221101": {
+    "displayName": "Pertussis acellular unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis"
+      }
+    ]
+  },
+  "7721000087106": {
+    "displayName": "Chol-Ecol-O cholera + E. coli oral unspecified",
+    "disease": [
+      {
+        "11840006": "Traveler's diarrhea",
+        "63650001": "Cholera"
+      }
+    ]
+  },
+  "961000221100": {
+    "displayName": "Typh typhoid unspecified",
+    "disease": [
+      {
+        "4834000": "Typhoid fever"
+      }
+    ]
+  },
+  "9821000087106": {
+    "displayName": "JE JE-VAX Bik",
+    "disease": [
+      {
+        "52947006": "Encephalitis, Japanese"
+      }
+    ]
+  },
+  "7871000087103": {
+    "displayName": "DPT-IPV diphtheria + pertussis + tetanus + inactivated poliomyelitis pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "7921000087109": {
+    "displayName": "DT diphtheria + tetanus pediatric unspecified",
+    "disease": [
+      {
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria"
+      }
+    ]
+  },
+  "8221000087100": {
+    "displayName": "DPTP-Hib diphtheria + pertussis + tetanus + poliomyelitis + Haemophilus influenza type b pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ]
+  },
+  "921000221108": {
+    "displayName": "Men meningococcal unspecified",
+    "disease": [
+      {
+        "23511006": "Meningococcal disease"
+      }
+    ]
+  },
+  "991000221105": {
+    "displayName": "Chol cholera unspecified",
+    "disease": [
+      {
+        "63650001": "Cholera"
+      }
+    ]
+  },
+  "7861000087107": {
+    "displayName": "DPTP diphtheria + pertussis + tetanus + poliomyelitis pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "7911000087101": {
+    "displayName": "Td-IPV tetanus + diphtheria + inactivated poliomyelitis adult unspecified",
+    "disease": [
+      {
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "8211000087108": {
+    "displayName": "DPT-Hib diphtheria + pertussis + tetanus + Haemophilus influenzae type b pediatric unspecified",
+    "disease": [
+      {
+        "27836007": "Pertussis",
+        "76902006": "Tetanus",
+        "397428000": "Diphtheria",
+        "406583002": "Haemophilus influenzae infection, invasive"
+      }
+    ]
+  },
+  "9801000087100": {
+    "displayName": "HAHB hepatitis A + B pediatric strength unspecified",
+    "disease": [
+      {
+        "40468003": "Hepatitis A",
+        "66071002": "Hepatitis B"
+      }
+    ]
+  },
+  "9841000087102": {
+    "displayName": "Inf AREPANRIX H1N1 GSK",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "971000221109": {
+    "displayName": "Typh-O typhoid live oral unspecified",
+    "disease": [
+      {
+        "4834000": "Typhoid fever"
+      }
+    ]
+  },
+  "6991000087105": {
+    "displayName": "Inf influenza A monovalent H1N1 unadjuvanted unspecified",
+    "disease": [
+      {
+        "6142004": "Influenza"
+      }
+    ]
+  },
+  "7291000087103": {
+    "displayName": "Mu mumps unspecified",
+    "disease": [
+      {
+        "36989005": "Mumps"
+      }
+    ]
+  },
+  "56831000087109": {
+    "displayName": "fIPV poliomyelitis inactivated fractional unspecified",
+    "disease": [
+      {
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "56841000087103": {
+    "displayName": "IPV poliomyelitis inactivated standard dose unspecified",
+    "disease": [
+      {
+        "398102009": "Poliomyelitis"
+      }
+    ]
+  },
+  "58321000087103": {
+    "displayName": "Nirsevimab 100 mg/1 mL solution for injection syringe",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ]
+  },
+  "58311000087106": {
+    "displayName": "Nirsevimab 50 mg/0.5 mL solution for injection syringe",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ]
+  },
+  "58531000087106": {
+    "displayName": "RSVAb respiratory syncytial virus monoclonal antibody nirsevimab unspecified",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ]
+  },
+  "1011000221100": {
+    "displayName": "Chol-O cholera live attenuated oral unspecified",
+    "disease": [
+      {
+        "11840006": "Traveler's diarrhea",
+        "63650001": "Cholera"
+      }
+    ]
+  },
+  "61231000087107": {
+    "displayName": "RSVAb respiratory syncytial virus monoclonal antibody unspecified",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ]
+  },
+  "61771000087101": {
+    "displayName": "RSV respiratory syncytial virus mRNA unspecified",
+    "disease": [
+      {
+        "55735004": "Respiratory syncytial virus infection"
+      }
+    ]
+  }
+}

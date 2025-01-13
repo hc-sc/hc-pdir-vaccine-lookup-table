@@ -14,14 +14,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      # Set up Node.js 10.2.4
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '14'  # Specify Node.js version 10.2.4
+          node-version: '14'
 
       - name: Install dependencies
         run: npm install
 
       - name: Run fetch script
         run: npm run fetch
+
+      - name: Check if files changed
+        run: |
+          git diff --exit-code || echo "Files have changed"
+
+      - name: Commit changes if files were updated
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add vaccine-table/nvc-bundle.js vaccine-table/nvc-bundle.json
+          git commit -m "Update nvc-bundle.js and nvc-bundle.json" || echo "No changes to commit"
+
+      - name: Push changes to repository
+        run: |
+          git push origin main  # Adjust if your branch is different
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
