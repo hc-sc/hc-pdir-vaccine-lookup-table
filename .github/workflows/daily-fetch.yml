@@ -1,36 +1,27 @@
 name: Daily Fetch
 
-# Trigger the workflow to run on a schedule
+# Trigger the workflow on a schedule and manually (one-time trigger)
 on:
   schedule:
-    # Runs at midnight UTC every day
-    - cron: '0 0 * * *'  # Cron syntax (0 0 * * * means daily at midnight UTC)
-
-# Optionally, you can also trigger the workflow on push or pull request
-# on:
-#   push:
-#     branches:
-#       - main
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual trigger via GitHub UI
 
 jobs:
   fetch_data:
     runs-on: ubuntu-latest
     
     steps:
-      # Step 1: Check out the code
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      # Step 2: Set up Node.js (you can specify the version needed)
+      # Set up Node.js 10.2.4
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '10.2.4'  # Specify the version of Node.js you need
+          node-version: '10.2.4'  # Specify Node.js version 10.2.4
 
-      # Step 3: Install dependencies
       - name: Install dependencies
         run: npm install
 
-      # Step 4: Run the 'fetch' script
       - name: Run fetch script
         run: npm run fetch
