@@ -1,5 +1,5 @@
 # PDIR Lookup Table Automation
-
+[![Daily Fetch](https://github.com/raviraj-mangukiya/pdir-lookup-table-automation/actions/workflows/daily-fetch.yml/badge.svg)](https://github.com/raviraj-mangukiya/pdir-lookup-table-automation/actions/workflows/daily-fetch.yml)
 ## Overview
 
 `pdir-lookup-table-automation` is a Node.js-based project designed to automate the process of interacting with and managing the PDIR (Pan-Canadian Digital Immunization records) Lookup Table. The project leverages TypeScript to define the logic and uses Node.js to run and manage the automation tasks.
