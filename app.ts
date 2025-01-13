@@ -83,8 +83,8 @@ function getExtensionValueByUrl(
   concept: Concept,
   targetUrl: string
 ): { [code: string]: string }[] {
-  const diseaseObject: { [code: string]: string } = {};
-  const findDiseaseExtensions = (extensions: Extension[]): Extension[] => {
+  const valObject: { [code: string]: string } = {};
+  const findExtensions = (extensions: Extension[]): Extension[] => {
     let result: Extension[] = [];
 
     extensions.forEach((extension) => {
@@ -93,24 +93,24 @@ function getExtensionValueByUrl(
       }
 
       if (extension.extension && Array.isArray(extension.extension)) {
-        result = result.concat(findDiseaseExtensions(extension.extension));
+        result = result.concat(findExtensions(extension.extension));
       }
     });
 
     return result;
   };
-  const diseaseExtensions = findDiseaseExtensions(concept.extension);
+  const extensions = findExtensions(concept.extension);
 
-  diseaseExtensions.forEach((ext) => {
+  extensions.forEach((ext) => {
     const coding = ext.valueCodeableConcept?.coding;
     if (coding) {
       coding.forEach((c) => {
-        diseaseObject[c.code] = c.display;
+        valObject[c.code] = c.display;
       });
     }
   });
 
-  return Object.keys(diseaseObject).length > 0 ? [diseaseObject] : [];
+  return Object.keys(valObject).length > 0 ? [valObject] : [];
 }
 
 function parseNVCBundle(data: Data) {
@@ -174,7 +174,10 @@ const main = async () => {
     }
     // Check if the versionId has been updated
     if (currentVersionId !== newVersionId) {
-        const result = parseNVCBundle(response.data);
+        const result = {
+            version: newVersionId,
+            table: parseNVCBundle(response.data),
+          };
         await fs.writeFile(path.join(__dirname, "vaccine-table/nvc-bundle.json"),
           JSON.stringify(result, null, 2),
           "utf8"
