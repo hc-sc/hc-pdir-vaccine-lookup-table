@@ -1,13 +1,8 @@
 {
-  "version": "1.42",
+  "version": "1.44",
   "table": {
     "3526007": {
-      "displayName": "Rabies vaccine, human",
-      "disease": [
-        {
-          "14168008": "Rabies"
-        }
-      ]
+      "displayName": "Rabies vaccine, human"
     },
     "9542007": {
       "displayName": "HBIg hepatitis B immunoglobulin unspecified",
@@ -26,96 +21,37 @@
       ]
     },
     "11866009": {
-      "displayName": "Plague vaccine",
-      "disease": [
-        {
-          "58750007": "Plague"
-        }
-      ]
+      "displayName": "Plague vaccine"
     },
     "14745005": {
-      "displayName": "Hepatitis A virus vaccine",
-      "disease": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ]
+      "displayName": "Hepatitis A virus vaccine"
     },
     "33234009": {
-      "displayName": "Smallpox vaccine",
-      "disease": [
-        {
-          "67924001": "Smallpox"
-        }
-      ]
+      "displayName": "Smallpox vaccine"
     },
     "34689006": {
-      "displayName": "Hepatitis B virus vaccine",
-      "disease": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ]
+      "displayName": "Hepatitis B virus vaccine"
     },
     "35736007": {
-      "displayName": "Cholera vaccine",
-      "disease": [
-        {
-          "63650001": "Cholera"
-        }
-      ]
+      "displayName": "Cholera vaccine"
     },
     "46233009": {
-      "displayName": "Influenza virus vaccine",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ]
+      "displayName": "Influenza virus vaccine"
     },
     "48028008": {
-      "displayName": "D-Hib diphtheria + Haemophilus influenzae type b unspecified",
-      "disease": [
-        {
-          "397428000": "Diphtheria",
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ]
+      "displayName": "D-Hib diphtheria + Haemophilus influenzae type b unspecified"
     },
     "56844000": {
-      "displayName": "Yellow fever vaccine",
-      "disease": [
-        {
-          "16541001": "Yellow fever"
-        }
-      ]
+      "displayName": "Yellow fever vaccine"
     },
     "59999009": {
-      "displayName": "Td tetanus + diphtheria adult unspecified",
-      "disease": [
-        {
-          "76902006": "Tetanus",
-          "397428000": "Diphtheria"
-        }
-      ]
+      "displayName": "Td tetanus + diphtheria adult unspecified"
     },
     "61153008": {
-      "displayName": "Measles, mumps and rubella vaccine",
-      "disease": [
-        {
-          "14189004": "Measles",
-          "36653000": "Rubella",
-          "36989005": "Mumps"
-        }
-      ]
+      "displayName": "Measles, mumps and rubella vaccine"
     },
     "61602008": {
-      "displayName": "Pertussis vaccine",
-      "disease": [
-        {
-          "27836007": "Pertussis"
-        }
-      ]
+      "displayName": "Pertussis vaccine"
     },
     "62294009": {
       "displayName": "VarIg varicella immunoglobulin unspecified",
@@ -126,19 +62,13 @@
       ]
     },
     "68208009": {
-      "displayName": "Clostridium tetani toxoid adsorbed and Corynebacterium diphtheriae toxoid antigens-containing vaccine product",
-      "disease": [
-        {
-          "76902006": "Tetanus",
-          "397428000": "Diphtheria"
-        }
-      ]
+      "displayName": "Clostridium tetani toxoid adsorbed and Corynebacterium diphtheriae toxoid antigens-containing vaccine product"
     },
     "77048008": {
       "displayName": "DAtx diphtheria antitoxin unspecified",
       "disease": [
         {
-          "397428000": "Diphtheria"
+          "397430003": "Diphtheria"
         }
       ]
     },
@@ -162,7 +92,7 @@
       "displayName": "BAtx botulism antitoxin unspecified",
       "disease": [
         {
-          "414531002": "Intoxication with Clostridium botulinum toxin"
+          "1149327007": "Poisoning caused by Clostridium botulinum toxin"
         }
       ]
     },
@@ -175,26 +105,16 @@
       ]
     },
     "89428009": {
-      "displayName": "Typhoid vaccine",
-      "disease": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ]
+      "displayName": "Typhoid vaccine"
     },
     "90043005": {
-      "displayName": "Mumps live virus vaccine",
-      "disease": [
-        {
-          "36989005": "Mumps"
-        }
-      ]
+      "displayName": "Mumps live virus vaccine"
     },
     "108723008": {
       "displayName": "RSVIg respiratory syncytial virus immunoglobulin unspecified",
       "disease": [
         {
-          "55735004": "Respiratory syncytial virus infection"
+          "14189004": "Measles"
         }
       ]
     },
@@ -207,39 +127,19 @@
       ]
     },
     "108729007": {
-      "displayName": "Varicella virus vaccine",
-      "disease": [
-        {
-          "38907003": "Varicella"
-        }
-      ]
+      "displayName": "Varicella virus vaccine"
     },
     "111164008": {
-      "displayName": "Poliovirus vaccine",
-      "disease": [
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ]
+      "displayName": "Poliovirus vaccine"
     },
     "115578007": {
       "displayName": "Pneumococcal polysaccharide antigen"
     },
     "116077000": {
-      "displayName": "Rotavirus vaccine",
-      "disease": [
-        {
-          "18624000": "Rotavirus infection"
-        }
-      ]
+      "displayName": "Rotavirus vaccine"
     },
     "116083002": {
-      "displayName": "Lyme disease vaccine",
-      "disease": [
-        {
-          "23502006": "Lyme disease"
-        }
-      ]
+      "displayName": "Lyme disease vaccine"
     },
     "120941004": {
       "displayName": "Cytomegalovirus antibody"
@@ -314,36 +214,16 @@
       "displayName": "Human papillomavirus 18 antigen"
     },
     "125688000": {
-      "displayName": "Inactivated poliovirus vaccine",
-      "disease": [
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ]
+      "displayName": "Inactivated poliovirus vaccine"
     },
     "125690004": {
-      "displayName": "Live poliovirus vaccine",
-      "disease": [
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ]
+      "displayName": "Live poliovirus vaccine"
     },
     "125714002": {
-      "displayName": "Pneu-C-7 pneumococcal conjugate 7-valent unspecified",
-      "disease": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ]
+      "displayName": "Pneu-C-7 pneumococcal conjugate 7-valent unspecified"
     },
     "135642004": {
-      "displayName": "Pneumococcal polysaccharide vaccine",
-      "disease": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ]
+      "displayName": "Pneumococcal polysaccharide vaccine"
     },
     "259858000": {
       "displayName": "Varicellovirus humanalpha3 antibody"
@@ -358,70 +238,28 @@
       "displayName": "Hepatitis B virus antigen"
     },
     "333521006": {
-      "displayName": "Anthrax vaccine",
-      "disease": [
-        {
-          "409498004": "Anthrax"
-        }
-      ]
+      "displayName": "Anthrax vaccine"
     },
     "333598008": {
-      "displayName": "Pneumococcal vaccine",
-      "disease": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ]
+      "displayName": "Pneumococcal vaccine"
     },
     "333621002": {
-      "displayName": "Tetanus vaccine",
-      "disease": [
-        {
-          "76902006": "Tetanus"
-        }
-      ]
+      "displayName": "Tetanus vaccine"
     },
     "333680004": {
-      "displayName": "Haemophilus influenzae Type b vaccine",
-      "disease": [
-        {
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ]
+      "displayName": "Haemophilus influenzae Type b vaccine"
     },
     "333697005": {
-      "displayName": "Japanese B encephalitis vaccine",
-      "disease": [
-        {
-          "52947006": "Encephalitis, Japanese"
-        }
-      ]
+      "displayName": "Japanese B encephalitis vaccine"
     },
     "333699008": {
-      "displayName": "Tick-borne encephalitis vaccine",
-      "disease": [
-        {
-          "712986001": "Tickborne encephalitis"
-        }
-      ]
+      "displayName": "Tick-borne encephalitis vaccine"
     },
     "333702001": {
-      "displayName": "Hepatitis A+B vaccine",
-      "disease": [
-        {
-          "40468003": "Hepatitis A",
-          "66071002": "Hepatitis B"
-        }
-      ]
+      "displayName": "Hepatitis A+B vaccine"
     },
     "333707007": {
-      "displayName": "Hepatitis A+typhoid vaccine",
-      "disease": [
-        {
-          "4834000": "Typhoid fever",
-          "40468003": "Hepatitis A"
-        }
-      ]
+      "displayName": "Hepatitis A+typhoid vaccine"
     },
     "333711001": {
       "displayName": "Ig immune globulin unspecified",
@@ -432,47 +270,22 @@
       ]
     },
     "346639000": {
-      "displayName": "Typhoid polysaccharide vaccine",
-      "disease": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ]
+      "displayName": "Typhoid polysaccharide vaccine"
     },
     "346696005": {
-      "displayName": "Typhoid live oral vaccine",
-      "disease": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ]
+      "displayName": "Typhoid live oral vaccine"
     },
     "359068008": {
-      "displayName": "Meningococcal C conjugate vaccine",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ]
+      "displayName": "Meningococcal C conjugate vaccine"
     },
     "385336006": {
       "displayName": "Botulism antitoxin"
     },
     "386012008": {
-      "displayName": "Measles vaccine",
-      "disease": [
-        {
-          "14189004": "Measles"
-        }
-      ]
+      "displayName": "Measles vaccine"
     },
     "386013003": {
-      "displayName": "Rubella vaccine",
-      "disease": [
-        {
-          "36653000": "Rubella"
-        }
-      ]
+      "displayName": "Rubella vaccine"
     },
     "386900007": {
       "displayName": "Palivizumab"
@@ -481,28 +294,13 @@
       "displayName": "Diphtheria toxoid"
     },
     "407737004": {
-      "displayName": "Varicella-zoster vaccine",
-      "disease": [
-        {
-          "4740000": "Shingles"
-        }
-      ]
+      "displayName": "Varicella-zoster vaccine"
     },
     "407746005": {
-      "displayName": "Varicella-zoster live attenuated vaccine",
-      "disease": [
-        {
-          "4740000": "Shingles"
-        }
-      ]
+      "displayName": "Varicella-zoster live attenuated vaccine"
     },
     "409269001": {
-      "displayName": "Intranasal influenza live virus vaccine",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ]
+      "displayName": "Intranasal influenza live virus vaccine"
     },
     "409629009": {
       "displayName": "Anthrax antigen"
@@ -511,12 +309,7 @@
       "displayName": "Diphtheria antitoxin"
     },
     "412324003": {
-      "displayName": "Typhoid VI polysaccharide unspecified",
-      "disease": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ]
+      "displayName": "Typhoid VI polysaccharide unspecified"
     },
     "412375000": {
       "displayName": "Tetanus toxoid"
@@ -525,7 +318,7 @@
       "displayName": "BIG-IV botulism immunoglobulin unspecified",
       "disease": [
         {
-          "414531002": "Intoxication with Clostridium botulinum toxin"
+          "1149327007": "Poisoning caused by Clostridium botulinum toxin"
         }
       ]
     },
@@ -544,15 +337,7 @@
       "displayName": "Hepatitis B immunoglobulin"
     },
     "419550004": {
-      "displayName": "Measles + mumps + rubella + varicella vaccine",
-      "disease": [
-        {
-          "14189004": "Measles",
-          "36653000": "Rubella",
-          "36989005": "Mumps",
-          "38907003": "Varicella"
-        }
-      ]
+      "displayName": "Measles + mumps + rubella + varicella vaccine"
     },
     "420084002": {
       "displayName": "Immune globulin"
@@ -564,37 +349,16 @@
       "displayName": "Rabies immunoglobulin"
     },
     "423531006": {
-      "displayName": "Meningococcus vaccine",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ]
+      "displayName": "Meningococcus vaccine"
     },
     "424519000": {
-      "displayName": "Human papillomavirus vaccine",
-      "disease": [
-        {
-          "240532009": "Human papilloma virus infection"
-        }
-      ]
+      "displayName": "Human papillomavirus vaccine"
     },
     "426971004": {
-      "displayName": "Haemophilus influenzae Type b + recombinant hepatitis B virus vaccine",
-      "disease": [
-        {
-          "66071002": "Hepatitis B",
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ]
+      "displayName": "Haemophilus influenzae Type b + recombinant hepatitis B virus vaccine"
     },
     "428214002": {
-      "displayName": "Diphtheria vaccine",
-      "disease": [
-        {
-          "397428000": "Diphtheria"
-        }
-      ]
+      "displayName": "Diphtheria vaccine"
     },
     "428527002": {
       "displayName": "Human tetanus immunoglobulin"
@@ -603,36 +367,16 @@
       "displayName": "Influenza A virus subtype H1N1 antigen"
     },
     "443651005": {
-      "displayName": "Influenza A virus subtype H1N1 vaccine",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ]
+      "displayName": "Influenza A virus subtype H1N1 vaccine"
     },
     "448964007": {
-      "displayName": "Pneumococcal 13-valent conjugate vaccine",
-      "disease": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ]
+      "displayName": "Pneumococcal 13-valent conjugate vaccine"
     },
     "449019003": {
-      "displayName": "Acellular pertussis vaccine",
-      "disease": [
-        {
-          "27836007": "Pertussis"
-        }
-      ]
+      "displayName": "Acellular pertussis vaccine"
     },
     "451022006": {
-      "displayName": "Inactivated Influenza split virion subtype H1N1v-like strain unadjuvanted vaccine",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ]
+      "displayName": "Inactivated Influenza split virion subtype H1N1v-like strain unadjuvanted vaccine"
     },
     "709155002": {
       "displayName": "Plague antigen"
@@ -748,12 +492,7 @@
       ]
     },
     "785864002": {
-      "displayName": "Meningococcal group B vaccine",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ]
+      "displayName": "Meningococcal group B vaccine"
     },
     "836381006": {
       "displayName": "Diphtheria unspecified",
@@ -896,7 +635,7 @@
       "displayName": "M measles unspecified",
       "disease": [
         {
-          "36989005": "Mumps"
+          "14189004": "Measles"
         }
       ]
     },
@@ -1051,11 +790,17 @@
     "1252709000": {
       "displayName": "Pneu-C-20 pneumococcal conjugate 20-valent unspecified"
     },
+    "1269334003": {
+      "displayName": "Live attenuated Vaccinia virus antigen"
+    },
     "1287018009": {
       "displayName": "Live attenuated Zaire ebolavirus antigen"
     },
     "1287549005": {
       "displayName": "Zaire ebolavirus antigen"
+    },
+    "1290763000": {
+      "displayName": "Modified Vaccinia virus Ankara strain antigen"
     },
     "1344967001": {
       "displayName": "Live attenuated Chikungunya virus antigen"
@@ -1077,12 +822,7 @@
       ]
     },
     "19461000087101": {
-      "displayName": "Men-B meningococcal B unspecified",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ]
+      "displayName": "Men-B meningococcal B unspecified"
     },
     "20681000087105": {
       "displayName": "Men-C-CY-Hib meningococcal conjugate C + Y + Haemophilus influenzae type b unspecified",
@@ -1102,7 +842,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "406583002": "Haemophilus influenzae infection, invasive"
         }
       ]
@@ -1128,7 +868,7 @@
           "27836007": "Pertussis",
           "66071002": "Hepatitis B",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "406583002": "Haemophilus influenzae infection, invasive"
         }
       ]
@@ -1186,7 +926,7 @@
           "27836007": "Pertussis",
           "66071002": "Hepatitis B",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis"
         }
       ]
@@ -1250,7 +990,7 @@
           "27836007": "Pertussis",
           "66071002": "Hepatitis B",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria"
+          "397430003": "Diphtheria"
         }
       ]
     },
@@ -1272,12 +1012,7 @@
       ]
     },
     "28531000087107": {
-      "displayName": "COVID-19 unspecified",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
+      "displayName": "COVID-19 unspecified"
     },
     "6981000087108": {
       "displayName": "Inf influenza A monovalent unspecified",
@@ -1291,12 +1026,7 @@
       "displayName": "Men-P-ACYW-135 meningococcal polysaccharide A + C + Y + W-135 unspecified"
     },
     "7261000087106": {
-      "displayName": "Pneumococcal conjugate vaccine",
-      "disease": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ]
+      "displayName": "Pneumococcal conjugate vaccine"
     },
     "7691000087100": {
       "displayName": "Inf influenza trivalent unspecified",
@@ -1318,7 +1048,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria"
+          "397430003": "Diphtheria"
         }
       ]
     },
@@ -1328,7 +1058,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis"
         }
       ]
@@ -1343,7 +1073,7 @@
           "27836007": "Pertussis",
           "66071002": "Hepatitis B",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria"
+          "397430003": "Diphtheria"
         }
       ]
     },
@@ -1367,12 +1097,7 @@
       ]
     },
     "23001000087100": {
-      "displayName": "Zos zoster non-live adjuvanted unspecified",
-      "disease": [
-        {
-          "4740000": "Shingles"
-        }
-      ]
+      "displayName": "Zos zoster non-live adjuvanted unspecified"
     },
     "27511000087101": {
       "displayName": "Men-C-C meningococcal conjugate C unspecified",
@@ -1402,7 +1127,7 @@
       "displayName": "LZV live attenuated herpes zoster unspecified",
       "disease": [
         {
-          "4740000": "Shingles"
+          "38907003": "Varicella"
         }
       ]
     },
@@ -1452,7 +1177,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis",
           "406583002": "Haemophilus influenzae infection, invasive"
         }
@@ -1528,13 +1253,7 @@
       ]
     },
     "7281000087100": {
-      "displayName": "Measles + rubella vaccine",
-      "disease": [
-        {
-          "14189004": "Measles",
-          "36653000": "Rubella"
-        }
-      ]
+      "displayName": "Measles + rubella vaccine"
     },
     "7701000087100": {
       "displayName": "D diphtheria pediatric unspecified"
@@ -1550,7 +1269,7 @@
       "disease": [
         {
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis"
         }
       ]
@@ -1583,12 +1302,7 @@
       "displayName": "Pneu-P-23 pneumococcal polysaccharide 23-valent unspecified"
     },
     "7661000087108": {
-      "displayName": "Pneu-C-10 pneumococcal conjugate 10-valent unspecified",
-      "disease": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ]
+      "displayName": "Pneu-C-10 pneumococcal conjugate 10-valent unspecified"
     },
     "7731000087108": {
       "displayName": "DTaP-HB-IPV-Hib diphtheria + tetanus + acellular pertussis + hepatitis b + inactivated poliomyelitis + Haemophilus influenzae type b pediatric unspecified",
@@ -1597,7 +1311,7 @@
           "27836007": "Pertussis",
           "66071002": "Hepatitis B",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis",
           "406583002": "Haemophilus influenzae infection, invasive"
         }
@@ -1612,7 +1326,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria"
+          "397430003": "Diphtheria"
         }
       ]
     },
@@ -1634,7 +1348,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria"
+          "397430003": "Diphtheria"
         }
       ]
     },
@@ -1644,7 +1358,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis"
         }
       ]
@@ -1744,7 +1458,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis"
         }
       ]
@@ -1754,7 +1468,7 @@
       "disease": [
         {
           "76902006": "Tetanus",
-          "397428000": "Diphtheria"
+          "397430003": "Diphtheria"
         }
       ]
     },
@@ -1764,7 +1478,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis",
           "406583002": "Haemophilus influenzae infection, invasive"
         }
@@ -1788,6 +1502,7 @@
       "displayName": "Chol cholera unspecified",
       "disease": [
         {
+          "11840006": "Traveler's diarrhea",
           "63650001": "Cholera"
         }
       ]
@@ -1798,7 +1513,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis"
         }
       ]
@@ -1808,7 +1523,7 @@
       "disease": [
         {
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis"
         }
       ]
@@ -1819,7 +1534,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "406583002": "Haemophilus influenzae infection, invasive"
         }
       ]
@@ -1853,20 +1568,10 @@
       "displayName": "HB hepatitis B pediatric strength unspecified"
     },
     "6991000087105": {
-      "displayName": "Inf influenza A monovalent H1N1 unadjuvanted unspecified",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ]
+      "displayName": "Inf influenza A monovalent H1N1 unadjuvanted unspecified"
     },
     "7291000087103": {
-      "displayName": "Mu mumps unspecified",
-      "disease": [
-        {
-          "36989005": "Mumps"
-        }
-      ]
+      "displayName": "Mu mumps unspecified"
     },
     "19331000087104": {
       "displayName": "CMVIg Cytogam CSL",
@@ -1940,20 +1645,10 @@
       ]
     },
     "58321000087103": {
-      "displayName": "Nirsevimab 100 mg/1 mL solution for injection syringe",
-      "disease": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ]
+      "displayName": "Nirsevimab 100 mg/1 mL solution for injection syringe"
     },
     "58311000087106": {
-      "displayName": "Nirsevimab 50 mg/0.5 mL solution for injection syringe",
-      "disease": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ]
+      "displayName": "Nirsevimab 50 mg/0.5 mL solution for injection syringe"
     },
     "58531000087106": {
       "displayName": "RSVAb respiratory syncytial virus monoclonal antibody nirsevimab unspecified",
@@ -2247,7 +1942,7 @@
       "displayName": "LZV ZOSTAVAX II MC",
       "disease": [
         {
-          "4740000": "Shingles"
+          "38907003": "Varicella"
         }
       ],
       "MAH": [
@@ -2446,7 +2141,7 @@
           "27836007": "Pertussis",
           "66071002": "Hepatitis B",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "406583002": "Haemophilus influenzae infection, invasive"
         }
       ],
@@ -2515,7 +2210,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria"
+          "397430003": "Diphtheria"
         }
       ],
       "MAH": [
@@ -2725,7 +2420,7 @@
           "27836007": "Pertussis",
           "66071002": "Hepatitis B",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis"
         }
       ],
@@ -2754,7 +2449,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis"
         }
       ],
@@ -2771,7 +2466,7 @@
           "27836007": "Pertussis",
           "66071002": "Hepatitis B",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria"
+          "397430003": "Diphtheria"
         }
       ],
       "MAH": [
@@ -2885,7 +2580,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "406583002": "Haemophilus influenzae infection, invasive"
         }
       ],
@@ -3037,7 +2732,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis"
         }
       ],
@@ -3351,7 +3046,7 @@
       "displayName": "LZV ZOSTAVAX MC",
       "disease": [
         {
-          "4740000": "Shingles"
+          "38907003": "Varicella"
         }
       ],
       "MAH": [
@@ -3366,7 +3061,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis"
         }
       ],
@@ -3731,12 +3426,7 @@
       ]
     },
     "37901000087108": {
-      "displayName": "Typh-O Vivotif ETH",
-      "disease": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ]
+      "displayName": "Typh-O Vivotif ETH"
     },
     "45411000087107": {
       "displayName": "EZV ERVEBO Merck",
@@ -3889,7 +3579,7 @@
           "27836007": "Pertussis",
           "66071002": "Hepatitis B",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis",
           "406583002": "Haemophilus influenzae infection, invasive"
         }
@@ -3906,7 +3596,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis",
           "406583002": "Haemophilus influenzae infection, invasive"
         }
@@ -3949,7 +3639,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis",
           "406583002": "Haemophilus influenzae infection, invasive"
         }
@@ -4019,7 +3709,7 @@
       "disease": [
         {
           "76902006": "Tetanus",
-          "397428000": "Diphtheria"
+          "397430003": "Diphtheria"
         }
       ],
       "MAH": [
@@ -4049,7 +3739,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis"
         }
       ],
@@ -4065,7 +3755,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis",
           "406583002": "Haemophilus influenzae infection, invasive"
         }
@@ -4077,12 +3767,7 @@
       ]
     },
     "7231000087104": {
-      "displayName": "VARILRIX 3300000 plaque forming units per 0.5 milliliter powder and diluent for solution for injection GlaxoSmithKline Inc.",
-      "disease": [
-        {
-          "38907003": "Varicella"
-        }
-      ]
+      "displayName": "VARILRIX 3300000 plaque forming units per 0.5 milliliter powder and diluent for solution for injection GlaxoSmithKline Inc."
     },
     "7331000087107": {
       "displayName": "HA-Typh-I ViVAXIM SP",
@@ -4117,7 +3802,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria"
+          "397430003": "Diphtheria"
         }
       ],
       "MAH": [
@@ -4132,7 +3817,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis"
         }
       ],
@@ -4147,7 +3832,7 @@
       "disease": [
         {
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis"
         }
       ],
@@ -4202,7 +3887,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria"
+          "397430003": "Diphtheria"
         }
       ],
       "MAH": [
@@ -4217,7 +3902,7 @@
         {
           "27836007": "Pertussis",
           "76902006": "Tetanus",
-          "397428000": "Diphtheria",
+          "397430003": "Diphtheria",
           "398102009": "Poliomyelitis"
         }
       ],
@@ -4348,7 +4033,7 @@
       "displayName": "DAtx Diphtheria Antitoxin B.P. VINS",
       "disease": [
         {
-          "397428000": "Diphtheria"
+          "397430003": "Diphtheria"
         }
       ],
       "MAH": [
@@ -4517,7 +4202,7 @@
       "displayName": "DAtx Diphtheria Antitoxin (DAT) IBB",
       "disease": [
         {
-          "397428000": "Diphtheria"
+          "397430003": "Diphtheria"
         }
       ],
       "MAH": [
@@ -4631,12 +4316,7 @@
       ]
     },
     "7951000087102": {
-      "displayName": "HBIg HyperHEP B Grif",
-      "disease": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ]
+      "displayName": "HBIg HyperHEP B Grif"
     },
     "56761000087108": {
       "displayName": "Sma ACAM2000 EPDG",
