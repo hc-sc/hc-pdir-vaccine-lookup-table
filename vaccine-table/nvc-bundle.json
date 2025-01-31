@@ -1,5 +1,5 @@
 {
-  "version": "1.44",
+  "version": "1.45",
   "table": {
     "3526007": {
       "displayName": "Rabies vaccine, human"
@@ -806,7 +806,7 @@
       "displayName": "Live attenuated Chikungunya virus antigen"
     },
     "1345036005": {
-      "displayName": "Live attenuated Chikungunya virus antigen only vaccine product",
+      "displayName": "Chik live attenuated Chikungunya unspecified",
       "disease": [
         {
           "111864006": "Chikungunya fever"
@@ -1685,216 +1685,6 @@
           "55735004": "Respiratory syncytial virus infection"
         }
       ]
-    },
-    "20891000087108": {
-      "displayName": "Vaccinia immune globulin"
-    },
-    "19451000087104": {
-      "displayName": "Hepatitis A antigen pediatric strength"
-    },
-    "291000221101": {
-      "displayName": "Typhoid antigen"
-    },
-    "51291000087101": {
-      "displayName": "RSV glycoprotein F antigen"
-    },
-    "19341000087105": {
-      "displayName": "Hepatitis A antigen regular strength"
-    },
-    "27841000087102": {
-      "displayName": "Non-live Human alphaherpesvirus 3 antigen"
-    },
-    "30131000087101": {
-      "displayName": "Antigen of SARS-CoV-2 virus-like particle"
-    },
-    "8301000087103": {
-      "displayName": "Inactivated poliomyelitis antigen"
-    },
-    "45771000087109": {
-      "displayName": "Zaire ebolavirus antigen"
-    },
-    "161000221102": {
-      "displayName": "Diphtheria toxoid"
-    },
-    "29301000087104": {
-      "displayName": "SARS-CoV-2 recombinant spike protein antigen"
-    },
-    "51581000087101": {
-      "displayName": "Enterovirus A71 antigen"
-    },
-    "8451000087106": {
-      "displayName": "Tetanus toxoid"
-    },
-    "8611000087105": {
-      "displayName": "Diphtheria toxoid low dose"
-    },
-    "551000221106": {
-      "displayName": "Tetanus toxoid"
-    },
-    "19381000087100": {
-      "displayName": "Hepatitis B antigen pediatric strength"
-    },
-    "23021000087106": {
-      "displayName": "Varicella-zoster virus surface glycoprotein E antigen"
-    },
-    "8361000087104": {
-      "displayName": "Typhoid antigen"
-    },
-    "8471000087100": {
-      "displayName": "Vi polysaccharide typhoid antigen"
-    },
-    "8631000087100": {
-      "displayName": "Pertussis antigen standard dose"
-    },
-    "8741000087101": {
-      "displayName": "Hepatitis B antigen dialysis strength"
-    },
-    "8351000087102": {
-      "displayName": "Tick-borne encephalitis virus antigen"
-    },
-    "45781000087106": {
-      "displayName": "Live attenuated Zaire ebolavirus antigen"
-    },
-    "561000221108": {
-      "displayName": "Live attenuated Varicellovirus humanalpha3 antigen"
-    },
-    "8591000087100": {
-      "displayName": "Acellular pertussis antigen low dose"
-    },
-    "8461000087109": {
-      "displayName": "Typhoid live attenuated Ty21a antigen"
-    },
-    "8621000087102": {
-      "displayName": "Diphtheria toxoid standard dose"
-    },
-    "8731000087107": {
-      "displayName": "Hepatitis B antigen regular strength"
-    },
-    "8601000087108": {
-      "displayName": "Acellular pertussis antigen standard dose"
-    },
-    "8641000087106": {
-      "displayName": "Pertussis antigen low dose"
-    },
-    "8681000087101": {
-      "displayName": "Rota G2 serotype antigen"
-    },
-    "8701000087104": {
-      "displayName": "Rota G4 serotype antigen"
-    },
-    "8581000087102": {
-      "displayName": "Meningococcal polysaccharide group Y antigen"
-    },
-    "8571000087104": {
-      "displayName": "Meningococcal polysaccharide group W-135 antigen"
-    },
-    "8511000087106": {
-      "displayName": "Meningococcal conjugate group A antigen"
-    },
-    "8491000087101": {
-      "displayName": "Acellular pertussis antigen"
-    },
-    "8281000087104": {
-      "displayName": "Human papillomavirus, type 11 antigen"
-    },
-    "8751000087103": {
-      "displayName": "Rota G1 (P8) serotype antigen"
-    },
-    "8551000087105": {
-      "displayName": "Meningococcal polysaccharide group A antigen"
-    },
-    "8501000087109": {
-      "displayName": "Diphtheria toxoid"
-    },
-    "8481000087103": {
-      "displayName": "Whole cell pertussis antigen"
-    },
-    "8721000087105": {
-      "displayName": "Smallpox antigen"
-    },
-    "8691000087104": {
-      "displayName": "Rota G3 serotype antigen"
-    },
-    "8251000087107": {
-      "displayName": "Bacillus Calmette Guerin antigen"
-    },
-    "8271000087101": {
-      "displayName": "Hepatitis A antigen"
-    },
-    "8291000087102": {
-      "displayName": "Human papillomavirus, type 6 antigen"
-    },
-    "8331000087106": {
-      "displayName": "Plague antigen"
-    },
-    "8531000087101": {
-      "displayName": "Meningococcal conjugate group W-135 antigen"
-    },
-    "8661000087107": {
-      "displayName": "Enterotoxigenic e. coli antigen"
-    },
-    "8341000087100": {
-      "displayName": "Poliomyelitis antigen"
-    },
-    "8321000087109": {
-      "displayName": "Lyme antigen"
-    },
-    "8261000087105": {
-      "displayName": "Cholera antigen"
-    },
-    "8671000087103": {
-      "displayName": "Rota G1 serotype antigen"
-    },
-    "8711000087102": {
-      "displayName": "Rota P1A (8) serotype antigen"
-    },
-    "8411000087107": {
-      "displayName": "Pneumococcal conjugate antigen"
-    },
-    "8391000087107": {
-      "displayName": "Meningococcal polysaccharide antigen"
-    },
-    "8381000087105": {
-      "displayName": "Meningococcal conjugate antigen"
-    },
-    "8561000087108": {
-      "displayName": "Meningococcal polysaccharide group C antigen"
-    },
-    "8521000087103": {
-      "displayName": "Meningococcal conjugate group C antigen"
-    },
-    "8541000087107": {
-      "displayName": "Meningococcal conjugate group Y antigen"
-    },
-    "8371000087108": {
-      "displayName": "Yellow fever antigen"
-    },
-    "8311000087101": {
-      "displayName": "Live poliomyelitis antigen"
-    },
-    "58331000087101": {
-      "displayName": "Nirsevimab"
-    },
-    "581000221101": {
-      "displayName": "Cholera live attenuated antigen"
-    },
-    "61221000087105": {
-      "displayName": "Monoclonal antibody to Human respiratory syncytial virus"
-    },
-    "151000221104": {
-      "displayName": "Corynebacterium diphtheriae antigen"
-    },
-    "571000221104": {
-      "displayName": "Vibrio cholerae antigen"
-    },
-    "541000221109": {
-      "displayName": "Clostridium tetani antigen"
-    },
-    "591000221103": {
-      "displayName": "Inactivated whole Vibrio cholerae antigen"
-    },
-    "61731000087103": {
-      "displayName": "RSV (respiratory syncytial virus) mRNA"
     },
     "19291000087108": {
       "displayName": "Inf Xanaflu API",
@@ -4578,6 +4368,216 @@
           "51461000087108": "Moderna Biopharma Canada Corporation (supplier)"
         }
       ]
+    },
+    "20891000087108": {
+      "displayName": "Vaccinia immune globulin"
+    },
+    "19451000087104": {
+      "displayName": "Hepatitis A antigen pediatric strength"
+    },
+    "291000221101": {
+      "displayName": "Typhoid antigen"
+    },
+    "51291000087101": {
+      "displayName": "RSV glycoprotein F antigen"
+    },
+    "19341000087105": {
+      "displayName": "Hepatitis A antigen regular strength"
+    },
+    "27841000087102": {
+      "displayName": "Non-live Human alphaherpesvirus 3 antigen"
+    },
+    "30131000087101": {
+      "displayName": "Antigen of SARS-CoV-2 virus-like particle"
+    },
+    "8301000087103": {
+      "displayName": "Inactivated poliomyelitis antigen"
+    },
+    "45771000087109": {
+      "displayName": "Zaire ebolavirus antigen"
+    },
+    "161000221102": {
+      "displayName": "Diphtheria toxoid"
+    },
+    "29301000087104": {
+      "displayName": "SARS-CoV-2 recombinant spike protein antigen"
+    },
+    "51581000087101": {
+      "displayName": "Enterovirus A71 antigen"
+    },
+    "8451000087106": {
+      "displayName": "Tetanus toxoid"
+    },
+    "8611000087105": {
+      "displayName": "Diphtheria toxoid low dose"
+    },
+    "551000221106": {
+      "displayName": "Tetanus toxoid"
+    },
+    "19381000087100": {
+      "displayName": "Hepatitis B antigen pediatric strength"
+    },
+    "23021000087106": {
+      "displayName": "Varicella-zoster virus surface glycoprotein E antigen"
+    },
+    "8361000087104": {
+      "displayName": "Typhoid antigen"
+    },
+    "8471000087100": {
+      "displayName": "Vi polysaccharide typhoid antigen"
+    },
+    "8631000087100": {
+      "displayName": "Pertussis antigen standard dose"
+    },
+    "8741000087101": {
+      "displayName": "Hepatitis B antigen dialysis strength"
+    },
+    "8351000087102": {
+      "displayName": "Tick-borne encephalitis virus antigen"
+    },
+    "45781000087106": {
+      "displayName": "Live attenuated Zaire ebolavirus antigen"
+    },
+    "561000221108": {
+      "displayName": "Live attenuated Varicellovirus humanalpha3 antigen"
+    },
+    "8591000087100": {
+      "displayName": "Acellular pertussis antigen low dose"
+    },
+    "8461000087109": {
+      "displayName": "Typhoid live attenuated Ty21a antigen"
+    },
+    "8621000087102": {
+      "displayName": "Diphtheria toxoid standard dose"
+    },
+    "8731000087107": {
+      "displayName": "Hepatitis B antigen regular strength"
+    },
+    "8601000087108": {
+      "displayName": "Acellular pertussis antigen standard dose"
+    },
+    "8641000087106": {
+      "displayName": "Pertussis antigen low dose"
+    },
+    "8681000087101": {
+      "displayName": "Rota G2 serotype antigen"
+    },
+    "8701000087104": {
+      "displayName": "Rota G4 serotype antigen"
+    },
+    "8581000087102": {
+      "displayName": "Meningococcal polysaccharide group Y antigen"
+    },
+    "8571000087104": {
+      "displayName": "Meningococcal polysaccharide group W-135 antigen"
+    },
+    "8511000087106": {
+      "displayName": "Meningococcal conjugate group A antigen"
+    },
+    "8491000087101": {
+      "displayName": "Acellular pertussis antigen"
+    },
+    "8281000087104": {
+      "displayName": "Human papillomavirus, type 11 antigen"
+    },
+    "8751000087103": {
+      "displayName": "Rota G1 (P8) serotype antigen"
+    },
+    "8551000087105": {
+      "displayName": "Meningococcal polysaccharide group A antigen"
+    },
+    "8501000087109": {
+      "displayName": "Diphtheria toxoid"
+    },
+    "8481000087103": {
+      "displayName": "Whole cell pertussis antigen"
+    },
+    "8721000087105": {
+      "displayName": "Smallpox antigen"
+    },
+    "8691000087104": {
+      "displayName": "Rota G3 serotype antigen"
+    },
+    "8251000087107": {
+      "displayName": "Bacillus Calmette Guerin antigen"
+    },
+    "8271000087101": {
+      "displayName": "Hepatitis A antigen"
+    },
+    "8291000087102": {
+      "displayName": "Human papillomavirus, type 6 antigen"
+    },
+    "8331000087106": {
+      "displayName": "Plague antigen"
+    },
+    "8531000087101": {
+      "displayName": "Meningococcal conjugate group W-135 antigen"
+    },
+    "8661000087107": {
+      "displayName": "Enterotoxigenic e. coli antigen"
+    },
+    "8341000087100": {
+      "displayName": "Poliomyelitis antigen"
+    },
+    "8321000087109": {
+      "displayName": "Lyme antigen"
+    },
+    "8261000087105": {
+      "displayName": "Cholera antigen"
+    },
+    "8671000087103": {
+      "displayName": "Rota G1 serotype antigen"
+    },
+    "8711000087102": {
+      "displayName": "Rota P1A (8) serotype antigen"
+    },
+    "8411000087107": {
+      "displayName": "Pneumococcal conjugate antigen"
+    },
+    "8391000087107": {
+      "displayName": "Meningococcal polysaccharide antigen"
+    },
+    "8381000087105": {
+      "displayName": "Meningococcal conjugate antigen"
+    },
+    "8561000087108": {
+      "displayName": "Meningococcal polysaccharide group C antigen"
+    },
+    "8521000087103": {
+      "displayName": "Meningococcal conjugate group C antigen"
+    },
+    "8541000087107": {
+      "displayName": "Meningococcal conjugate group Y antigen"
+    },
+    "8371000087108": {
+      "displayName": "Yellow fever antigen"
+    },
+    "8311000087101": {
+      "displayName": "Live poliomyelitis antigen"
+    },
+    "58331000087101": {
+      "displayName": "Nirsevimab"
+    },
+    "581000221101": {
+      "displayName": "Cholera live attenuated antigen"
+    },
+    "61221000087105": {
+      "displayName": "Monoclonal antibody to Human respiratory syncytial virus"
+    },
+    "151000221104": {
+      "displayName": "Corynebacterium diphtheriae antigen"
+    },
+    "571000221104": {
+      "displayName": "Vibrio cholerae antigen"
+    },
+    "541000221109": {
+      "displayName": "Clostridium tetani antigen"
+    },
+    "591000221103": {
+      "displayName": "Inactivated whole Vibrio cholerae antigen"
+    },
+    "61731000087103": {
+      "displayName": "RSV (respiratory syncytial virus) mRNA"
     }
   }
 }
