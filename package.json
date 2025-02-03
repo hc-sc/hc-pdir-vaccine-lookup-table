@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/raviraj-mangukiya/pdir-lookup-table-automation.git"
+    "url": "git+ssh://git@github.com:hc-sc/hc-pdir-vaccine-lookup-table.git"
   },
   "keywords": [
     "node"
@@ -16,9 +16,9 @@
   "author": "Raviraj.Mangukiya@hc-sc.gc.ca",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/raviraj-mangukiya/pdir-lookup-table-automation/issues"
+    "url": "https://github.com/hc-sc/hc-pdir-vaccine-lookup-table/issues"
   },
-  "homepage": "https://github.com/raviraj-mangukiya/pdir-lookup-table-automation#readme",
+  "homepage": "https://github.com/hc-sc/hc-pdir-vaccine-lookup-table#readme",
   "dependencies": {},
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.30.7",

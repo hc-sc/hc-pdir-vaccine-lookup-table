@@ -23,15 +23,18 @@ interface Concept {
   }[];
   extension: Extension[];
 }
+
 interface ValueCodeableConcept {
   coding: Coding[];
   text: string;
 }
+
 interface Extension {
   url: string;
   extension?: Extension[];
   valueCodeableConcept?: ValueCodeableConcept;
 }
+
 interface ValueSet {
   id: string;
   meta: {
@@ -99,6 +102,7 @@ function getExtensionValueByUrl(
 
     return result;
   };
+  
   const extensions = findExtensions(concept.extension);
 
   extensions.forEach((ext) => {
@@ -128,9 +132,7 @@ function parseNVCBundle(data: Data) {
             include.concept.forEach((concept) => {
               const displayName = concept.display;
               const disease = getExtensionValueByUrl(concept, "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-protects-against-disease");
-              // LogUtils.info(stringify(disease));
               const MAH = getExtensionValueByUrl(concept, "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-linked-to-market-authorization-holder");
-            //   LogUtils.info(stringify(MAH));
 
               table[concept.code] = {
                 displayName
