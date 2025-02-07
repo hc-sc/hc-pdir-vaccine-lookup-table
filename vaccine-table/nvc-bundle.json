@@ -1,5 +1,5 @@
 {
-  "version": "1.45",
+  "version": "1.46",
   "table": {
     "3526007": {
       "displayName": "Rabies vaccine, human"
@@ -114,7 +114,7 @@
       "displayName": "RSVIg respiratory syncytial virus immunoglobulin unspecified",
       "disease": [
         {
-          "14189004": "Measles"
+          "55735004": "Respiratory syncytial virus infection"
         }
       ]
     },
@@ -265,7 +265,10 @@
       "displayName": "Ig immune globulin unspecified",
       "disease": [
         {
-          "14189004": "Measles"
+          "14189004": "Measles",
+          "36653000": "Rubella",
+          "38907003": "Varicella",
+          "40468003": "Hepatitis A"
         }
       ]
     },
@@ -479,6 +482,9 @@
     },
     "766838005": {
       "displayName": "Varicella antigen"
+    },
+    "767467006": {
+      "displayName": "Respiratory syncytial virus immune globulin"
     },
     "767841007": {
       "displayName": "Vi polysaccharide typhoid antigen"
@@ -3862,7 +3868,10 @@
       "displayName": "Ig GamaSTAN S/D Grif",
       "disease": [
         {
-          "14189004": "Measles"
+          "14189004": "Measles",
+          "36653000": "Rubella",
+          "38907003": "Varicella",
+          "40468003": "Hepatitis A"
         }
       ],
       "MAH": [
@@ -3888,7 +3897,10 @@
       "displayName": "Ig IMMUNE SERUM GLOBULIN (HUMAN) Grif",
       "disease": [
         {
-          "14189004": "Measles"
+          "14189004": "Measles",
+          "36653000": "Rubella",
+          "38907003": "Varicella",
+          "40468003": "Hepatitis A"
         }
       ],
       "MAH": [
@@ -4005,7 +4017,10 @@
       "displayName": "Ig GamaSTAN Grif",
       "disease": [
         {
-          "14189004": "Measles"
+          "14189004": "Measles",
+          "36653000": "Rubella",
+          "38907003": "Varicella",
+          "40468003": "Hepatitis A"
         }
       ],
       "MAH": [
