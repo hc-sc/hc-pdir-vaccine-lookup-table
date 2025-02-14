@@ -1,5 +1,5 @@
 {
-  "version": "1.46",
+  "version": "1.47",
   "table": {
     "3526007": {
       "displayName": "Rabies vaccine, human"
@@ -2272,7 +2272,7 @@
       ]
     },
     "26571000087105": {
-      "displayName": "Sma IMVAMUNE BN",
+      "displayName": "SMV IMVAMUNE",
       "disease": [
         {
           "67924001": "Smallpox"
