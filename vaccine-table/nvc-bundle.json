@@ -1,5 +1,5 @@
 {
-  "version": "1.55",
+  "version": "1.56",
   "table": {
     "3526007": {
       "displayName": "Rabies vaccine, human"
@@ -1291,6 +1291,2778 @@
         }
       ]
     },
+    "19291000087108": {
+      "displayName": "[Inf] Xanaflu",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27041000087109": "Drug Safety, Abbott Laboratories, Limited (supplier)"
+        }
+      ]
+    },
+    "19311000087109": {
+      "displayName": "[Men-B] BEXSERO (NVD)",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27191000087103": "Novartis Vaccines and Diagnostics Inc. (supplier)"
+        }
+      ]
+    },
+    "19441000087102": {
+      "displayName": "[MMR-Var] ProQuad",
+      "disease": [
+        {
+          "14189004": "Measles",
+          "36653000": "Rubella",
+          "36989005": "Mumps"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "19321000087101": {
+      "displayName": "[LZV] ZOSTAVAX II",
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "19351000087108": {
+      "displayName": "[Men-C-ACYW-135] NIMENRIX (GSK)",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "20741000087105": {
+      "displayName": "[Inf] FLUMIST QUADRIVALENT",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "26881000087109": "ASTRAZENECA CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "20691000087107": {
+      "displayName": "[Inf] FLUZONE Quadrivalent",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "20871000087109": {
+      "displayName": "[HPV-9] GARDASIL 9",
+      "disease": [
+        {
+          "240532009": "Human papilloma virus infection"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "21671000087103": {
+      "displayName": "[Men-B] BEXSERO (GSK)",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "21771000087109": {
+      "displayName": "[JE] IXIARO (VAL)",
+      "disease": [
+        {
+          "52947006": "Japanese encephalitis"
+        }
+      ],
+      "MAH": [
+        {
+          "27371000087104": "VALNEVA AUSTRIA GMBH (supplier)"
+        }
+      ]
+    },
+    "22681000087109": {
+      "displayName": "[Inf] INFLUVAC (BGP)",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "26911000087109": "BGP PHARMA ULC (supplier)"
+        }
+      ]
+    },
+    "23031000087108": {
+      "displayName": "[Men-B] Trumenba",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27241000087103": "PFIZER CANADA ULC (supplier)"
+        }
+      ]
+    },
+    "24201000087108": {
+      "displayName": "[Chol-Ecol-O] DUKORAL (VAL)",
+      "disease": [
+        {
+          "11840006": "Traveler's diarrhea",
+          "63650001": "Cholera"
+        }
+      ],
+      "MAH": [
+        {
+          "27381000087102": "VALNEVA SWEDEN AB (supplier)"
+        }
+      ]
+    },
+    "26551000087104": {
+      "displayName": "[TBE] FSME-IMMUN (Bax)",
+      "disease": [
+        {
+          "712986001": "Tickborne encephalitis"
+        }
+      ],
+      "MAH": [
+        {
+          "26941000087105": "BAXTER CORPORATION (supplier)"
+        }
+      ]
+    },
+    "28571000087109": {
+      "displayName": "[COVID-19] SPIKEVAX (original strain) 0.20 mg/mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
+        }
+      ]
+    },
+    "28761000087108": {
+      "displayName": "[COVID-19] VAXZEVRIA",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "26881000087109": "ASTRAZENECA CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "31541000087105": {
+      "displayName": "[Var] VARILRIX",
+      "disease": [
+        {
+          "38907003": "Varicella"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "21711000087102": {
+      "displayName": "[Rab] RabAvert (GSK)",
+      "disease": [
+        {
+          "14168008": "Rabies"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "22181000087103": {
+      "displayName": "[DPT-HB-Hib] PENTAVAC",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "66071002": "Hepatitis B",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria",
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "MAH": [
+        {
+          "27331000087101": "Serum Institute of India LTD (supplier)"
+        }
+      ]
+    },
+    "23011000087103": {
+      "displayName": "[RZV] SHINGRIX",
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "23771000087108": {
+      "displayName": "[Hib-HB] COMVAX",
+      "disease": [
+        {
+          "66071002": "Hepatitis B",
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "MAH": [
+        {
+          "27151000087108": "Merck & Co. Inc. (supplier)"
+        }
+      ]
+    },
+    "26541000087102": {
+      "displayName": "[HA] EPAXAL (BB)",
+      "disease": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "MAH": [
+        {
+          "26961000087106": "Berna Biotech Limited (supplier)"
+        }
+      ]
+    },
+    "28491000087107": {
+      "displayName": "[Inf] FLUCELVAX QUAD",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27321000087103": "SEQIRUS UK LIMITED (supplier)"
+        }
+      ]
+    },
+    "28721000087103": {
+      "displayName": "[DTaP] TRIPACEL",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "30151000087105": {
+      "displayName": "[COVID-19] COVIFENZ",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "30161000087108": "Medicago Inc. (supplier)"
+        }
+      ]
+    },
+    "31431000087100": {
+      "displayName": "[COVID-19] Convidecia",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "33221000087102": {
+      "displayName": "[COVID-19] CureVac",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "33391000087109": {
+      "displayName": "[COVID-19] Abdala",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "33441000087105": {
+      "displayName": "[COVID-19] Medgen-Dynavax-NIAID",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "34591000087100": {
+      "displayName": "[COVID-19] Soberana 02",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "33231000087100": {
+      "displayName": "[Rab] RABAVERT (BN)",
+      "disease": [
+        {
+          "14168008": "Rabies"
+        }
+      ],
+      "MAH": [
+        {
+          "26921000087101": "BAVARIAN NORDIC AS (supplier)"
+        }
+      ]
+    },
+    "33401000087107": {
+      "displayName": "[COVID-19] COVIran Barekat",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "33451000087108": {
+      "displayName": "[COVID-19] QazCovid-in",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "34601000087108": {
+      "displayName": "[COVID-19] SpikoGen",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "35661000087108": {
+      "displayName": "[Inf] Supemtek",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27291000087105": "Sanofi Pasteur SA (supplier)"
+        }
+      ]
+    },
+    "37871000087108": {
+      "displayName": "[COVID-19] COMIRNATY Original / Omicron BA.1 30 mcg/0.3 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "38821000087105": {
+      "displayName": "[COVID-19] COMIRNATY Original & Omicron BA.4/BA.5 pediatric 3 mcg/0.2mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "51301000087102": {
+      "displayName": "[RSV] AREXVY",
+      "disease": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "51511000087105": {
+      "displayName": "[COVID-19] COMIRNATY Omicron XBB.1.5 pediatric 3 mcg/0.2 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "6851000087107": {
+      "displayName": "[HA] AVAXIM",
+      "disease": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "6901000087101": {
+      "displayName": "[HA] VAQTA",
+      "disease": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "6951000087100": {
+      "displayName": "[HB] RECOMBIVAX HB",
+      "disease": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "20841000087101": {
+      "displayName": "[DTaP-HB-IPV] PEDIARIX",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "66071002": "Hepatitis B",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria",
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "21781000087106": {
+      "displayName": "[Men-C-ACYW-135] NIMENRIX (Pfiz)",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27241000087103": "PFIZER CANADA ULC (supplier)"
+        }
+      ]
+    },
+    "22691000087106": {
+      "displayName": "[DTaP-IPV] KINRIX",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria",
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "MAH": [
+        {
+          "27061000087105": "GlaxoSmithKline Biologicals (supplier)"
+        }
+      ]
+    },
+    "23691000087103": {
+      "displayName": "[DTwP-HB] Tritanrix",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "66071002": "Hepatitis B",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria"
+        }
+      ],
+      "MAH": [
+        {
+          "27061000087105": "GlaxoSmithKline Biologicals (supplier)"
+        }
+      ]
+    },
+    "24211000087105": {
+      "displayName": "[Typh-O] Vivotif (Pax)",
+      "disease": [
+        {
+          "4834000": "Typhoid fever"
+        }
+      ]
+    },
+    "26571000087105": {
+      "displayName": "[SMV] IMVAMUNE",
+      "disease": [
+        {
+          "67924001": "Smallpox",
+          "359814004": "Mpox"
+        }
+      ],
+      "MAH": [
+        {
+          "26921000087101": "BAVARIAN NORDIC AS (supplier)"
+        }
+      ]
+    },
+    "28581000087106": {
+      "displayName": "[COVID-19] COMIRNATY (original strain) 30 mcg/0.3 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "28951000087107": {
+      "displayName": "[COVID-19] JCOVDEN",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29151000087100": "JANSSEN INC. (supplier)"
+        }
+      ]
+    },
+    "31301000087101": {
+      "displayName": "[COVID-19] SINOPHARM-BIBP",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "20811000087102": {
+      "displayName": "[Inf] FLULAVAL TETRA",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27101000087107": "ID BIOMEDICAL CORPORATION OF QUEBEC (supplier)"
+        }
+      ]
+    },
+    "21691000087104": {
+      "displayName": "[Men-C-C] MENJUGATE Liquid",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "21891000087103": {
+      "displayName": "[Men-C-C] NeisVac-C (Pfiz)",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27241000087103": "PFIZER CANADA ULC (supplier)"
+        }
+      ]
+    },
+    "22971000087103": {
+      "displayName": "[Inf] AGRIFLU (SEQ)",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27321000087103": "SEQIRUS UK LIMITED (supplier)"
+        }
+      ]
+    },
+    "23711000087101": {
+      "displayName": "[DTaP-Hib] ACTacel",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria",
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "24381000087107": {
+      "displayName": "[Inf] AFLURIA TETRA",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27311000087106": "SEQIRUS PTY LTD (supplier)"
+        }
+      ]
+    },
+    "26581000087107": {
+      "displayName": "[Men-C-C] MENINGITEC",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27211000087104": "Nuron Biotech B.V. (supplier)"
+        }
+      ]
+    },
+    "28591000087108": {
+      "displayName": "[Inf] INFLUSPLIT TETRA",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27061000087105": "GlaxoSmithKline Biologicals (supplier)"
+        }
+      ]
+    },
+    "28961000087105": {
+      "displayName": "[COVID-19] COVISHIELD",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29161000087102": "VERITY PHARMACEUTICALS INC. (supplier)"
+        }
+      ]
+    },
+    "31311000087104": {
+      "displayName": "[COVID-19] CoronaVac",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "33201000087108": {
+      "displayName": "[COVID-19] SINOPHARM-WIBP",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "33421000087101": {
+      "displayName": "[COVID-19] EpiVacCorona",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "33471000087102": {
+      "displayName": "[COVID-19] ZIFIVAX",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "21681000087101": {
+      "displayName": "[Men-C-ACYW-135] Menveo (GSK)",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "21701000087104": {
+      "displayName": "[Men-C-C] MENJUGATE (GSK)",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "21931000087105": {
+      "displayName": "[Inf] FLUZONE High-Dose",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "22981000087101": {
+      "displayName": "[Inf] FLUAD (SEQ)",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27321000087103": "SEQIRUS UK LIMITED (supplier)"
+        }
+      ]
+    },
+    "23721000087109": {
+      "displayName": "[DTaP-IPV] TETRAVAC-ACELLULAR",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria",
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "MAH": [
+        {
+          "27261000087102": "Sanofi Pasteur (supplier)"
+        }
+      ]
+    },
+    "26521000087106": {
+      "displayName": "[BCG] BCG VACCINE (IDM)",
+      "disease": [
+        {
+          "56717001": "Tuberculosis"
+        }
+      ],
+      "MAH": [
+        {
+          "27101000087107": "ID BIOMEDICAL CORPORATION OF QUEBEC (supplier)"
+        }
+      ]
+    },
+    "28391000087101": {
+      "displayName": "[Inf] FLUAD Pediatric",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27321000087103": "SEQIRUS UK LIMITED (supplier)"
+        }
+      ]
+    },
+    "28611000087103": {
+      "displayName": "[Inf] INFLUVAC TETRA",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "26911000087109": "BGP PHARMA ULC (supplier)"
+        }
+      ]
+    },
+    "29171000087106": {
+      "displayName": "[COVID-19] NUVAXOVID (original strain)",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29951000087102": "NOVAVAX INC. (supplier)"
+        }
+      ]
+    },
+    "31341000087103": {
+      "displayName": "[COVID-19] Sputnik V",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "33211000087105": {
+      "displayName": "[COVID-19] COVAXIN",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "33361000087101": {
+      "displayName": "[COVID-19] COMIRNATY (original strain) pediatric 10 mcg/0.2 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "33431000087104": {
+      "displayName": "[COVID-19] KCONVAC",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "35651000087105": {
+      "displayName": "[COVID-19] SPIKEVAX (original strain) 0.10 mg/mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
+        }
+      ]
+    },
+    "37701000087106": {
+      "displayName": "[COVID-19] COMIRNATY Original & Omicron BA.4/BA.5 pediatric 10 mcg/0.2mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "38591000087106": {
+      "displayName": "[COVID-19]SPIKEVAX Bivalent (Original / Omicron BA.4/BA.5) 10 mcg/0.2 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
+        }
+      ]
+    },
+    "47591000087109": {
+      "displayName": "[COVID-19] CORBEVAX",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "47581000087107": "Biological E. Limited (supplier)"
+        }
+      ]
+    },
+    "51501000087108": {
+      "displayName": "[COVID-19] COMIRNATY Omicron XBB.1.5 pediatric 10 mcg/0.3 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "56391000087101": {
+      "displayName": "[Td] Td ADSORBED (without preservative)",
+      "disease": [
+        {
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "6891000087102": {
+      "displayName": "[HA] VAQTA pediatric",
+      "disease": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "6941000087103": {
+      "displayName": "[HB] RECOMBIVAX HB dialysis",
+      "disease": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "7021000087108": {
+      "displayName": "[BCG] BCG Freeze-dried Glutamate BCG Vaccine Japan",
+      "disease": [
+        {
+          "56717001": "Tuberculosis"
+        }
+      ],
+      "MAH": [
+        {
+          "27131000087104": "Japan BCG Laboratory (supplier)"
+        }
+      ]
+    },
+    "7071000087107": {
+      "displayName": "[Men-C-C] MENJUGATE (NVD)",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27201000087101": "Novartis Vaccines and Diagnostics S.r.l. (supplier)"
+        }
+      ]
+    },
+    "7151000087100": {
+      "displayName": "[JE] IXIARO (IAG)",
+      "disease": [
+        {
+          "52947006": "Japanese encephalitis"
+        }
+      ],
+      "MAH": [
+        {
+          "27121000087101": "Intercell AG (supplier)"
+        }
+      ]
+    },
+    "7031000087105": {
+      "displayName": "[Hib] Act-HIB",
+      "disease": [
+        {
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "7081000087109": {
+      "displayName": "[Men-C-C] NeisVac-C (GSK)",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "7161000087102": {
+      "displayName": "[MMR] M-M-R II",
+      "disease": [
+        {
+          "14189004": "Measles",
+          "36653000": "Rubella",
+          "36989005": "Mumps"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "7211000087109": {
+      "displayName": "[TBE] FSME-IMMUN (BAG)",
+      "disease": [
+        {
+          "712986001": "Tickborne encephalitis"
+        }
+      ]
+    },
+    "7311000087102": {
+      "displayName": "[Typh-I] TYPHIM VI",
+      "disease": [
+        {
+          "4834000": "Typhoid fever"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "7361000087100": {
+      "displayName": "[IPV] IMOVAX POLIO",
+      "disease": [
+        {
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "7411000087108": {
+      "displayName": "[LZV] ZOSTAVAX",
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "7461000087105": {
+      "displayName": "[DTaP-IPV] INFANRIX-IPV",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria",
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "31571000087102": {
+      "displayName": "[Inf] FLUZONE High-Dose Quadrivalent",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "33411000087109": {
+      "displayName": "[COVID-19] CoviVac",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "33461000087106": {
+      "displayName": "[COVID-19] Sputnik Light",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "34611000087105": {
+      "displayName": "[COVID-19] COMIRNATY (original strain) pediatric 3 mcg/0.2 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "37311000087109": {
+      "displayName": "[COVID-19] SPIKEVAX Bivalent (Original / Omicron BA.1) 0.10 mg/mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
+        }
+      ]
+    },
+    "37881000087105": {
+      "displayName": "[Pneu-C-20] PREVNAR 20",
+      "disease": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27241000087103": "PFIZER CANADA ULC (supplier)"
+        }
+      ]
+    },
+    "45391000087107": {
+      "displayName": "[COVID-19] VidPrevtyn Beta",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "51471000087104": {
+      "displayName": "[COVID-19] COMIRNATY Omicron XBB.1.5 30 mcg/0.3 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "51621000087101": {
+      "displayName": "[COVID-19] COMIRNATY Omicron XBB.1.5 pediatric 10 mcg/0.2 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "6861000087105": {
+      "displayName": "[HA] AVAXIM pediatric",
+      "disease": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "MAH": [
+        {
+          "27291000087105": "Sanofi Pasteur SA (supplier)"
+        }
+      ]
+    },
+    "6911000087104": {
+      "displayName": "[HB] Engerix B",
+      "disease": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "6961000087102": {
+      "displayName": "[HAHB] Twinrix Junior",
+      "disease": [
+        {
+          "40468003": "Hepatitis A",
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "7041000087104": {
+      "displayName": "[Hib] Hiberix",
+      "disease": [
+        {
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "7111000087104": {
+      "displayName": "[Men-P-ACYW-135] MENOMUNE (SP)",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ]
+    },
+    "34631000087100": {
+      "displayName": "[Anth] BioThrax",
+      "disease": [
+        {
+          "409498004": "Anthrax"
+        }
+      ],
+      "MAH": [
+        {
+          "34621000087102": "Emergent BioDefense Operations Lansing LLC (supplier)"
+        }
+      ]
+    },
+    "37651000087101": {
+      "displayName": "[COVID-19] SPIKEVAX Bivalent (Original / Omicron BA.4/BA.5) 0.10 mg/mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
+        }
+      ]
+    },
+    "37891000087107": {
+      "displayName": "[Pneu-C-15] VAXNEUVANCE",
+      "disease": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "45401000087105": {
+      "displayName": "[Inf] FOCLIVIA",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27321000087103": "SEQIRUS UK LIMITED (supplier)"
+        }
+      ]
+    },
+    "51481000087102": {
+      "displayName": "[COVID-19] SPIKEVAX XBB.1.5 0.10 mg/mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
+        }
+      ]
+    },
+    "55351000087104": {
+      "displayName": "[RSV] ABRYSVO",
+      "disease": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "MAH": [
+        {
+          "27241000087103": "PFIZER CANADA ULC (supplier)"
+        }
+      ]
+    },
+    "6871000087101": {
+      "displayName": "[HA] Havrix 1440",
+      "disease": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "6921000087107": {
+      "displayName": "[HB] Engerix B pediatric",
+      "disease": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "6971000087106": {
+      "displayName": "[HAHB] Twinrix",
+      "disease": [
+        {
+          "40468003": "Hepatitis A",
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "7051000087101": {
+      "displayName": "[Hib] Liquid PedvaxHIB",
+      "disease": [
+        {
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "7131000087109": {
+      "displayName": "[Men-C-ACYW-135] Menactra",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "7181000087108": {
+      "displayName": "[MMR-Var] PRIORIX-TETRA",
+      "disease": [
+        {
+          "14189004": "Measles",
+          "36653000": "Rubella",
+          "36989005": "Mumps"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "33881000087102": {
+      "displayName": "[COVID-19] COMIRNATY (original strain) tris-sucrose 30 mcg/0.3 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "34921000087108": {
+      "displayName": "[COVID-19] COVOVAX",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "37691000087106": {
+      "displayName": "[COVID-19] COMIRNATY Original & Omicron BA.4/BA.5 30 mcg/0.3 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "37901000087108": {
+      "displayName": "Typh-O Vivotif ETH"
+    },
+    "45411000087107": {
+      "displayName": "[EZV] ERVEBO",
+      "disease": [
+        {
+          "45901000087102": "Zaire Ebolavirus disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "51491000087100": {
+      "displayName": "[COVID-19] NUVAXOVID Omicron XBB.1.5",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29951000087102": "NOVAVAX INC. (supplier)"
+        }
+      ]
+    },
+    "56051000087108": {
+      "displayName": "[Men-C-ACYW] MenQuadfi",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "6881000087104": {
+      "displayName": "[HA] Havrix 720 Junior",
+      "disease": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "6931000087109": {
+      "displayName": "[HB] RECOMBIVAX HB pediatric",
+      "disease": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "7011000087100": {
+      "displayName": "[BCG] BCG Vaccine (SP)",
+      "disease": [
+        {
+          "56717001": "Tuberculosis"
+        }
+      ]
+    },
+    "7061000087103": {
+      "displayName": "[Men-C-C] Meningitec (BB)",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ]
+    },
+    "7141000087103": {
+      "displayName": "[Men-C-ACYW-135] Menveo (NVD)",
+      "disease": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27191000087103": "Novartis Vaccines and Diagnostics Inc. (supplier)"
+        }
+      ]
+    },
+    "7191000087105": {
+      "displayName": "[Rota-1] ROTARIX",
+      "disease": [
+        {
+          "18624000": "Rotavirus infection"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "7201000087107": {
+      "displayName": "[Rota-5] RotaTeq",
+      "disease": [
+        {
+          "18624000": "Rotavirus infection"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "7301000087104": {
+      "displayName": "[Typh-I] TYPHERIX",
+      "disease": [
+        {
+          "4834000": "Typhoid fever"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "7351000087103": {
+      "displayName": "[HPV-4] GARDASIL",
+      "disease": [
+        {
+          "240532009": "Human papilloma virus infection"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "7401000087106": {
+      "displayName": "[Chol-Ecol-O] DUKORAL (CSA)",
+      "disease": [
+        {
+          "11840006": "Traveler's diarrhea",
+          "63650001": "Cholera"
+        }
+      ],
+      "MAH": [
+        {
+          "27021000087100": "Crucell Sweden AB (supplier)"
+        }
+      ]
+    },
+    "7451000087107": {
+      "displayName": "[DTaP-HB-IPV-Hib] INFANRIX hexa",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "66071002": "Hepatitis B",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria",
+          "398102009": "Poliomyelitis",
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "7501000087105": {
+      "displayName": "[DTaP-IPV-Hib] INFANRIX-IPV/Hib",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria",
+          "398102009": "Poliomyelitis",
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "7561000087109": {
+      "displayName": "[Inf] Vaxigrip",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27291000087105": "Sanofi Pasteur SA (supplier)"
+        }
+      ]
+    },
+    "7611000087106": {
+      "displayName": "[Inf] Intanza 15 mcg/ 0.1 mL",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27291000087105": "Sanofi Pasteur SA (supplier)"
+        }
+      ]
+    },
+    "7511000087107": {
+      "displayName": "[DTaP-IPV-Hib] PENTACEL",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria",
+          "398102009": "Poliomyelitis",
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "7571000087100": {
+      "displayName": "[Inf] FLUMIST",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "26881000087109": "ASTRAZENECA CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "7621000087103": {
+      "displayName": "[Inf] INFLUVAC (API)",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ]
+    },
+    "7681000087102": {
+      "displayName": "[Pneu-C-13] Prevnar 13",
+      "disease": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27241000087103": "PFIZER CANADA ULC (supplier)"
+        }
+      ]
+    },
+    "7171000087106": {
+      "displayName": "[MMR] PRIORIX",
+      "disease": [
+        {
+          "14189004": "Measles",
+          "36653000": "Rubella",
+          "36989005": "Mumps"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "7221000087101": {
+      "displayName": "[YF] YF-VAX",
+      "disease": [
+        {
+          "16541001": "Yellow fever"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "7321000087105": {
+      "displayName": "[Typh-O] Vivotif (CS)",
+      "disease": [
+        {
+          "4834000": "Typhoid fever"
+        }
+      ]
+    },
+    "7371000087109": {
+      "displayName": "[Td] Td ADSORBED (with preservative)",
+      "disease": [
+        {
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "7421000087100": {
+      "displayName": "[DTaP] Tripacel Hybrid",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "7471000087101": {
+      "displayName": "[DTaP-IPV] QUADRACEL",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria",
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "7521000087104": {
+      "displayName": "[DTaP-IPV-Hib] PEDIACEL",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria",
+          "398102009": "Poliomyelitis",
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "7231000087104": {
+      "displayName": "VARILRIX 3300000 plaque forming units per 0.5 milliliter powder and diluent for solution for injection GlaxoSmithKline Inc."
+    },
+    "7331000087107": {
+      "displayName": "[HA-Typh-I] ViVAXIM",
+      "disease": [
+        {
+          "4834000": "Typhoid fever",
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "7381000087106": {
+      "displayName": "[Rab] Imovax Rabies",
+      "disease": [
+        {
+          "14168008": "Rabies"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "7431000087103": {
+      "displayName": "[Tdap] ADACEL",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "7481000087104": {
+      "displayName": "[Tdap-IPV] ADACEL-POLIO",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria",
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "7531000087102": {
+      "displayName": "[Td-IPV] Td Polio Absorbed",
+      "disease": [
+        {
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria",
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "7241000087105": {
+      "displayName": "[Var] VARIVAX III",
+      "disease": [
+        {
+          "38907003": "Varicella"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "7341000087101": {
+      "displayName": "[HPV-2] CERVARIX",
+      "disease": [
+        {
+          "240532009": "Human papilloma virus infection"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "7391000087108": {
+      "displayName": "[Rab] RabAvert (NVD)",
+      "disease": [
+        {
+          "14168008": "Rabies"
+        }
+      ],
+      "MAH": [
+        {
+          "27171000087102": "Novartis Vaccines and Diagnostics (supplier)"
+        }
+      ]
+    },
+    "7441000087109": {
+      "displayName": "[Tdap] BOOSTRIX",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "7491000087102": {
+      "displayName": "[Tdap-IPV] BOOSTRIX-POLIO",
+      "disease": [
+        {
+          "27836007": "Pertussis",
+          "76902006": "Tetanus",
+          "397430003": "Diphtheria",
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "7541000087108": {
+      "displayName": "[Inf] FLUVIRAL",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27101000087107": "ID BIOMEDICAL CORPORATION OF QUEBEC (supplier)"
+        }
+      ]
+    },
+    "7601000087109": {
+      "displayName": "[Inf] Intanza 9 mcg/ 0.1 mL",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27291000087105": "Sanofi Pasteur SA (supplier)"
+        }
+      ]
+    },
+    "7651000087105": {
+      "displayName": "[Pneu-C-7] Prevnar",
+      "disease": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27231000087109": "Pfizer Canada Inc. (supplier)"
+        }
+      ]
+    },
+    "7671000087104": {
+      "displayName": "[Pneu-C-10] SYNFLORIX",
+      "disease": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
+        }
+      ]
+    },
+    "7581000087103": {
+      "displayName": "[Inf] Agriflu (NVD)",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27191000087103": "Novartis Vaccines and Diagnostics Inc. (supplier)"
+        }
+      ]
+    },
+    "7631000087101": {
+      "displayName": "[Pneu-P-23] Pneumo 23",
+      "disease": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27291000087105": "Sanofi Pasteur SA (supplier)"
+        }
+      ]
+    },
+    "8651000087109": {
+      "displayName": "[Inf] FLUZONE",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27291000087105": "Sanofi Pasteur SA (supplier)"
+        }
+      ]
+    },
+    "7591000087101": {
+      "displayName": "[Inf] FLUAD (NVD)",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27191000087103": "Novartis Vaccines and Diagnostics Inc. (supplier)"
+        }
+      ]
+    },
+    "7641000087107": {
+      "displayName": "[Pneu-P-23] Pneumovax 23",
+      "disease": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "9851000087104": {
+      "displayName": "[HA] Epaxal Berna (SSV)",
+      "disease": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ]
+    },
+    "19301000087107": {
+      "displayName": "[Datx] Diphtheria Antitoxin B.P.",
+      "disease": [
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "MAH": [
+        {
+          "27361000087108": "VINS Bioproducts Limited (supplier)"
+        }
+      ]
+    },
+    "19331000087104": {
+      "displayName": "[CMVIg] Cytogam (CSL)",
+      "disease": [
+        {
+          "28944009": "Cytomegalovirus disease"
+        }
+      ]
+    },
+    "19361000087106": {
+      "displayName": "[Batx] Botulism Antitoxin Behring",
+      "disease": [
+        {
+          "1149327007": "Poisoning caused by Clostridium botulinum toxin"
+        }
+      ],
+      "MAH": [
+        {
+          "27171000087102": "Novartis Vaccines and Diagnostics (supplier)"
+        }
+      ]
+    },
+    "19411000087103": {
+      "displayName": "[RSVAb] SYNAGIS (BI)",
+      "disease": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "MAH": [
+        {
+          "28381000087103": "Boehringer Ingelheim (BI) Pharma KG (supplier)"
+        }
+      ]
+    },
+    "19391000087103": {
+      "displayName": "[Ig] GamaSTAN S/D",
+      "disease": [
+        {
+          "14189004": "Measles",
+          "36653000": "Rubella",
+          "38907003": "Varicella",
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "MAH": [
+        {
+          "27091000087102": "Grifols Therapeutics Inc. (supplier)"
+        }
+      ]
+    },
+    "19421000087106": {
+      "displayName": "[BIG-IV] BabyBIG",
+      "disease": [
+        {
+          "1149327007": "Poisoning caused by Clostridium botulinum toxin"
+        }
+      ],
+      "MAH": [
+        {
+          "26991000087103": "California Department of Public Health (supplier)"
+        }
+      ]
+    },
+    "19471000087105": {
+      "displayName": "[Ig] IMMUNE SERUM GLOBULIN (HUMAN)",
+      "disease": [
+        {
+          "14189004": "Measles",
+          "36653000": "Rubella",
+          "38907003": "Varicella",
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "MAH": [
+        {
+          "27091000087102": "Grifols Therapeutics Inc. (supplier)"
+        }
+      ]
+    },
+    "21941000087104": {
+      "displayName": "[Batx] BAT (Cang)",
+      "disease": [
+        {
+          "1149327007": "Poisoning caused by Clostridium botulinum toxin"
+        }
+      ],
+      "MAH": [
+        {
+          "27001000087106": "Cangene Corporation (supplier)"
+        }
+      ]
+    },
+    "19431000087108": {
+      "displayName": "[Datx] Diphtheria antitoxin (IOI)",
+      "disease": [
+        {
+          "397430003": "Diphtheria"
+        }
+      ]
+    },
+    "26531000087108": {
+      "displayName": "[CMVIg] Cytogam (STR)",
+      "disease": [
+        {
+          "28944009": "Cytomegalovirus disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27301000087109": "Saol Therapeutics Research Limited (supplier)"
+        }
+      ]
+    },
+    "23751000087102": {
+      "displayName": "[Batx] BAT (EBS)",
+      "disease": [
+        {
+          "1149327007": "Poisoning caused by Clostridium botulinum toxin"
+        }
+      ],
+      "MAH": [
+        {
+          "27051000087107": "Emergent BioSolutions Canada Inc. (supplier)"
+        }
+      ]
+    },
+    "28411000087101": {
+      "displayName": "[HBIg] HyperHEP B S/D",
+      "disease": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "MAH": [
+        {
+          "27081000087104": "Grifols Canada Limited (supplier)"
+        }
+      ]
+    },
+    "45871000087102": {
+      "displayName": "[HBIg] HyperHEP B 220 IU/mL",
+      "disease": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "MAH": [
+        {
+          "27091000087102": "Grifols Therapeutics Inc. (supplier)"
+        }
+      ]
+    },
+    "7971000087108": {
+      "displayName": "[RabIg] IMOGAM",
+      "disease": [
+        {
+          "14168008": "Rabies"
+        }
+      ],
+      "MAH": [
+        {
+          "27291000087105": "Sanofi Pasteur SA (supplier)"
+        }
+      ]
+    },
+    "26591000087109": {
+      "displayName": "[VarIg] VariZIG (STR)",
+      "disease": [
+        {
+          "38907003": "Varicella"
+        }
+      ],
+      "MAH": [
+        {
+          "27301000087109": "Saol Therapeutics Research Limited (supplier)"
+        }
+      ]
+    },
+    "30901000087107": {
+      "displayName": "[Datx] Diphtheria Antitoxin (DAT)",
+      "disease": [
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "MAH": [
+        {
+          "30891000087106": "Instituto Butantan Brasil (supplier)"
+        }
+      ]
+    },
+    "29721000087106": {
+      "displayName": "[Ig] GamaSTAN",
+      "disease": [
+        {
+          "14189004": "Measles",
+          "36653000": "Rubella",
+          "38907003": "Varicella",
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "MAH": [
+        {
+          "27091000087102": "Grifols Therapeutics Inc. (supplier)"
+        }
+      ]
+    },
+    "45881000087100": {
+      "displayName": "[HBIg] HyperHEP B 110 IU/0.5 mL",
+      "disease": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "MAH": [
+        {
+          "27091000087102": "Grifols Therapeutics Inc. (supplier)"
+        }
+      ]
+    },
+    "7981000087105": {
+      "displayName": "[TIg] HYPERTET S/D",
+      "disease": [
+        {
+          "76902006": "Tetanus"
+        }
+      ],
+      "MAH": [
+        {
+          "27081000087104": "Grifols Canada Limited (supplier)"
+        }
+      ]
+    },
+    "26561000087101": {
+      "displayName": "[HBIg] HepaGam B (STR)",
+      "disease": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "MAH": [
+        {
+          "27301000087109": "Saol Therapeutics Research Limited (supplier)"
+        }
+      ]
+    },
+    "33841000087107": {
+      "displayName": "[TIg] HyperTET",
+      "disease": [
+        {
+          "76902006": "Tetanus"
+        }
+      ],
+      "MAH": [
+        {
+          "27091000087102": "Grifols Therapeutics Inc. (supplier)"
+        }
+      ]
+    },
+    "7961000087104": {
+      "displayName": "[RabIg] HYPERRAB S/D",
+      "disease": [
+        {
+          "14168008": "Rabies"
+        }
+      ],
+      "MAH": [
+        {
+          "27081000087104": "Grifols Canada Limited (supplier)"
+        }
+      ]
+    },
+    "28361000087109": {
+      "displayName": "[RabIg] KamRAB",
+      "disease": [
+        {
+          "14168008": "Rabies"
+        }
+      ],
+      "MAH": [
+        {
+          "28401000087103": "KAMADA LTD (supplier)"
+        }
+      ]
+    },
+    "31551000087108": {
+      "displayName": "[RabIg] HyperRAB",
+      "disease": [
+        {
+          "14168008": "Rabies"
+        }
+      ],
+      "MAH": [
+        {
+          "27091000087102": "Grifols Therapeutics Inc. (supplier)"
+        }
+      ]
+    },
+    "7951000087102": {
+      "displayName": "HBIg HyperHEP B Grif"
+    },
+    "7941000087100": {
+      "displayName": "[HBIg] HepaGam B (Cang)",
+      "disease": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ]
+    },
+    "7991000087107": {
+      "displayName": "[VarIg] VariZIG (Cang)",
+      "disease": [
+        {
+          "38907003": "Varicella"
+        }
+      ]
+    },
+    "56761000087108": {
+      "displayName": "[Sma] ACAM2000",
+      "disease": [
+        {
+          "67924001": "Smallpox"
+        }
+      ],
+      "MAH": [
+        {
+          "56751000087105": "EMERGENT PRODUCT DEVELOPMENT GAITHERSBURG INC. (supplier)"
+        }
+      ]
+    },
+    "57881000087106": {
+      "displayName": "[Inf] AREPANRIX H5N1",
+      "disease": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "MAH": [
+        {
+          "27101000087107": "ID BIOMEDICAL CORPORATION OF QUEBEC (supplier)"
+        }
+      ]
+    },
+    "57871000087109": {
+      "displayName": "[RSVAb] SYNAGIS (AZC)",
+      "disease": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "MAH": [
+        {
+          "26881000087109": "ASTRAZENECA CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "57911000087106": {
+      "displayName": "[HBIg] HepaGam B (KIB)",
+      "disease": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "MAH": [
+        {
+          "57851000087103": "KI BIOPHARMA LLC (supplier)"
+        }
+      ]
+    },
+    "57901000087109": {
+      "displayName": "[CMVIg] Cytogam (KIB)",
+      "disease": [
+        {
+          "28944009": "Cytomegalovirus disease"
+        }
+      ],
+      "MAH": [
+        {
+          "57851000087103": "KI BIOPHARMA LLC (supplier)"
+        }
+      ]
+    },
+    "57891000087108": {
+      "displayName": "[VarIg] VariZIG (KIB)",
+      "disease": [
+        {
+          "38907003": "Varicella"
+        }
+      ],
+      "MAH": [
+        {
+          "57851000087103": "KI BIOPHARMA LLC (supplier)"
+        }
+      ]
+    },
+    "57861000087100": {
+      "displayName": "[Typh-O] Vivotif",
+      "disease": [
+        {
+          "4834000": "Typhoid fever"
+        }
+      ],
+      "MAH": [
+        {
+          "26921000087101": "BAVARIAN NORDIC AS (supplier)"
+        }
+      ]
+    },
+    "58291000087105": {
+      "displayName": "[RSVAb] BEYFORTUS 100 mg/1 mL",
+      "disease": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "58301000087109": {
+      "displayName": "[RSVAb] BEYFORTUS 50 mg/0.5 mL",
+      "disease": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "MAH": [
+        {
+          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
+        }
+      ]
+    },
+    "60261000087109": {
+      "displayName": "[Chol-O] VAXCHORA",
+      "disease": [
+        {
+          "11840006": "Traveler's diarrhea",
+          "63650001": "Cholera"
+        }
+      ],
+      "MAH": [
+        {
+          "26921000087101": "BAVARIAN NORDIC AS (supplier)"
+        }
+      ]
+    },
+    "60671000087102": {
+      "displayName": "[COVID-19] SPIKEVAX 0.10 mg/mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
+        }
+      ]
+    },
+    "60681000087100": {
+      "displayName": "[COVID-19] COMIRNATY 30 mcg/0.3 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "60851000087107": {
+      "displayName": "[COVID-19] NUVAXOVID",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29951000087102": "NOVAVAX INC. (supplier)"
+        }
+      ]
+    },
+    "60831000087103": {
+      "displayName": "[COVID-19] COMIRNATY pediatric 10 mcg/0.2 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "60841000087109": {
+      "displayName": "[COVID-19] COMIRNATY pediatric 10 mcg/0.3 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "60891000087102": {
+      "displayName": "[COVID-19] COMIRNATY pediatric 3 mcg/0.2 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "60601000087107": {
+      "displayName": "[Pneu-C-21] CAPVAXIVE",
+      "disease": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "MAH": [
+        {
+          "27161000087106": "MERCK CANADA INC. (supplier)"
+        }
+      ]
+    },
+    "61241000087101": {
+      "displayName": "[Chik] IXCHIQ",
+      "disease": [
+        {
+          "111864006": "Chikungunya fever"
+        }
+      ],
+      "MAH": [
+        {
+          "27371000087104": "VALNEVA AUSTRIA GMBH (supplier)"
+        }
+      ]
+    },
+    "61431000087108": {
+      "displayName": "[COVID-19] COMIRNATY pediatric 3 mcg/0.3 mL",
+      "disease": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAH": [
+        {
+          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
+        }
+      ]
+    },
+    "61761000087105": {
+      "displayName": "[RSV] mRESVIA",
+      "disease": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "MAH": [
+        {
+          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
+        }
+      ]
+    },
     "1051000221104": {
       "displayName": "[OPV] Poliomyelitis live vaccine",
       "disease": [
@@ -1451,14 +4223,6 @@
       "disease": [
         {
           "6142004": "Influenza"
-        }
-      ]
-    },
-    "24211000087105": {
-      "displayName": "Typh-O Vivotif Pax",
-      "MAH": [
-        {
-          "27221000087107": "Berna GmbH (supplier)"
         }
       ]
     },
@@ -1654,27 +4418,11 @@
     "56341000087108": {
       "displayName": "[LZV] Live attenuated herpes zoster vaccine"
     },
-    "7011000087100": {
-      "displayName": "BCG Vaccine SP",
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
     "7121000087107": {
       "displayName": "[Men-C-ACYW] Meningococcal conjugate A + C + Y + W vaccine",
       "disease": [
         {
           "23511006": "Meningococcal disease"
-        }
-      ]
-    },
-    "7321000087105": {
-      "displayName": "Typh-O Vivotif CS",
-      "MAH": [
-        {
-          "27031000087103": "Crucell Switzerland LTD (supplier)"
         }
       ]
     },
@@ -1757,14 +4505,6 @@
         }
       ]
     },
-    "7111000087104": {
-      "displayName": "Men-P-ACYW-135 MENOMUNE-A/C/Y/W-135 SP",
-      "MAH": [
-        {
-          "27271000087106": "Sanofi Pasteur Inc. (supplier)"
-        }
-      ]
-    },
     "7281000087100": {
       "displayName": "Measles + rubella vaccine"
     },
@@ -1807,14 +4547,6 @@
       "disease": [
         {
           "6142004": "Influenza"
-        }
-      ]
-    },
-    "9851000087104": {
-      "displayName": "HA Epaxal Berna SSV",
-      "MAH": [
-        {
-          "26961000087106": "Berna Biotech Limited (supplier)"
         }
       ]
     },
@@ -1919,30 +4651,6 @@
       "disease": [
         {
           "27836007": "Pertussis"
-        }
-      ]
-    },
-    "7061000087103": {
-      "displayName": "Men-C-C Meningitec BB",
-      "MAH": [
-        {
-          "26951000087108": "Berna Biotech AG (supplier)"
-        }
-      ]
-    },
-    "7211000087109": {
-      "displayName": "TBE FSME-IMMUN BAG",
-      "MAH": [
-        {
-          "26931000087104": "Baxter AG (supplier)"
-        }
-      ]
-    },
-    "7621000087103": {
-      "displayName": "Inf INFLUVAC API",
-      "MAH": [
-        {
-          "27041000087109": "Drug Safety, Abbott Laboratories, Limited (supplier)"
         }
       ]
     },
@@ -2131,43 +4839,11 @@
     "7291000087103": {
       "displayName": "Mu mumps unspecified"
     },
-    "19331000087104": {
-      "displayName": "CMVIg Cytogam CSL",
-      "MAH": [
-        {
-          "26981000087100": "CSL Behring AG (supplier)"
-        }
-      ]
-    },
     "21911000087100": {
       "displayName": "BAtx botulism antitoxin heptavalent unspecified",
       "disease": [
         {
           "1149327007": "Poisoning caused by Clostridium botulinum toxin"
-        }
-      ]
-    },
-    "19431000087108": {
-      "displayName": "DAtx Diphtheria antitoxin IOI",
-      "MAH": [
-        {
-          "27111000087109": "Institute of Immunology Inc. (supplier)"
-        }
-      ]
-    },
-    "7941000087100": {
-      "displayName": "HBIg HepaGam B Cang",
-      "MAH": [
-        {
-          "27001000087106": "Cangene Corporation (supplier)"
-        }
-      ]
-    },
-    "7991000087107": {
-      "displayName": "VarIg VariZIG Cang",
-      "MAH": [
-        {
-          "27001000087106": "Cangene Corporation (supplier)"
         }
       ]
     },
@@ -2806,2682 +5482,6 @@
       "disease": [
         {
           "55735004": "Respiratory syncytial virus infection"
-        }
-      ]
-    },
-    "19291000087108": {
-      "displayName": "[Inf] Xanaflu",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27041000087109": "Drug Safety, Abbott Laboratories, Limited (supplier)"
-        }
-      ]
-    },
-    "19311000087109": {
-      "displayName": "[Men-B] BEXSERO (NVD)",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27191000087103": "Novartis Vaccines and Diagnostics Inc. (supplier)"
-        }
-      ]
-    },
-    "19441000087102": {
-      "displayName": "[MMR-Var] ProQuad",
-      "disease": [
-        {
-          "14189004": "Measles",
-          "36653000": "Rubella",
-          "36989005": "Mumps"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "19321000087101": {
-      "displayName": "[LZV] ZOSTAVAX II",
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "19351000087108": {
-      "displayName": "[Men-C-ACYW-135] NIMENRIX (GSK)",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "20741000087105": {
-      "displayName": "[Inf] FLUMIST QUADRIVALENT",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "26881000087109": "ASTRAZENECA CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "20691000087107": {
-      "displayName": "[Inf] FLUZONE Quadrivalent",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "20871000087109": {
-      "displayName": "[HPV-9] GARDASIL 9",
-      "disease": [
-        {
-          "240532009": "Human papilloma virus infection"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "21671000087103": {
-      "displayName": "[Men-B] BEXSERO (GSK)",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "21771000087109": {
-      "displayName": "[JE] IXIARO (VAL)",
-      "disease": [
-        {
-          "52947006": "Japanese encephalitis"
-        }
-      ],
-      "MAH": [
-        {
-          "27371000087104": "VALNEVA AUSTRIA GMBH (supplier)"
-        }
-      ]
-    },
-    "22681000087109": {
-      "displayName": "[Inf] INFLUVAC (BGP)",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "26911000087109": "BGP PHARMA ULC (supplier)"
-        }
-      ]
-    },
-    "23031000087108": {
-      "displayName": "[Men-B] Trumenba",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27241000087103": "PFIZER CANADA ULC (supplier)"
-        }
-      ]
-    },
-    "24201000087108": {
-      "displayName": "[Chol-Ecol-O] DUKORAL (VAL)",
-      "disease": [
-        {
-          "11840006": "Traveler's diarrhea",
-          "63650001": "Cholera"
-        }
-      ],
-      "MAH": [
-        {
-          "27381000087102": "VALNEVA SWEDEN AB (supplier)"
-        }
-      ]
-    },
-    "26551000087104": {
-      "displayName": "[TBE] FSME-IMMUN (Bax)",
-      "disease": [
-        {
-          "712986001": "Tickborne encephalitis"
-        }
-      ],
-      "MAH": [
-        {
-          "26941000087105": "BAXTER CORPORATION (supplier)"
-        }
-      ]
-    },
-    "28571000087109": {
-      "displayName": "[COVID-19] SPIKEVAX (original strain) 0.20 mg/mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
-        }
-      ]
-    },
-    "28761000087108": {
-      "displayName": "[COVID-19] VAXZEVRIA",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "26881000087109": "ASTRAZENECA CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "31541000087105": {
-      "displayName": "[Var] VARILRIX",
-      "disease": [
-        {
-          "38907003": "Varicella"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "21711000087102": {
-      "displayName": "[Rab] RabAvert (GSK)",
-      "disease": [
-        {
-          "14168008": "Rabies"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "22181000087103": {
-      "displayName": "[DPT-HB-Hib] PENTAVAC",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "66071002": "Hepatitis B",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria",
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "MAH": [
-        {
-          "27331000087101": "Serum Institute of India LTD (supplier)"
-        }
-      ]
-    },
-    "23011000087103": {
-      "displayName": "[RZV] SHINGRIX",
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "23771000087108": {
-      "displayName": "[Hib-HB] COMVAX",
-      "disease": [
-        {
-          "66071002": "Hepatitis B",
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "MAH": [
-        {
-          "27151000087108": "Merck & Co. Inc. (supplier)"
-        }
-      ]
-    },
-    "26541000087102": {
-      "displayName": "[HA] EPAXAL (BB)",
-      "disease": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "MAH": [
-        {
-          "26961000087106": "Berna Biotech Limited (supplier)"
-        }
-      ]
-    },
-    "28491000087107": {
-      "displayName": "[Inf] FLUCELVAX QUAD",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27321000087103": "SEQIRUS UK LIMITED (supplier)"
-        }
-      ]
-    },
-    "28721000087103": {
-      "displayName": "[DTaP] TRIPACEL",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "30151000087105": {
-      "displayName": "[COVID-19] COVIFENZ",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "30161000087108": "Medicago Inc. (supplier)"
-        }
-      ]
-    },
-    "31431000087100": {
-      "displayName": "[COVID-19] Convidecia",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "33221000087102": {
-      "displayName": "[COVID-19] CureVac",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "33391000087109": {
-      "displayName": "[COVID-19] Abdala",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "33441000087105": {
-      "displayName": "[COVID-19] Medgen-Dynavax-NIAID",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "34591000087100": {
-      "displayName": "[COVID-19] Soberana 02",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "33231000087100": {
-      "displayName": "[Rab] RABAVERT (BN)",
-      "disease": [
-        {
-          "14168008": "Rabies"
-        }
-      ],
-      "MAH": [
-        {
-          "26921000087101": "BAVARIAN NORDIC AS (supplier)"
-        }
-      ]
-    },
-    "33401000087107": {
-      "displayName": "[COVID-19] COVIran Barekat",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "33451000087108": {
-      "displayName": "[COVID-19] QazCovid-in",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "34601000087108": {
-      "displayName": "[COVID-19] SpikoGen",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "35661000087108": {
-      "displayName": "[Inf] Supemtek",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27291000087105": "Sanofi Pasteur SA (supplier)"
-        }
-      ]
-    },
-    "37871000087108": {
-      "displayName": "[COVID-19] COMIRNATY Original / Omicron BA.1 30 mcg/0.3 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "38821000087105": {
-      "displayName": "[COVID-19] COMIRNATY Original & Omicron BA.4/BA.5 pediatric 3 mcg/0.2mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "51301000087102": {
-      "displayName": "[RSV] AREXVY",
-      "disease": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "51511000087105": {
-      "displayName": "[COVID-19] COMIRNATY Omicron XBB.1.5 pediatric 3 mcg/0.2 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "6851000087107": {
-      "displayName": "[HA] AVAXIM",
-      "disease": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "6901000087101": {
-      "displayName": "[HA] VAQTA",
-      "disease": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "6951000087100": {
-      "displayName": "[HB] RECOMBIVAX HB",
-      "disease": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "20841000087101": {
-      "displayName": "[DTaP-HB-IPV] PEDIARIX",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "66071002": "Hepatitis B",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria",
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "21781000087106": {
-      "displayName": "[Men-C-ACYW-135] NIMENRIX (Pfiz)",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27241000087103": "PFIZER CANADA ULC (supplier)"
-        }
-      ]
-    },
-    "22691000087106": {
-      "displayName": "[DTaP-IPV] KINRIX",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria",
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "MAH": [
-        {
-          "27061000087105": "GlaxoSmithKline Biologicals (supplier)"
-        }
-      ]
-    },
-    "23691000087103": {
-      "displayName": "[DTwP-HB] Tritanrix",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "66071002": "Hepatitis B",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria"
-        }
-      ],
-      "MAH": [
-        {
-          "27061000087105": "GlaxoSmithKline Biologicals (supplier)"
-        }
-      ]
-    },
-    "26571000087105": {
-      "displayName": "[SMV] IMVAMUNE",
-      "disease": [
-        {
-          "67924001": "Smallpox",
-          "359814004": "Mpox"
-        }
-      ],
-      "MAH": [
-        {
-          "26921000087101": "BAVARIAN NORDIC AS (supplier)"
-        }
-      ]
-    },
-    "28581000087106": {
-      "displayName": "[COVID-19] COMIRNATY (original strain) 30 mcg/0.3 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "28951000087107": {
-      "displayName": "[COVID-19] JCOVDEN",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29151000087100": "JANSSEN INC. (supplier)"
-        }
-      ]
-    },
-    "31301000087101": {
-      "displayName": "[COVID-19] SINOPHARM-BIBP",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "20811000087102": {
-      "displayName": "[Inf] FLULAVAL TETRA",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27101000087107": "ID BIOMEDICAL CORPORATION OF QUEBEC (supplier)"
-        }
-      ]
-    },
-    "21691000087104": {
-      "displayName": "[Men-C-C] MENJUGATE Liquid",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "21891000087103": {
-      "displayName": "[Men-C-C] NeisVac-C (Pfiz)",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27241000087103": "PFIZER CANADA ULC (supplier)"
-        }
-      ]
-    },
-    "22971000087103": {
-      "displayName": "[Inf] AGRIFLU (SEQ)",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27321000087103": "SEQIRUS UK LIMITED (supplier)"
-        }
-      ]
-    },
-    "23711000087101": {
-      "displayName": "[DTaP-Hib] ACTacel",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria",
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "24381000087107": {
-      "displayName": "[Inf] AFLURIA TETRA",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27311000087106": "SEQIRUS PTY LTD (supplier)"
-        }
-      ]
-    },
-    "26581000087107": {
-      "displayName": "[Men-C-C] MENINGITEC",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27211000087104": "Nuron Biotech B.V. (supplier)"
-        }
-      ]
-    },
-    "28591000087108": {
-      "displayName": "[Inf] INFLUSPLIT TETRA",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27061000087105": "GlaxoSmithKline Biologicals (supplier)"
-        }
-      ]
-    },
-    "28961000087105": {
-      "displayName": "[COVID-19] COVISHIELD",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29161000087102": "VERITY PHARMACEUTICALS INC. (supplier)"
-        }
-      ]
-    },
-    "31311000087104": {
-      "displayName": "[COVID-19] CoronaVac",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "33201000087108": {
-      "displayName": "[COVID-19] SINOPHARM-WIBP",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "33421000087101": {
-      "displayName": "[COVID-19] EpiVacCorona",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "33471000087102": {
-      "displayName": "[COVID-19] ZIFIVAX",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "21681000087101": {
-      "displayName": "[Men-C-ACYW-135] Menveo (GSK)",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "21701000087104": {
-      "displayName": "[Men-C-C] MENJUGATE (GSK)",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "21931000087105": {
-      "displayName": "[Inf] FLUZONE High-Dose",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "22981000087101": {
-      "displayName": "[Inf] FLUAD (SEQ)",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27321000087103": "SEQIRUS UK LIMITED (supplier)"
-        }
-      ]
-    },
-    "23721000087109": {
-      "displayName": "[DTaP-IPV] TETRAVAC-ACELLULAR",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria",
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "MAH": [
-        {
-          "27261000087102": "Sanofi Pasteur (supplier)"
-        }
-      ]
-    },
-    "26521000087106": {
-      "displayName": "[BCG] BCG VACCINE (IDM)",
-      "disease": [
-        {
-          "56717001": "Tuberculosis"
-        }
-      ],
-      "MAH": [
-        {
-          "27101000087107": "ID BIOMEDICAL CORPORATION OF QUEBEC (supplier)"
-        }
-      ]
-    },
-    "28391000087101": {
-      "displayName": "[Inf] FLUAD Pediatric",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27321000087103": "SEQIRUS UK LIMITED (supplier)"
-        }
-      ]
-    },
-    "28611000087103": {
-      "displayName": "[Inf] INFLUVAC TETRA",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "26911000087109": "BGP PHARMA ULC (supplier)"
-        }
-      ]
-    },
-    "29171000087106": {
-      "displayName": "[COVID-19] NUVAXOVID (original strain)",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29951000087102": "NOVAVAX INC. (supplier)"
-        }
-      ]
-    },
-    "31341000087103": {
-      "displayName": "[COVID-19] Sputnik V",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "33211000087105": {
-      "displayName": "[COVID-19] COVAXIN",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "33361000087101": {
-      "displayName": "[COVID-19] COMIRNATY (original strain) pediatric 10 mcg/0.2 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "33431000087104": {
-      "displayName": "[COVID-19] KCONVAC",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "35651000087105": {
-      "displayName": "[COVID-19] SPIKEVAX (original strain) 0.10 mg/mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
-        }
-      ]
-    },
-    "37701000087106": {
-      "displayName": "[COVID-19] COMIRNATY Original & Omicron BA.4/BA.5 pediatric 10 mcg/0.2mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "38591000087106": {
-      "displayName": "[COVID-19]SPIKEVAX Bivalent (Original / Omicron BA.4/BA.5) 10 mcg/0.2 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
-        }
-      ]
-    },
-    "47591000087109": {
-      "displayName": "[COVID-19] CORBEVAX",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "47581000087107": "Biological E. Limited (supplier)"
-        }
-      ]
-    },
-    "51501000087108": {
-      "displayName": "[COVID-19] COMIRNATY Omicron XBB.1.5 pediatric 10 mcg/0.3 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "56391000087101": {
-      "displayName": "[Td] Td ADSORBED (without preservative)",
-      "disease": [
-        {
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "6891000087102": {
-      "displayName": "[HA] VAQTA pediatric",
-      "disease": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "6941000087103": {
-      "displayName": "[HB] RECOMBIVAX HB dialysis",
-      "disease": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "7021000087108": {
-      "displayName": "[BCG] BCG Freeze-dried Glutamate BCG Vaccine Japan",
-      "disease": [
-        {
-          "56717001": "Tuberculosis"
-        }
-      ],
-      "MAH": [
-        {
-          "27131000087104": "Japan BCG Laboratory (supplier)"
-        }
-      ]
-    },
-    "7071000087107": {
-      "displayName": "[Men-C-C] MENJUGATE (NVD)",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27201000087101": "Novartis Vaccines and Diagnostics S.r.l. (supplier)"
-        }
-      ]
-    },
-    "7151000087100": {
-      "displayName": "[JE] IXIARO (IAG)",
-      "disease": [
-        {
-          "52947006": "Japanese encephalitis"
-        }
-      ],
-      "MAH": [
-        {
-          "27121000087101": "Intercell AG (supplier)"
-        }
-      ]
-    },
-    "7031000087105": {
-      "displayName": "[Hib] Act-HIB",
-      "disease": [
-        {
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "7081000087109": {
-      "displayName": "[Men-C-C] NeisVac-C (GSK)",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "7161000087102": {
-      "displayName": "[MMR] M-M-R II",
-      "disease": [
-        {
-          "14189004": "Measles",
-          "36653000": "Rubella",
-          "36989005": "Mumps"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "7311000087102": {
-      "displayName": "[Typh-I] TYPHIM VI",
-      "disease": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "7361000087100": {
-      "displayName": "[IPV] IMOVAX POLIO",
-      "disease": [
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "7411000087108": {
-      "displayName": "[LZV] ZOSTAVAX",
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "7461000087105": {
-      "displayName": "[DTaP-IPV] INFANRIX-IPV",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria",
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "31571000087102": {
-      "displayName": "[Inf] FLUZONE High-Dose Quadrivalent",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "33411000087109": {
-      "displayName": "[COVID-19] CoviVac",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "33461000087106": {
-      "displayName": "[COVID-19] Sputnik Light",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "34611000087105": {
-      "displayName": "[COVID-19] COMIRNATY (original strain) pediatric 3 mcg/0.2 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "37311000087109": {
-      "displayName": "[COVID-19] SPIKEVAX Bivalent (Original / Omicron BA.1) 0.10 mg/mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
-        }
-      ]
-    },
-    "37881000087105": {
-      "displayName": "[Pneu-C-20] PREVNAR 20",
-      "disease": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27241000087103": "PFIZER CANADA ULC (supplier)"
-        }
-      ]
-    },
-    "45391000087107": {
-      "displayName": "[COVID-19] VidPrevtyn Beta",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "51471000087104": {
-      "displayName": "[COVID-19] COMIRNATY Omicron XBB.1.5 30 mcg/0.3 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "51621000087101": {
-      "displayName": "[COVID-19] COMIRNATY Omicron XBB.1.5 pediatric 10 mcg/0.2 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "6861000087105": {
-      "displayName": "[HA] AVAXIM pediatric",
-      "disease": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "MAH": [
-        {
-          "27291000087105": "Sanofi Pasteur SA (supplier)"
-        }
-      ]
-    },
-    "6911000087104": {
-      "displayName": "[HB] Engerix B",
-      "disease": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "6961000087102": {
-      "displayName": "[HAHB] Twinrix Junior",
-      "disease": [
-        {
-          "40468003": "Hepatitis A",
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "7041000087104": {
-      "displayName": "[Hib] Hiberix",
-      "disease": [
-        {
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "34631000087100": {
-      "displayName": "[Anth] BioThrax",
-      "disease": [
-        {
-          "409498004": "Anthrax"
-        }
-      ],
-      "MAH": [
-        {
-          "34621000087102": "Emergent BioDefense Operations Lansing LLC (supplier)"
-        }
-      ]
-    },
-    "37651000087101": {
-      "displayName": "[COVID-19] SPIKEVAX Bivalent (Original / Omicron BA.4/BA.5) 0.10 mg/mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
-        }
-      ]
-    },
-    "37891000087107": {
-      "displayName": "[Pneu-C-15] VAXNEUVANCE",
-      "disease": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "45401000087105": {
-      "displayName": "[Inf] FOCLIVIA",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27321000087103": "SEQIRUS UK LIMITED (supplier)"
-        }
-      ]
-    },
-    "51481000087102": {
-      "displayName": "[COVID-19] SPIKEVAX XBB.1.5 0.10 mg/mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
-        }
-      ]
-    },
-    "55351000087104": {
-      "displayName": "[RSV] ABRYSVO",
-      "disease": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "MAH": [
-        {
-          "27241000087103": "PFIZER CANADA ULC (supplier)"
-        }
-      ]
-    },
-    "6871000087101": {
-      "displayName": "[HA] Havrix 1440",
-      "disease": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "6921000087107": {
-      "displayName": "[HB] Engerix B pediatric",
-      "disease": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "6971000087106": {
-      "displayName": "[HAHB] Twinrix",
-      "disease": [
-        {
-          "40468003": "Hepatitis A",
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "7051000087101": {
-      "displayName": "[Hib] Liquid PedvaxHIB",
-      "disease": [
-        {
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "7131000087109": {
-      "displayName": "[Men-C-ACYW-135] Menactra",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "7181000087108": {
-      "displayName": "[MMR-Var] PRIORIX-TETRA",
-      "disease": [
-        {
-          "14189004": "Measles",
-          "36653000": "Rubella",
-          "36989005": "Mumps"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "33881000087102": {
-      "displayName": "[COVID-19] COMIRNATY (original strain) tris-sucrose 30 mcg/0.3 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "34921000087108": {
-      "displayName": "[COVID-19] COVOVAX",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "37691000087106": {
-      "displayName": "[COVID-19] COMIRNATY Original & Omicron BA.4/BA.5 30 mcg/0.3 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "37901000087108": {
-      "displayName": "Typh-O Vivotif ETH"
-    },
-    "45411000087107": {
-      "displayName": "[EZV] ERVEBO",
-      "disease": [
-        {
-          "45901000087102": "Zaire Ebolavirus disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "51491000087100": {
-      "displayName": "[COVID-19] NUVAXOVID Omicron XBB.1.5",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29951000087102": "NOVAVAX INC. (supplier)"
-        }
-      ]
-    },
-    "56051000087108": {
-      "displayName": "[Men-C-ACYW] MenQuadfi",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "6881000087104": {
-      "displayName": "[HA] Havrix 720 Junior",
-      "disease": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "6931000087109": {
-      "displayName": "[HB] RECOMBIVAX HB pediatric",
-      "disease": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "7141000087103": {
-      "displayName": "[Men-C-ACYW-135] Menveo (NVD)",
-      "disease": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27191000087103": "Novartis Vaccines and Diagnostics Inc. (supplier)"
-        }
-      ]
-    },
-    "7191000087105": {
-      "displayName": "[Rota-1] ROTARIX",
-      "disease": [
-        {
-          "18624000": "Rotavirus infection"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "7201000087107": {
-      "displayName": "[Rota-5] RotaTeq",
-      "disease": [
-        {
-          "18624000": "Rotavirus infection"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "7301000087104": {
-      "displayName": "[Typh-I] TYPHERIX",
-      "disease": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "7351000087103": {
-      "displayName": "[HPV-4] GARDASIL",
-      "disease": [
-        {
-          "240532009": "Human papilloma virus infection"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "7401000087106": {
-      "displayName": "[Chol-Ecol-O] DUKORAL (CSA)",
-      "disease": [
-        {
-          "11840006": "Traveler's diarrhea",
-          "63650001": "Cholera"
-        }
-      ],
-      "MAH": [
-        {
-          "27021000087100": "Crucell Sweden AB (supplier)"
-        }
-      ]
-    },
-    "7451000087107": {
-      "displayName": "[DTaP-HB-IPV-Hib] INFANRIX hexa",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "66071002": "Hepatitis B",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria",
-          "398102009": "Poliomyelitis",
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "7501000087105": {
-      "displayName": "[DTaP-IPV-Hib] INFANRIX-IPV/Hib",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria",
-          "398102009": "Poliomyelitis",
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "7561000087109": {
-      "displayName": "[Inf] Vaxigrip",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27291000087105": "Sanofi Pasteur SA (supplier)"
-        }
-      ]
-    },
-    "7611000087106": {
-      "displayName": "[Inf] Intanza 15 mcg/ 0.1 mL",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27291000087105": "Sanofi Pasteur SA (supplier)"
-        }
-      ]
-    },
-    "7511000087107": {
-      "displayName": "[DTaP-IPV-Hib] PENTACEL",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria",
-          "398102009": "Poliomyelitis",
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "7571000087100": {
-      "displayName": "[Inf] FLUMIST",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "26881000087109": "ASTRAZENECA CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "7681000087102": {
-      "displayName": "[Pneu-C-13] Prevnar 13",
-      "disease": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27241000087103": "PFIZER CANADA ULC (supplier)"
-        }
-      ]
-    },
-    "7171000087106": {
-      "displayName": "[MMR] PRIORIX",
-      "disease": [
-        {
-          "14189004": "Measles",
-          "36653000": "Rubella",
-          "36989005": "Mumps"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "7221000087101": {
-      "displayName": "[YF] YF-VAX",
-      "disease": [
-        {
-          "16541001": "Yellow fever"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "7371000087109": {
-      "displayName": "[Td] Td ADSORBED (with preservative)",
-      "disease": [
-        {
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "7421000087100": {
-      "displayName": "[DTaP] Tripacel Hybrid",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "7471000087101": {
-      "displayName": "[DTaP-IPV] QUADRACEL",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria",
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "7521000087104": {
-      "displayName": "[DTaP-IPV-Hib] PEDIACEL",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria",
-          "398102009": "Poliomyelitis",
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "7231000087104": {
-      "displayName": "VARILRIX 3300000 plaque forming units per 0.5 milliliter powder and diluent for solution for injection GlaxoSmithKline Inc."
-    },
-    "7331000087107": {
-      "displayName": "[HA-Typh-I] ViVAXIM",
-      "disease": [
-        {
-          "4834000": "Typhoid fever",
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "7381000087106": {
-      "displayName": "[Rab] Imovax Rabies",
-      "disease": [
-        {
-          "14168008": "Rabies"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "7431000087103": {
-      "displayName": "[Tdap] ADACEL",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "7481000087104": {
-      "displayName": "[Tdap-IPV] ADACEL-POLIO",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria",
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "7531000087102": {
-      "displayName": "[Td-IPV] Td Polio Absorbed",
-      "disease": [
-        {
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria",
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "7241000087105": {
-      "displayName": "[Var] VARIVAX III",
-      "disease": [
-        {
-          "38907003": "Varicella"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "7341000087101": {
-      "displayName": "[HPV-2] CERVARIX",
-      "disease": [
-        {
-          "240532009": "Human papilloma virus infection"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "7391000087108": {
-      "displayName": "[Rab] RabAvert (NVD)",
-      "disease": [
-        {
-          "14168008": "Rabies"
-        }
-      ],
-      "MAH": [
-        {
-          "27171000087102": "Novartis Vaccines and Diagnostics (supplier)"
-        }
-      ]
-    },
-    "7441000087109": {
-      "displayName": "[Tdap] BOOSTRIX",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "7491000087102": {
-      "displayName": "[Tdap-IPV] BOOSTRIX-POLIO",
-      "disease": [
-        {
-          "27836007": "Pertussis",
-          "76902006": "Tetanus",
-          "397430003": "Diphtheria",
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "7541000087108": {
-      "displayName": "[Inf] FLUVIRAL",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27101000087107": "ID BIOMEDICAL CORPORATION OF QUEBEC (supplier)"
-        }
-      ]
-    },
-    "7601000087109": {
-      "displayName": "[Inf] Intanza 9 mcg/ 0.1 mL",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27291000087105": "Sanofi Pasteur SA (supplier)"
-        }
-      ]
-    },
-    "7651000087105": {
-      "displayName": "[Pneu-C-7] Prevnar",
-      "disease": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27231000087109": "Pfizer Canada Inc. (supplier)"
-        }
-      ]
-    },
-    "7671000087104": {
-      "displayName": "[Pneu-C-10] SYNFLORIX",
-      "disease": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27071000087101": "GLAXOSMITHKLINE INC. (supplier)"
-        }
-      ]
-    },
-    "7581000087103": {
-      "displayName": "[Inf] Agriflu (NVD)",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27191000087103": "Novartis Vaccines and Diagnostics Inc. (supplier)"
-        }
-      ]
-    },
-    "7631000087101": {
-      "displayName": "[Pneu-P-23] Pneumo 23",
-      "disease": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27291000087105": "Sanofi Pasteur SA (supplier)"
-        }
-      ]
-    },
-    "8651000087109": {
-      "displayName": "[Inf] FLUZONE",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27291000087105": "Sanofi Pasteur SA (supplier)"
-        }
-      ]
-    },
-    "7591000087101": {
-      "displayName": "[Inf] FLUAD (NVD)",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27191000087103": "Novartis Vaccines and Diagnostics Inc. (supplier)"
-        }
-      ]
-    },
-    "7641000087107": {
-      "displayName": "[Pneu-P-23] Pneumovax 23",
-      "disease": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "19301000087107": {
-      "displayName": "[Datx] Diphtheria Antitoxin B.P.",
-      "disease": [
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "MAH": [
-        {
-          "27361000087108": "VINS Bioproducts Limited (supplier)"
-        }
-      ]
-    },
-    "19361000087106": {
-      "displayName": "[Batx] Botulism Antitoxin Behring",
-      "disease": [
-        {
-          "1149327007": "Poisoning caused by Clostridium botulinum toxin"
-        }
-      ],
-      "MAH": [
-        {
-          "27171000087102": "Novartis Vaccines and Diagnostics (supplier)"
-        }
-      ]
-    },
-    "19411000087103": {
-      "displayName": "[RSVAb] SYNAGIS (BI)",
-      "disease": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "MAH": [
-        {
-          "28381000087103": "Boehringer Ingelheim (BI) Pharma KG (supplier)"
-        }
-      ]
-    },
-    "19391000087103": {
-      "displayName": "[Ig] GamaSTAN S/D",
-      "disease": [
-        {
-          "14189004": "Measles",
-          "36653000": "Rubella",
-          "38907003": "Varicella",
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "MAH": [
-        {
-          "27091000087102": "Grifols Therapeutics Inc. (supplier)"
-        }
-      ]
-    },
-    "19421000087106": {
-      "displayName": "[BIG-IV] BabyBIG",
-      "disease": [
-        {
-          "1149327007": "Poisoning caused by Clostridium botulinum toxin"
-        }
-      ],
-      "MAH": [
-        {
-          "26991000087103": "California Department of Public Health (supplier)"
-        }
-      ]
-    },
-    "19471000087105": {
-      "displayName": "[Ig] IMMUNE SERUM GLOBULIN (HUMAN)",
-      "disease": [
-        {
-          "14189004": "Measles",
-          "36653000": "Rubella",
-          "38907003": "Varicella",
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "MAH": [
-        {
-          "27091000087102": "Grifols Therapeutics Inc. (supplier)"
-        }
-      ]
-    },
-    "21941000087104": {
-      "displayName": "[Batx] BAT (Cang)",
-      "disease": [
-        {
-          "1149327007": "Poisoning caused by Clostridium botulinum toxin"
-        }
-      ],
-      "MAH": [
-        {
-          "27001000087106": "Cangene Corporation (supplier)"
-        }
-      ]
-    },
-    "26531000087108": {
-      "displayName": "[CMVIg] Cytogam (STR)",
-      "disease": [
-        {
-          "28944009": "Cytomegalovirus disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27301000087109": "Saol Therapeutics Research Limited (supplier)"
-        }
-      ]
-    },
-    "23751000087102": {
-      "displayName": "[Batx] BAT (EBS)",
-      "disease": [
-        {
-          "1149327007": "Poisoning caused by Clostridium botulinum toxin"
-        }
-      ],
-      "MAH": [
-        {
-          "27051000087107": "Emergent BioSolutions Canada Inc. (supplier)"
-        }
-      ]
-    },
-    "28411000087101": {
-      "displayName": "[HBIg] HyperHEP B S/D",
-      "disease": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "MAH": [
-        {
-          "27081000087104": "Grifols Canada Limited (supplier)"
-        }
-      ]
-    },
-    "45871000087102": {
-      "displayName": "[HBIg] HyperHEP B 220 IU/mL",
-      "disease": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "MAH": [
-        {
-          "27091000087102": "Grifols Therapeutics Inc. (supplier)"
-        }
-      ]
-    },
-    "7971000087108": {
-      "displayName": "[RabIg] IMOGAM",
-      "disease": [
-        {
-          "14168008": "Rabies"
-        }
-      ],
-      "MAH": [
-        {
-          "27291000087105": "Sanofi Pasteur SA (supplier)"
-        }
-      ]
-    },
-    "26591000087109": {
-      "displayName": "[VarIg] VariZIG (STR)",
-      "disease": [
-        {
-          "38907003": "Varicella"
-        }
-      ],
-      "MAH": [
-        {
-          "27301000087109": "Saol Therapeutics Research Limited (supplier)"
-        }
-      ]
-    },
-    "30901000087107": {
-      "displayName": "[Datx] Diphtheria Antitoxin (DAT)",
-      "disease": [
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "MAH": [
-        {
-          "30891000087106": "Instituto Butantan Brasil (supplier)"
-        }
-      ]
-    },
-    "29721000087106": {
-      "displayName": "[Ig] GamaSTAN",
-      "disease": [
-        {
-          "14189004": "Measles",
-          "36653000": "Rubella",
-          "38907003": "Varicella",
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "MAH": [
-        {
-          "27091000087102": "Grifols Therapeutics Inc. (supplier)"
-        }
-      ]
-    },
-    "45881000087100": {
-      "displayName": "[HBIg] HyperHEP B 110 IU/0.5 mL",
-      "disease": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "MAH": [
-        {
-          "27091000087102": "Grifols Therapeutics Inc. (supplier)"
-        }
-      ]
-    },
-    "7981000087105": {
-      "displayName": "[TIg] HYPERTET S/D",
-      "disease": [
-        {
-          "76902006": "Tetanus"
-        }
-      ],
-      "MAH": [
-        {
-          "27081000087104": "Grifols Canada Limited (supplier)"
-        }
-      ]
-    },
-    "26561000087101": {
-      "displayName": "[HBIg] HepaGam B (STR)",
-      "disease": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "MAH": [
-        {
-          "27301000087109": "Saol Therapeutics Research Limited (supplier)"
-        }
-      ]
-    },
-    "33841000087107": {
-      "displayName": "[TIg] HyperTET",
-      "disease": [
-        {
-          "76902006": "Tetanus"
-        }
-      ],
-      "MAH": [
-        {
-          "27091000087102": "Grifols Therapeutics Inc. (supplier)"
-        }
-      ]
-    },
-    "7961000087104": {
-      "displayName": "[RabIg] HYPERRAB S/D",
-      "disease": [
-        {
-          "14168008": "Rabies"
-        }
-      ],
-      "MAH": [
-        {
-          "27081000087104": "Grifols Canada Limited (supplier)"
-        }
-      ]
-    },
-    "28361000087109": {
-      "displayName": "[RabIg] KamRAB",
-      "disease": [
-        {
-          "14168008": "Rabies"
-        }
-      ],
-      "MAH": [
-        {
-          "28401000087103": "KAMADA LTD (supplier)"
-        }
-      ]
-    },
-    "31551000087108": {
-      "displayName": "[RabIg] HyperRAB",
-      "disease": [
-        {
-          "14168008": "Rabies"
-        }
-      ],
-      "MAH": [
-        {
-          "27091000087102": "Grifols Therapeutics Inc. (supplier)"
-        }
-      ]
-    },
-    "7951000087102": {
-      "displayName": "HBIg HyperHEP B Grif"
-    },
-    "56761000087108": {
-      "displayName": "[Sma] ACAM2000",
-      "disease": [
-        {
-          "67924001": "Smallpox"
-        }
-      ],
-      "MAH": [
-        {
-          "56751000087105": "EMERGENT PRODUCT DEVELOPMENT GAITHERSBURG INC. (supplier)"
-        }
-      ]
-    },
-    "57881000087106": {
-      "displayName": "[Inf] AREPANRIX H5N1",
-      "disease": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "MAH": [
-        {
-          "27101000087107": "ID BIOMEDICAL CORPORATION OF QUEBEC (supplier)"
-        }
-      ]
-    },
-    "57871000087109": {
-      "displayName": "[RSVAb] SYNAGIS (AZC)",
-      "disease": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "MAH": [
-        {
-          "26881000087109": "ASTRAZENECA CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "57911000087106": {
-      "displayName": "[HBIg] HepaGam B (KIB)",
-      "disease": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "MAH": [
-        {
-          "57851000087103": "KI BIOPHARMA LLC (supplier)"
-        }
-      ]
-    },
-    "57901000087109": {
-      "displayName": "[CMVIg] Cytogam (KIB)",
-      "disease": [
-        {
-          "28944009": "Cytomegalovirus disease"
-        }
-      ],
-      "MAH": [
-        {
-          "57851000087103": "KI BIOPHARMA LLC (supplier)"
-        }
-      ]
-    },
-    "57891000087108": {
-      "displayName": "[VarIg] VariZIG (KIB)",
-      "disease": [
-        {
-          "38907003": "Varicella"
-        }
-      ],
-      "MAH": [
-        {
-          "57851000087103": "KI BIOPHARMA LLC (supplier)"
-        }
-      ]
-    },
-    "57861000087100": {
-      "displayName": "[Typh-O] Vivotif",
-      "disease": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ],
-      "MAH": [
-        {
-          "26921000087101": "BAVARIAN NORDIC AS (supplier)"
-        }
-      ]
-    },
-    "58291000087105": {
-      "displayName": "[RSVAb] BEYFORTUS 100 mg/1 mL",
-      "disease": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "58301000087109": {
-      "displayName": "[RSVAb] BEYFORTUS 50 mg/0.5 mL",
-      "disease": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "MAH": [
-        {
-          "27281000087108": "SANOFI PASTEUR LIMITED (supplier)"
-        }
-      ]
-    },
-    "60261000087109": {
-      "displayName": "[Chol-O] VAXCHORA",
-      "disease": [
-        {
-          "11840006": "Traveler's diarrhea",
-          "63650001": "Cholera"
-        }
-      ],
-      "MAH": [
-        {
-          "26921000087101": "BAVARIAN NORDIC AS (supplier)"
-        }
-      ]
-    },
-    "60671000087102": {
-      "displayName": "[COVID-19] SPIKEVAX 0.10 mg/mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
-        }
-      ]
-    },
-    "60681000087100": {
-      "displayName": "[COVID-19] COMIRNATY 30 mcg/0.3 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "60851000087107": {
-      "displayName": "[COVID-19] NUVAXOVID",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29951000087102": "NOVAVAX INC. (supplier)"
-        }
-      ]
-    },
-    "60831000087103": {
-      "displayName": "[COVID-19] COMIRNATY pediatric 10 mcg/0.2 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "60841000087109": {
-      "displayName": "[COVID-19] COMIRNATY pediatric 10 mcg/0.3 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "60891000087102": {
-      "displayName": "[COVID-19] COMIRNATY pediatric 3 mcg/0.2 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "60601000087107": {
-      "displayName": "[Pneu-C-21] CAPVAXIVE",
-      "disease": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "MAH": [
-        {
-          "27161000087106": "MERCK CANADA INC. (supplier)"
-        }
-      ]
-    },
-    "61241000087101": {
-      "displayName": "[Chik] IXCHIQ",
-      "disease": [
-        {
-          "111864006": "Chikungunya fever"
-        }
-      ],
-      "MAH": [
-        {
-          "27371000087104": "VALNEVA AUSTRIA GMBH (supplier)"
-        }
-      ]
-    },
-    "61431000087108": {
-      "displayName": "[COVID-19] COMIRNATY pediatric 3 mcg/0.3 mL",
-      "disease": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAH": [
-        {
-          "29141000087103": "BIONTECH MANUFACTURING GMBH (supplier)"
-        }
-      ]
-    },
-    "61761000087105": {
-      "displayName": "[RSV] mRESVIA",
-      "disease": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "MAH": [
-        {
-          "51461000087108": "MODERNA BIOPHARMA CANADA CORPORATION (supplier)"
         }
       ]
     }
