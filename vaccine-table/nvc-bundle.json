@@ -1,5 +1,5 @@
 {
-  "version": "1.56",
+  "version": "1.57",
   "table": {
     "3526007": {
       "displayName": "Rabies vaccine, human"
@@ -1140,9 +1140,7 @@
       "displayName": "[MMR-Var] Measles, mumps, rubella and varicella vaccine",
       "disease": [
         {
-          "14189004": "Measles",
-          "36653000": "Rubella",
-          "36989005": "Mumps"
+          "38907003": "Varicella"
         }
       ]
     },
@@ -1323,7 +1321,8 @@
         {
           "14189004": "Measles",
           "36653000": "Rubella",
-          "36989005": "Mumps"
+          "36989005": "Mumps",
+          "38907003": "Varicella"
         }
       ],
       "MAH": [
@@ -1334,6 +1333,11 @@
     },
     "19321000087101": {
       "displayName": "[LZV] ZOSTAVAX II",
+      "disease": [
+        {
+          "4740000": "Shingles"
+        }
+      ],
       "MAH": [
         {
           "27161000087106": "MERCK CANADA INC. (supplier)"
@@ -2445,6 +2449,11 @@
     },
     "7411000087108": {
       "displayName": "[LZV] ZOSTAVAX",
+      "disease": [
+        {
+          "4740000": "Shingles"
+        }
+      ],
       "MAH": [
         {
           "27161000087106": "MERCK CANADA INC. (supplier)"
@@ -2785,7 +2794,8 @@
         {
           "14189004": "Measles",
           "36653000": "Rubella",
-          "36989005": "Mumps"
+          "36989005": "Mumps",
+          "38907003": "Varicella"
         }
       ],
       "MAH": [
@@ -4416,7 +4426,12 @@
       ]
     },
     "56341000087108": {
-      "displayName": "[LZV] Live attenuated herpes zoster vaccine"
+      "displayName": "[LZV] Live attenuated herpes zoster vaccine",
+      "disease": [
+        {
+          "4740000": "Shingles"
+        }
+      ]
     },
     "7121000087107": {
       "displayName": "[Men-C-ACYW] Meningococcal conjugate A + C + Y + W vaccine",
