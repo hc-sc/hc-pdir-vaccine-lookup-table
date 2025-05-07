@@ -1,8 +1,9 @@
+import 'dotenv/config';
 import fs from "fs/promises";
 import axios from "axios";
 import path from "path";
 
-const API_URL = "https://nvc-cnv.canada.ca";
+const API_URL = process.env.NVC_API_URL || "https://nvc-cnv.canada.ca";
 
 const config = {
   method: "get",
@@ -12,6 +13,9 @@ const config = {
     Accept: "application/json+fhir",
     "x-app-desc": "PHAC-PDIR-IIB",
   },
+  timeout: 30000,  // 30 second timeout
+  maxRedirects: 5,
+  validateStatus: (status: number) => status >= 200 && status < 300
 };
 
 interface Concept {
@@ -19,6 +23,11 @@ interface Concept {
   display: string;
   designation: {
     language: string;
+    use?: {
+      system: string;
+      code: string;
+      display: string;
+    };
     value: string;
   }[];
   extension: Extension[];
@@ -76,6 +85,15 @@ interface CurrentVersion {
 function isValueSet(id: string): boolean {
   return ["Generic", "Tradename", "AntigenIgAntitoxin"].includes(id);
 }
+
+function isValueSetDisease(id: string): boolean {
+  return ["Disease"].includes(id);
+}
+
+function isValueSetMAH(id: string): boolean {
+  return ["MarketAuthorizationHolder"].includes(id);
+}
+
 interface Coding {
   system: string;
   code: string;
@@ -117,33 +135,66 @@ function getExtensionValueByUrl(
   return Object.keys(valObject).length > 0 ? [valObject] : [];
 }
 
-function parseNVCBundle(data: Data) {
+// Helper functions to get display names
+function getDisplayName(concept: Concept, lang: string, code: string): string | undefined {
+  return concept.designation?.find(
+    d => d.language === lang && d.use?.code === code && d.use?.system === "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation"
+  )?.value;
+}
+
+function parseNVCBundle(data: Data, diseaseLookup: Record<string, { en: string, fr: string }>, mahLookup: Record<string, { en: string, fr: string }>) {
   const table: Record<string, any> = {};
 
   data.entry.forEach((entry) => {
     const resource = entry.resource;
-
-    // Only process the specified value sets
     if (isValueSet(resource.id)) {
-      // Check if 'compose' and 'include' are defined before accessing them
       if (resource.compose && Array.isArray(resource.compose.include)) {
         resource.compose.include.forEach((include) => {
           if (include.concept && Array.isArray(include.concept)) {
             include.concept.forEach((concept) => {
-              const displayName = concept.display;
-              const disease = getExtensionValueByUrl(concept, "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-protects-against-disease");
-              const MAH = getExtensionValueByUrl(concept, "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-linked-to-market-authorization-holder");
+              const displayEN = getDisplayName(concept, 'en', 'enDisplayTerm') || concept.display;
+              const displayFR = getDisplayName(concept, 'fr', 'frDisplayTerm') || concept.display;
+              const disease = getExtensionValueByUrl(
+                concept,
+                `${API_URL}/v1/StructureDefinition/nvc-protects-against-disease`
+              );
+              const MAH = getExtensionValueByUrl(
+                concept,
+                `${API_URL}/v1/StructureDefinition/nvc-linked-to-market-authorization-holder`
+              );
 
-              table[concept.code] = {
-                displayName
-              };
-              if (Object.keys(disease).length > 0) {
-                // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access
-                table[concept.code].disease = disease;
+              // Get disease names in both languages
+              let diseaseEN: { [code: string]: string }[] = [];
+              let diseaseFR: { [code: string]: string }[] = [];
+              if (disease && disease.length > 0) {
+                const codes = Object.keys(disease[0]);
+                diseaseEN = codes.map(code => ({ [code]: diseaseLookup[code]?.en || code }));
+                diseaseFR = codes.map(code => ({ [code]: diseaseLookup[code]?.fr || code }));
               }
-              if (Object.keys(MAH).length > 0) {
-                // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access
-                table[concept.code].MAH = MAH;
+
+              // Get MAH names in both languages
+              let MAHEN = "";
+              let MAHFR = "";
+              if (MAH && MAH.length > 0) {
+                const codes = Object.keys(MAH[0]);
+                if (codes.length > 0) {
+                  MAHEN = mahLookup[codes[0]]?.en || MAH[0][codes[0]];
+                  MAHFR = mahLookup[codes[0]]?.fr || MAH[0][codes[0]];
+                }
+              }
+
+              // Create table entry with only the required fields
+              table[concept.code] = {
+                displayEN,
+                displayFR,
+                diseaseEN,
+                diseaseFR
+              };
+
+              // Add MAH if present
+              if (MAHEN && MAHFR) {
+                table[concept.code].MAHEN = MAHEN;
+                table[concept.code].MAHFR = MAHFR;
               }
             });
           }
@@ -159,42 +210,116 @@ function parseNVCBundle(data: Data) {
 const main = async () => {
   try {
     const response = await axios.request<Data>(config);
-  
-    const newVersionId = response.data.meta.versionId;
-    // Define the path to the file that stores the current versionId
-    const versionFilePath = path.join(__dirname, "nvc-version.json");
 
-    let currentVersionId: string | null = null;
-    try {
-      const currentVersionData = await fs.readFile(versionFilePath, "utf8");
-      const currentVersion: CurrentVersion = JSON.parse(
-        currentVersionData
-      ) as CurrentVersion;
-      currentVersionId = currentVersion.versionId;
-    } catch (err) {
-      console.info("No previous version found, will write new data.");
+    // Log all resource IDs we receive
+    console.log("Received resource IDs:", response.data.entry.map(entry => entry.resource.id));
+
+    // 1. Write disease.json if Disease resource is present
+    let diseaseResource: ValueSet | undefined;
+    let mahResource: ValueSet | undefined;
+    response.data.entry.forEach((entry) => {
+      if (isValueSetDisease(entry.resource.id)) {
+        diseaseResource = entry.resource as ValueSet;
+      }
+      if (isValueSetMAH(entry.resource.id)) {
+        mahResource = entry.resource as ValueSet;
+      }
+    });
+
+    // Write disease.json
+    if (diseaseResource) {
+      await fs.writeFile(
+        path.join(__dirname, "vaccine-table/disease.json"),
+        JSON.stringify(diseaseResource.compose, null, 2),
+        "utf8"
+      );
     }
-    // Check if the versionId has been updated
-    if (currentVersionId !== newVersionId) {
-        const result = {
-            version: newVersionId,
-            table: parseNVCBundle(response.data),
-          };
-        await fs.writeFile(path.join(__dirname, "vaccine-table/nvc-bundle.json"),
-          JSON.stringify(result, null, 2),
-          "utf8"
+
+    // Write mah.json
+    if (mahResource) {
+      await fs.writeFile(
+        path.join(__dirname, "vaccine-table/mah.json"),
+        JSON.stringify(mahResource.compose, null, 2),
+        "utf8"
+      );
+    }
+
+    // 2. Build disease lookup
+    const diseaseData = JSON.parse(
+      await fs.readFile(path.join(__dirname, "vaccine-table/disease.json"), "utf8")
+    );
+    const diseaseLookup: Record<string, { en: string; fr: string }> = {};
+    diseaseData.include.forEach((include: any) => {
+      include.concept.forEach((concept: any) => {
+        const en = concept.designation?.find(
+          (d: any) => 
+            d.language === "en" && 
+            d.use?.system === "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation" &&
+            d.use?.code === "enDisplayTerm"
+        )?.value || concept.display;
+        
+        const fr = concept.designation?.find(
+          (d: any) => 
+            d.language === "fr" && 
+            d.use?.system === "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation" &&
+            d.use?.code === "frDisplayTerm"
+        )?.value || concept.display;
+        
+        diseaseLookup[concept.code] = { en, fr };
+      });
+    });
+
+    // Build MAH lookup
+    let mahLookup: Record<string, { en: string; fr: string }> = {};
+    if (mahResource) {
+      try {
+        const mahData = JSON.parse(
+          await fs.readFile(path.join(__dirname, "vaccine-table/mah.json"), "utf8")
         );
+        mahData.include.forEach((include: any) => {
+          include.concept.forEach((concept: any) => {
+            const en = concept.designation?.find(
+              (d: any) => 
+                d.language === "en" && 
+                d.use?.system === "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation" &&
+                d.use?.code === "enDisplayTerm"
+            )?.value || concept.display;
+            
+            const fr = concept.designation?.find(
+              (d: any) => 
+                d.language === "fr" && 
+                d.use?.system === "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation" &&
+                d.use?.code === "frDisplayTerm"
+            )?.value || concept.display;
+            
+            mahLookup[concept.code] = { en, fr };
+          });
+        });
+      } catch (error) {
+        console.error("Error reading MAH data:", error);
+        mahLookup = {}; // Use empty lookup if file can't be read
+      }
+    }
 
-        await fs.writeFile(
-            versionFilePath,
-            JSON.stringify({ versionId: newVersionId }),
-            "utf8"
-          );
-        console.info("Succeessfully updated! current version is: " + newVersionId );
-    }
-    else{
-        console.info("No change! current version is: " + currentVersionId );
-    }
+    // 3. Parse vaccines and write nvc-bundle.json
+    const result = {
+      version: response.data.meta.versionId,
+      table: parseNVCBundle(response.data, diseaseLookup, mahLookup),
+    };
+    await fs.writeFile(
+      path.join(__dirname, "vaccine-table/nvc-bundle.json"),
+      JSON.stringify(result, null, 2),
+      "utf8"
+    );
+
+    // Write version file
+    const versionFilePath = path.join(__dirname, "nvc-version.json");
+    await fs.writeFile(
+      versionFilePath,
+      JSON.stringify({ versionId: response.data.meta.versionId }),
+      "utf8"
+    );
+    console.info("Successfully updated! current version is: " + response.data.meta.versionId);
 
   } catch (error) {
     if (error instanceof Error) {
@@ -207,7 +332,7 @@ const main = async () => {
 
 // Execute the main function
 (async () => {
-  await main(); // Await the main function
+  await main();
 })().catch((error) => {
-    console.error(`Unhandled error: ${error instanceof Error ? error.message : "Unknown error"}`)
+  console.error(`Unhandled error: ${error instanceof Error ? error.message : "Unknown error"}`)
 });
