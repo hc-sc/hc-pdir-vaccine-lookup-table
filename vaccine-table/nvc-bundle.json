@@ -1,5 +1,5 @@
 {
-  "version": "1.58",
+  "version": "1.59",
   "table": {
     "3526007": {
       "displayEN": "Rabies vaccine, human",
@@ -2367,6 +2367,1880 @@
         }
       ]
     },
+    "1051000221104": {
+      "displayEN": "[OPV] Poliomyelitis live vaccine",
+      "displayFR": "[OPV] Poliomyelitis live vaccine",
+      "diseaseEN": [
+        {
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "398102009": "poliomyélite"
+        }
+      ]
+    },
+    "19461000087101": {
+      "displayEN": "Men-B meningococcal B unspecified",
+      "displayFR": "Men-B meningococcal B unspecified",
+      "diseaseEN": [],
+      "diseaseFR": []
+    },
+    "20681000087105": {
+      "displayEN": "[Men-C-CY-Hib] Meningococcal conjugate C + Y + Haemophilus influenzae type b vaccine",
+      "displayFR": "[Men-C-CY-Hib] Meningococcal conjugate C + Y + Haemophilus influenzae type b vaccine",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        },
+        {
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        },
+        {
+          "406583002": "infection invasive à Haemophilus influenzae"
+        }
+      ]
+    },
+    "21901000087102": {
+      "displayEN": "[Men-C-CY] Meningococcal conjugate C + Y vaccine",
+      "displayFR": "[Men-C-CY] vaccin contre le méningocoque conjugué C + Y",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "23701000087103": {
+      "displayEN": "[DTaP-Hib] Diphtheria, tetanus, acellular pertussis, and Haemophilus influenzae type b pediatric vaccine",
+      "displayFR": "[DTaP-Hib] Diphtheria, tetanus, acellular pertussis, and Haemophilus influenzae type b pediatric vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        },
+        {
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        },
+        {
+          "406583002": "infection invasive à Haemophilus influenzae"
+        }
+      ]
+    },
+    "28451000087102": {
+      "displayEN": "[HZ] Herpes zoster vaccine",
+      "displayFR": "[Zona] vaccin contre le herpès zoster",
+      "diseaseEN": [
+        {
+          "4740000": "Shingles"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4740000": "zona"
+        }
+      ]
+    },
+    "319941000221104": {
+      "displayEN": "[BCG] Bacillus Calmette Guerin vaccine",
+      "displayFR": "[BCG] Bacillus Calmette Guerin vaccine",
+      "diseaseEN": [
+        {
+          "56717001": "Tuberculosis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "56717001": "tuberculose"
+        }
+      ]
+    },
+    "1801000221105": {
+      "displayEN": "[Pneu-C] Pneumococcal conjugated vaccine",
+      "displayFR": "[Pneu-C] vaccin contre le pneumocoque conjugué",
+      "diseaseEN": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "16814004": "infection pneumococcique"
+        }
+      ]
+    },
+    "20591000087106": {
+      "displayEN": "[DPT-HB-Hib] Diphtheria, pertussis, tetanus, hepatitis B and Haemophilus influenzae type b pediatric vaccine",
+      "displayFR": "[DPT-HB-Hib] Diphtheria, pertussis, tetanus, hepatitis B and Haemophilus influenzae type b pediatric vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "66071002": "Hepatitis B"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        },
+        {
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "66071002": "hépatite B"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        },
+        {
+          "406583002": "infection invasive à Haemophilus influenzae"
+        }
+      ]
+    },
+    "20861000087100": {
+      "displayEN": "[HPV-9] Human papillomavirus 9-valent vaccine",
+      "displayFR": "[VPH-9] vaccin 9-valent contre le virus du papillome humain",
+      "diseaseEN": [
+        {
+          "240532009": "Human papilloma virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "240532009": "infection par le virus du papillome humain"
+        }
+      ]
+    },
+    "2221000221107": {
+      "displayEN": "Varicella-zoster live attenuated vaccine",
+      "displayFR": "Varicella-zoster live attenuated vaccine",
+      "diseaseEN": [],
+      "diseaseFR": []
+    },
+    "33381000087107": {
+      "displayEN": "[Inf] Influenza quadrivalent high-dose vaccine",
+      "displayFR": "[Inf] Influenza quadrivalent high-dose vaccine",
+      "diseaseEN": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "6142004": "influenza"
+        }
+      ]
+    },
+    "45891000087103": {
+      "displayEN": "[EZV] Ebola vaccine",
+      "displayFR": "[EZV] Ebola vaccine",
+      "diseaseEN": [
+        {
+          "45901000087102": "Zaire Ebolavirus disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "45901000087102": "maladie à virus Ebola-Zaïre"
+        }
+      ]
+    },
+    "52821000087108": {
+      "displayEN": "[Men-C-A] Meningococcal conjugate A vaccine",
+      "displayFR": "[Men-C-A] vaccin contre le méningocoque conjugué A",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "601000221108": {
+      "displayEN": "Pertussis vaccine",
+      "displayFR": "Pertussis vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        }
+      ]
+    },
+    "19401000087100": {
+      "displayEN": "[Inf] Influenza quadrivalent vaccine",
+      "displayFR": "[Inf] Influenza quadrivalent vaccine",
+      "diseaseEN": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "6142004": "influenza"
+        }
+      ]
+    },
+    "20641000087100": {
+      "displayEN": "[DTaP-HB-IPV] Diphtheria, tetanus, acellular pertussis, hepatitis B and inactivated poliomyelitis pediatric vaccine",
+      "displayFR": "[DTaP-HB-IPV] Diphtheria, tetanus, acellular pertussis, hepatitis B and inactivated poliomyelitis pediatric vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "66071002": "Hepatitis B"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        },
+        {
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "66071002": "hépatite B"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        },
+        {
+          "398102009": "poliomyélite"
+        }
+      ]
+    },
+    "1981000221108": {
+      "displayEN": "[Men-B] Meningococcal B vaccine",
+      "displayFR": "[Men-B] Meningococcal B vaccine",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "20851000087103": {
+      "displayEN": "[Men-C-CY-Hib] MENHIBRIX",
+      "displayFR": "[Men-C-CY-Hib] MENHIBRIX",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        },
+        {
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        },
+        {
+          "406583002": "infection invasive à Haemophilus influenzae"
+        }
+      ]
+    },
+    "21921000087108": {
+      "displayEN": "[Inf] Influenza trivalent high-dose vaccine",
+      "displayFR": "[Inf] Influenza trivalent high-dose vaccine",
+      "diseaseEN": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "6142004": "influenza"
+        }
+      ]
+    },
+    "24211000087105": {
+      "displayEN": "Typh-O Vivotif Pax",
+      "displayFR": "Typh-O Vivotif Pax",
+      "diseaseEN": [],
+      "diseaseFR": [],
+      "MAHEN": "Berna GmbH",
+      "MAHFR": "Berna GmbH"
+    },
+    "28481000087105": {
+      "displayEN": "[Pneu-P] Pneumococcal polysaccharide vaccine",
+      "displayFR": "[Pneu-P] vaccin contre le pneumocoque polysaccharide",
+      "diseaseEN": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "16814004": "infection pneumococcique"
+        }
+      ]
+    },
+    "1181000221105": {
+      "displayEN": "[Inf] Influenza vaccine",
+      "displayFR": "[Inf] Influenza vaccine",
+      "diseaseEN": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "6142004": "influenza"
+        }
+      ]
+    },
+    "19371000087102": {
+      "displayEN": "[HA] Hepatitis A regular strength vaccine",
+      "displayFR": "[HA] vaccin contre l'hépatite A formulation régulière",
+      "diseaseEN": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "40468003": "hépatite A"
+        }
+      ]
+    },
+    "20601000087103": {
+      "displayEN": "[DPT-HB] Diphtheria, pertussis, tetanus and hepatitis B pediatric vaccine",
+      "displayFR": "[DPT-HB] Diphtheria, pertussis, tetanus and hepatitis B pediatric vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "66071002": "Hepatitis B"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "66071002": "hépatite B"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        }
+      ]
+    },
+    "2171000221104": {
+      "displayEN": "[Typh-I] Typhoid polysaccharide injectable vaccine",
+      "displayFR": "[Typh-I] Typhoid polysaccharide injectable vaccine",
+      "diseaseEN": [
+        {
+          "4834000": "Typhoid fever"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4834000": "fièvre typhoïde"
+        }
+      ]
+    },
+    "24371000087105": {
+      "displayEN": "[HAHB] Hepatitis A and B regular strength vaccine",
+      "displayFR": "[HAHB] Hepatitis A and B regular strength vaccine",
+      "diseaseEN": [
+        {
+          "40468003": "Hepatitis A"
+        },
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "40468003": "hépatite A"
+        },
+        {
+          "66071002": "hépatite B"
+        }
+      ]
+    },
+    "28531000087107": {
+      "displayEN": "[COVID-19] COVID-19 vaccine",
+      "displayFR": "[COVID-19] COVID-19 vaccine",
+      "diseaseEN": [],
+      "diseaseFR": []
+    },
+    "6981000087108": {
+      "displayEN": "[Inf] Influenza A monovalent vaccine",
+      "displayFR": "[Inf] Influenza A monovalent vaccine",
+      "diseaseEN": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "6142004": "influenza"
+        }
+      ]
+    },
+    "7101000087101": {
+      "displayEN": "[Men-P-ACYW-135] Meningococcal polysaccharide A + C + Y + W-135 vaccine",
+      "displayFR": "[Men-P-ACYW-135] vaccin contre le méningocoque polysaccharide A + C + Y + W-135",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "7261000087106": {
+      "displayEN": "Pneumococcal conjugate vaccine",
+      "displayFR": "Pneumococcal conjugate vaccine",
+      "diseaseEN": [],
+      "diseaseFR": []
+    },
+    "7691000087100": {
+      "displayEN": "[Inf] Influenza trivalent vaccine",
+      "displayFR": "[Inf] Influenza trivalent vaccine",
+      "diseaseEN": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "6142004": "influenza"
+        }
+      ]
+    },
+    "7741000087102": {
+      "displayEN": "[d] Diphtheria adult vaccine",
+      "displayFR": "[d] vaccin contre la diphtérie adulte",
+      "diseaseEN": [
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "397430003": "diphtérie"
+        }
+      ]
+    },
+    "7791000087109": {
+      "displayEN": "[HPV-2] Human papillomavirus bivalent vaccine",
+      "displayFR": "[VPH-2] vaccin bivalent contre le virus du papillome humain",
+      "diseaseEN": [
+        {
+          "240532009": "Human papilloma virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "240532009": "infection par le virus du papillome humain"
+        }
+      ]
+    },
+    "7841000087106": {
+      "displayEN": "[DTaP] Diphtheria, tetanus and acellular pertussis pediatric vaccine",
+      "displayFR": "[DTaP] Diphtheria, tetanus and acellular pertussis pediatric vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        }
+      ]
+    },
+    "7881000087101": {
+      "displayEN": "[DTaP-IPV] Diphtheria, tetanus, acellular pertussis and inactivated poliomyelitis pediatric vaccine",
+      "displayFR": "[DTaP-IPV] Diphtheria, tetanus, acellular pertussis and inactivated poliomyelitis pediatric vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        },
+        {
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        },
+        {
+          "398102009": "poliomyélite"
+        }
+      ]
+    },
+    "21721000087105": {
+      "displayEN": "[Men-C-AC] Meningococcal conjugate A + C vaccine",
+      "displayFR": "[Men-C-AC] vaccin contre le méningocoque conjugué A + C",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "23681000087100": {
+      "displayEN": "[DTwP-HB] Diphtheria, whole cell pertussis, yetanus and hepatitis B pediatric vaccine",
+      "displayFR": "[DTwP-HB] Diphtheria, whole cell pertussis, yetanus and hepatitis B pediatric vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "66071002": "Hepatitis B"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "66071002": "hépatite B"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        }
+      ]
+    },
+    "28441000087100": {
+      "displayEN": "[Var] Varicella vaccine",
+      "displayFR": "[Var] vaccin contre la varicelle",
+      "diseaseEN": [
+        {
+          "38907003": "Varicella"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "38907003": "varicelle"
+        }
+      ]
+    },
+    "30141000087107": {
+      "displayEN": "[COVID-19] Virus-like particle antigen COVID-19 vaccine",
+      "displayFR": "[COVID-19] Virus-like particle antigen COVID-19 vaccine",
+      "diseaseEN": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "33581000087104": {
+      "displayEN": "[COVID-19] Pediatric mRNA COVID-19 vaccine",
+      "displayFR": "[COVID-19] Pediatric mRNA COVID-19 vaccine",
+      "diseaseEN": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "23001000087100": {
+      "displayEN": "Zos zoster non-live adjuvanted unspecified",
+      "displayFR": "Zos zoster non-live adjuvanted unspecified",
+      "diseaseEN": [],
+      "diseaseFR": []
+    },
+    "27511000087101": {
+      "displayEN": "[Men-C-C] Meningococcal conjugate C vaccine",
+      "displayFR": "[Men-C-C] Meningococcal conjugate C vaccine",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "29061000087103": {
+      "displayEN": "[COVID-19] Non-replicating vector COVID-19 vaccine",
+      "displayFR": "[COVID-19] Non-replicating vector COVID-19 vaccine",
+      "diseaseEN": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "51311000087100": {
+      "displayEN": "[RSV] Respiratory syncytial virus antigen vaccine",
+      "displayFR": "[RSV] Respiratory syncytial virus antigen vaccine",
+      "diseaseEN": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "55735004": "infection à virus respiratoire syncytial"
+        }
+      ]
+    },
+    "56341000087108": {
+      "displayEN": "[LZV] Live attenuated herpes zoster vaccine",
+      "displayFR": "[VZV] vaccin vivant atténué contre le herpès zoster",
+      "diseaseEN": [
+        {
+          "4740000": "Shingles"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4740000": "zona"
+        }
+      ]
+    },
+    "7011000087100": {
+      "displayEN": "BCG Vaccine SP",
+      "displayFR": "BCG Vaccine SP",
+      "diseaseEN": [],
+      "diseaseFR": [],
+      "MAHEN": "SANOFI PASTEUR LIMITED",
+      "MAHFR": "SANOFI PASTEUR LIMITED"
+    },
+    "7121000087107": {
+      "displayEN": "[Men-C-ACYW] Meningococcal conjugate A + C + Y + W vaccine",
+      "displayFR": "[Men-C-ACYW] vaccin contre le méningocoque conjugué A + C + Y + W",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "7321000087105": {
+      "displayEN": "Typh-O Vivotif CS",
+      "displayFR": "Typh-O Vivotif CS",
+      "diseaseEN": [],
+      "diseaseFR": [],
+      "MAHEN": "Crucell Switzerland LTD",
+      "MAHFR": "Crucell Switzerland LTD"
+    },
+    "7711000087103": {
+      "displayEN": "[Men-P-A] Meningococcal polysaccharide A vaccine",
+      "displayFR": "[Men-P-A] Meningococcal polysaccharide A vaccine",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "7761000087101": {
+      "displayEN": "[wP] Pertussis whole cell pediatric vaccine",
+      "displayFR": "[CGE] vaccin pédiatrique contre la coqueluche à germes entiers",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        }
+      ]
+    },
+    "7931000087106": {
+      "displayEN": "[DTaP-IPV-Hib] Diphtheria, tetanus, acellular pertussis, inactivated poliomyelitis and Haemophilus influenzae type b pediatric vaccine",
+      "displayFR": "[DTaP-IPV-Hib] Diphtheria, tetanus, acellular pertussis, inactivated poliomyelitis and Haemophilus influenzae type b pediatric vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        },
+        {
+          "398102009": "Poliomyelitis"
+        },
+        {
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        },
+        {
+          "398102009": "poliomyélite"
+        },
+        {
+          "406583002": "infection invasive à Haemophilus influenzae"
+        }
+      ]
+    },
+    "8231000087103": {
+      "displayEN": "[Men-C] Meningococcal conjugate vaccine",
+      "displayFR": "[Men-C] Meningococcal conjugate vaccine",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "911000221103": {
+      "displayEN": "[HPV] Human papillomavirus vaccine",
+      "displayFR": "[HPV] Human papillomavirus vaccine",
+      "diseaseEN": [
+        {
+          "240532009": "Human papilloma virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "240532009": "infection par le virus du papillome humain"
+        }
+      ]
+    },
+    "981000221107": {
+      "displayEN": "[Pneu] Pneumococcal vaccine",
+      "displayFR": "[Pneu] Pneumococcal vaccine",
+      "diseaseEN": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "16814004": "infection pneumococcique"
+        }
+      ]
+    },
+    "45861000087106": {
+      "displayEN": "[PF] Plasmodium falciparum vaccine",
+      "displayFR": "[PF] Plasmodium falciparum vaccine",
+      "diseaseEN": [
+        {
+          "61462000": "Malaria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "61462000": "infection à Plasmodium"
+        }
+      ]
+    },
+    "51591000087104": {
+      "displayEN": "[EV-A71] Enterovirus A71 vaccine",
+      "displayFR": "[EV-A71] Enterovirus A71 vaccine",
+      "diseaseEN": [
+        {
+          "713456006": "Enterovirus 71 infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "713456006": "infection par l'entérovirus A71"
+        }
+      ]
+    },
+    "56011000087109": {
+      "displayEN": "[RZV] Recombinant herpes zoster vaccine",
+      "displayFR": "[RZV] Recombinant herpes zoster vaccine",
+      "diseaseEN": [],
+      "diseaseFR": []
+    },
+    "7001000087102": {
+      "displayEN": "[Inf] Influenza A monovalent H1N1 adjuvanted vaccine",
+      "displayFR": "[Inf] Influenza A monovalent H1N1 adjuvanted vaccine",
+      "diseaseEN": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "6142004": "influenza"
+        }
+      ]
+    },
+    "7111000087104": {
+      "displayEN": "Men-P-ACYW-135 MENOMUNE-A/C/Y/W-135 SP",
+      "displayFR": "Men-P-ACYW-135 MENOMUNE-A/C/Y/W-135 SP",
+      "diseaseEN": [],
+      "diseaseFR": [],
+      "MAHEN": "Sanofi Pasteur Inc.",
+      "MAHFR": "Sanofi Pasteur Inc."
+    },
+    "7281000087100": {
+      "displayEN": "Measles + rubella vaccine",
+      "displayFR": "Measles + rubella vaccine",
+      "diseaseEN": [],
+      "diseaseFR": []
+    },
+    "7701000087100": {
+      "displayEN": "[D] Diphtheria pediatric vaccine",
+      "displayFR": "[D] vaccin pédiatrique contre la diphtérie",
+      "diseaseEN": [
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "397430003": "diphtérie"
+        }
+      ]
+    },
+    "51451000087105": {
+      "displayEN": "[Pneu-C-13] Pneumococcal conjugate 13-valent vaccine",
+      "displayFR": "[Pneu-C-13] vaccin contre le pneumocoque conjugué 13-valent",
+      "diseaseEN": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "16814004": "infection pneumococcique"
+        }
+      ]
+    },
+    "7811000087105": {
+      "displayEN": "[Rota-1] Rotavirus monovalent vaccine",
+      "displayFR": "[Rota-1] vaccin monovalent contre le rotavirus",
+      "diseaseEN": [
+        {
+          "18624000": "Rotavirus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "18624000": "infection à rotavirus"
+        }
+      ]
+    },
+    "7901000087103": {
+      "displayEN": "[DT-IPV] Diphtheria, tetanus and inactivated poliomyelitis pediatric vaccine",
+      "displayFR": "[DT-IPV] Diphtheria, tetanus and inactivated poliomyelitis pediatric vaccine",
+      "diseaseEN": [
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        },
+        {
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        },
+        {
+          "398102009": "poliomyélite"
+        }
+      ]
+    },
+    "805595741000087102": {
+      "displayEN": "[Inf] Influenza A monovalent H1N1 unadjuvanted vaccine",
+      "displayFR": "[Inf] Influenza A monovalent H1N1 unadjuvanted vaccine",
+      "diseaseEN": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "6142004": "influenza"
+        }
+      ]
+    },
+    "9851000087104": {
+      "displayEN": "HA Epaxal Berna SSV",
+      "displayFR": "HA Epaxal Berna SSV",
+      "diseaseEN": [],
+      "diseaseFR": [],
+      "MAHEN": "Berna Biotech Limited",
+      "MAHFR": "Berna Biotech Limited"
+    },
+    "7091000087106": {
+      "displayEN": "[Men-P-AC] Meningococcal polysaccharide A + C vaccine",
+      "displayFR": "[Men-P-AC] vaccin contre le méningocoque polysaccharide A + C",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "7251000087108": {
+      "displayEN": "[Pneu-P-23] Pneumococcal polysaccharide 23-valent vaccine",
+      "displayFR": "[Pneu-P-23] vaccin contre le pneumocoque polysaccharide 23-valent",
+      "diseaseEN": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "16814004": "infection pneumococcique"
+        }
+      ]
+    },
+    "7661000087108": {
+      "displayEN": "Pneu-C-10 pneumococcal conjugate 10-valent unspecified",
+      "displayFR": "Pneu-C-10 pneumococcal conjugate 10-valent unspecified",
+      "diseaseEN": [],
+      "diseaseFR": []
+    },
+    "7731000087108": {
+      "displayEN": "[DTaP-HB-IPV-Hib] Diphtheria, tetanus, acellular pertussis, hepatitis B, inactivated poliomyelitis and Haemophilus influenzae type b pediatric vaccine",
+      "displayFR": "[DTaP-HB-IPV-Hib] Diphtheria, tetanus, acellular pertussis, hepatitis B, inactivated poliomyelitis and Haemophilus influenzae type b pediatric vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "66071002": "Hepatitis B"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        },
+        {
+          "398102009": "Poliomyelitis"
+        },
+        {
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "66071002": "hépatite B"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        },
+        {
+          "398102009": "poliomyélite"
+        },
+        {
+          "406583002": "infection invasive à Haemophilus influenzae"
+        }
+      ]
+    },
+    "7781000087107": {
+      "displayEN": "[ap] Pertussis acellular adult vaccine",
+      "displayFR": "[ca] vaccin adulte contre la coqueluche acelllaire",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        }
+      ]
+    },
+    "7831000087100": {
+      "displayEN": "[DPT] Diphtheria, pertussis and tetanus pediatric vaccine",
+      "displayFR": "[DPT] Diphtheria, pertussis and tetanus pediatric vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        }
+      ]
+    },
+    "7751000087104": {
+      "displayEN": "[T-IPV] Tetanus and inactivated poliomyelitis vaccine",
+      "displayFR": "[T-IPV] Tetanus and inactivated poliomyelitis vaccine",
+      "diseaseEN": [
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "398102009": "poliomyélite"
+        }
+      ]
+    },
+    "7801000087108": {
+      "displayEN": "[HPV-4] Human papillomavirus quadrivalent vaccine",
+      "displayFR": "[VPH-4] vaccin quadrivalent contre le virus du papillome humain",
+      "diseaseEN": [
+        {
+          "240532009": "Human papilloma virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "240532009": "infection par le virus du papillome humain"
+        }
+      ]
+    },
+    "7851000087109": {
+      "displayEN": "[Tdap] Tetanus, diphtheria, and acellular pertussis adult vaccine",
+      "displayFR": "[Tdap] Tetanus, diphtheria, and acellular pertussis adult vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        }
+      ]
+    },
+    "7891000087104": {
+      "displayEN": "[Tdap-IPV] Tetanus, diphteria, acellular pertussis and inactivated poliomyelitis vaccine",
+      "displayFR": "[Tdap-IPV] Tetanus, diphteria, acellular pertussis and inactivated poliomyelitis vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        },
+        {
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        },
+        {
+          "398102009": "poliomyélite"
+        }
+      ]
+    },
+    "8241000087109": {
+      "displayEN": "[Men-P] Meningococcal polysaccharide vaccine",
+      "displayFR": "[Men-P] Meningococcal polysaccharide vaccine",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "621000221101": {
+      "displayEN": "[aP or ap] Pertussis acellular vaccine",
+      "displayFR": "[aP or ap] Pertussis acellular vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        }
+      ]
+    },
+    "7061000087103": {
+      "displayEN": "Men-C-C Meningitec BB",
+      "displayFR": "Men-C-C Meningitec BB",
+      "diseaseEN": [],
+      "diseaseFR": [],
+      "MAHEN": "Berna Biotech AG",
+      "MAHFR": "Berna Biotech AG"
+    },
+    "7211000087109": {
+      "displayEN": "TBE FSME-IMMUN BAG",
+      "displayFR": "TBE FSME-IMMUN BAG",
+      "diseaseEN": [],
+      "diseaseFR": [],
+      "MAHEN": "Baxter AG",
+      "MAHFR": "Baxter AG"
+    },
+    "7621000087103": {
+      "displayEN": "Inf INFLUVAC API",
+      "displayFR": "Inf INFLUVAC API",
+      "diseaseEN": [],
+      "diseaseFR": [],
+      "MAHEN": "Drug Safety, Abbott Laboratories, Limited",
+      "MAHFR": "Drug Safety, Abbott Laboratories, Limited"
+    },
+    "7721000087106": {
+      "displayEN": "[Chol-Ecol-O] Cholera and E.coli oral vaccine",
+      "displayFR": "[Chol-Ecol-O] Cholera and E.coli oral vaccine",
+      "diseaseEN": [
+        {
+          "11840006": "Traveler's diarrhea"
+        },
+        {
+          "63650001": "Cholera"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "11840006": "diarrhée du voyageur"
+        },
+        {
+          "63650001": "choléra"
+        }
+      ]
+    },
+    "7771000087105": {
+      "displayEN": "[aP] Pertussis acellular pediatric vaccine",
+      "displayFR": "[Ca] vaccin pédiatrique contre la coqueluche acelllaire",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        }
+      ]
+    },
+    "7821000087102": {
+      "displayEN": "[Rota-5] Rotavirus pentavalent vaccine",
+      "displayFR": "[Rota-5] vaccin pentavalent contre le rotavirus",
+      "diseaseEN": [
+        {
+          "18624000": "Rotavirus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "18624000": "infection à rotavirus"
+        }
+      ]
+    },
+    "8781000087106": {
+      "displayEN": "[HB] Hepatitis B dialysis strength vaccine",
+      "displayFR": "[HB] vaccin contre l'hépatite B formulation pour dialyse",
+      "diseaseEN": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "66071002": "hépatite B"
+        }
+      ]
+    },
+    "961000221100": {
+      "displayEN": "[Typh] Typhoid vaccine",
+      "displayFR": "[Typh] Typhoid vaccine",
+      "diseaseEN": [
+        {
+          "4834000": "Typhoid fever"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4834000": "fièvre typhoïde"
+        }
+      ]
+    },
+    "9821000087106": {
+      "displayEN": "[JE] JE-VAX",
+      "displayFR": "[JE] JE-VAX",
+      "diseaseEN": [
+        {
+          "52947006": "Japanese encephalitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "52947006": "encéphalite japonaise"
+        }
+      ]
+    },
+    "7871000087103": {
+      "displayEN": "[DPT-IPV] Diphtheria, pertussis, tetanus and inactivated poliomyelitis pediatric vaccine",
+      "displayFR": "[DPT-IPV] Diphtheria, pertussis, tetanus and inactivated poliomyelitis pediatric vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        },
+        {
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        },
+        {
+          "398102009": "poliomyélite"
+        }
+      ]
+    },
+    "7921000087109": {
+      "displayEN": "[DT] Diphtheria and tetanus pediatric vaccine",
+      "displayFR": "[DT] Diphtheria and tetanus pediatric vaccine",
+      "diseaseEN": [
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        }
+      ]
+    },
+    "8221000087100": {
+      "displayEN": "[DPTP-Hib] Diphtheria, tetanus, pertussis, poliomyelitis and Haemophilus influenzae type b pediatric vaccine",
+      "displayFR": "[DPTP-Hib] Diphtheria, tetanus, pertussis, poliomyelitis and Haemophilus influenzae type b pediatric vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        },
+        {
+          "398102009": "Poliomyelitis"
+        },
+        {
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        },
+        {
+          "398102009": "poliomyélite"
+        },
+        {
+          "406583002": "infection invasive à Haemophilus influenzae"
+        }
+      ]
+    },
+    "8771000087109": {
+      "displayEN": "[HB] Hepatitis B regular strength vaccine",
+      "displayFR": "[HB] vaccin contre l'hépatite B formulation régulière",
+      "diseaseEN": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "66071002": "hépatite B"
+        }
+      ]
+    },
+    "921000221108": {
+      "displayEN": "[Men] Meningococcal vaccine",
+      "displayFR": "[Men] Meningococcal vaccine",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "9811000087103": {
+      "displayEN": "[HA] Hepatitis A pediatric vaccine",
+      "displayFR": "[HA] vaccin contre l'hépatite A formulation pédiatrique",
+      "diseaseEN": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "40468003": "hépatite A"
+        }
+      ]
+    },
+    "991000221105": {
+      "displayEN": "[Chol] Cholera vaccine",
+      "displayFR": "[Chol] Cholera vaccine",
+      "diseaseEN": [
+        {
+          "11840006": "Traveler's diarrhea"
+        },
+        {
+          "63650001": "Cholera"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "11840006": "diarrhée du voyageur"
+        },
+        {
+          "63650001": "choléra"
+        }
+      ]
+    },
+    "7861000087107": {
+      "displayEN": "[DPTP] Diphtheria, pertussis, tetanus and human poliomyelitis pediatric vaccine",
+      "displayFR": "[DPTP] Diphtheria, pertussis, tetanus and human poliomyelitis pediatric vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        },
+        {
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        },
+        {
+          "398102009": "poliomyélite"
+        }
+      ]
+    },
+    "7911000087101": {
+      "displayEN": "[Td-IPV] Tetanus, diphteria, and inactivated polio adult vaccine",
+      "displayFR": "[Td-IPV] Tetanus, diphteria, and inactivated polio adult vaccine",
+      "diseaseEN": [
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        },
+        {
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        },
+        {
+          "398102009": "poliomyélite"
+        }
+      ]
+    },
+    "8211000087108": {
+      "displayEN": "[DPT-Hib] Diphtheria, pertussis, tetanus and Haemophilus influenzae type b pediatric vaccine",
+      "displayFR": "[DPT-Hib] Diphtheria, pertussis, tetanus and Haemophilus influenzae type b pediatric vaccine",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        },
+        {
+          "76902006": "Tetanus"
+        },
+        {
+          "397430003": "Diphtheria"
+        },
+        {
+          "406583002": "Haemophilus influenzae infection, invasive"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        },
+        {
+          "76902006": "tétanos"
+        },
+        {
+          "397430003": "diphtérie"
+        },
+        {
+          "406583002": "infection invasive à Haemophilus influenzae"
+        }
+      ]
+    },
+    "9801000087100": {
+      "displayEN": "[HAHB] Hepatitis A and B pediatric vaccine",
+      "displayFR": "[HAHB] Hepatitis A and B pediatric vaccine",
+      "diseaseEN": [
+        {
+          "40468003": "Hepatitis A"
+        },
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "40468003": "hépatite A"
+        },
+        {
+          "66071002": "hépatite B"
+        }
+      ]
+    },
+    "9841000087102": {
+      "displayEN": "[Inf] AREPANRIX H1N1",
+      "displayFR": "[Inf] AREPANRIX H1N1",
+      "diseaseEN": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "6142004": "influenza"
+        }
+      ]
+    },
+    "971000221109": {
+      "displayEN": "[Typh-O] Typhoid live oral vacccine",
+      "displayFR": "[Typh-O] Typhoid live oral vacccine",
+      "diseaseEN": [
+        {
+          "4834000": "Typhoid fever"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4834000": "fièvre typhoïde"
+        }
+      ]
+    },
+    "9831000087108": {
+      "displayEN": "[HB] Hepatitis B pediatric strength vaccine",
+      "displayFR": "[HB] vaccin contre l'hépatite B formulation pédiatrique",
+      "diseaseEN": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "66071002": "hépatite B"
+        }
+      ]
+    },
+    "6991000087105": {
+      "displayEN": "Inf influenza A monovalent H1N1 unadjuvanted unspecified",
+      "displayFR": "Inf influenza A monovalent H1N1 unadjuvanted unspecified",
+      "diseaseEN": [],
+      "diseaseFR": []
+    },
+    "7291000087103": {
+      "displayEN": "Mu mumps unspecified",
+      "displayFR": "Mu mumps unspecified",
+      "diseaseEN": [],
+      "diseaseFR": []
+    },
+    "19331000087104": {
+      "displayEN": "CMVIg Cytogam CSL",
+      "displayFR": "CMVIg Cytogam CSL",
+      "diseaseEN": [],
+      "diseaseFR": [],
+      "MAHEN": "CSL Behring AG",
+      "MAHFR": "CSL Behring AG"
+    },
+    "21911000087100": {
+      "displayEN": "BAtx botulism antitoxin heptavalent unspecified",
+      "displayFR": "AtxB antitoxine botulinique heptavalent non spécifié",
+      "diseaseEN": [
+        {
+          "1149327007": "Poisoning caused by Clostridium botulinum toxin"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "1149327007": "intoxication à Clostridium botulinum"
+        }
+      ]
+    },
+    "19431000087108": {
+      "displayEN": "DAtx Diphtheria antitoxin IOI",
+      "displayFR": "DAtx Diphtheria antitoxin IOI",
+      "diseaseEN": [],
+      "diseaseFR": [],
+      "MAHEN": "Institute of Immunology Inc.",
+      "MAHFR": "Institute of Immunology Inc."
+    },
+    "7941000087100": {
+      "displayEN": "HBIg HepaGam B Cang",
+      "displayFR": "HBIg HepaGam B Cang",
+      "diseaseEN": [],
+      "diseaseFR": [],
+      "MAHEN": "Cangene Corporation",
+      "MAHFR": "Cangene Corporation"
+    },
+    "7991000087107": {
+      "displayEN": "VarIg VariZIG Cang",
+      "displayFR": "VarIg VariZIG Cang",
+      "diseaseEN": [],
+      "diseaseFR": [],
+      "MAHEN": "Cangene Corporation",
+      "MAHFR": "Cangene Corporation"
+    },
+    "56831000087109": {
+      "displayEN": "[fIPV] Poliomyelitis inactivated fractional vaccine",
+      "displayFR": "[fIPV] Poliomyelitis inactivated fractional vaccine",
+      "diseaseEN": [
+        {
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "398102009": "poliomyélite"
+        }
+      ]
+    },
+    "56841000087103": {
+      "displayEN": "[IPV] Poliomyelitis inactivated standard dose vaccine",
+      "displayFR": "[IPV] Poliomyelitis inactivated standard dose vaccine",
+      "diseaseEN": [
+        {
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "398102009": "poliomyélite"
+        }
+      ]
+    },
+    "58321000087103": {
+      "displayEN": "Nirsevimab 100 mg/1 mL solution for injection syringe",
+      "displayFR": "Nirsevimab 100 mg/1 mL solution for injection syringe",
+      "diseaseEN": [],
+      "diseaseFR": []
+    },
+    "58311000087106": {
+      "displayEN": "Nirsevimab 50 mg/0.5 mL solution for injection syringe",
+      "displayFR": "Nirsevimab 50 mg/0.5 mL solution for injection syringe",
+      "diseaseEN": [],
+      "diseaseFR": []
+    },
+    "58531000087106": {
+      "displayEN": "[RSVAb] Respiratory syncytial virus monoclonal antibody nirsevimab",
+      "displayFR": "[RSVAb] Respiratory syncytial virus monoclonal antibody nirsevimab",
+      "diseaseEN": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "55735004": "infection à virus respiratoire syncytial"
+        }
+      ]
+    },
+    "1011000221100": {
+      "displayEN": "[Chol-O] Cholera live attenuated oral vaccine",
+      "displayFR": "[Chol-O] Cholera live attenuated oral vaccine",
+      "diseaseEN": [
+        {
+          "11840006": "Traveler's diarrhea"
+        },
+        {
+          "63650001": "Cholera"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "11840006": "diarrhée du voyageur"
+        },
+        {
+          "63650001": "choléra"
+        }
+      ]
+    },
+    "60591000087104": {
+      "displayEN": "[Pneu-C-21] Pneumococcal conjugate 21-valent vaccine",
+      "displayFR": "[Pneu-C-21] vaccin contre le pneumocoque conjugué 21-valent",
+      "diseaseEN": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "16814004": "infection pneumococcique"
+        }
+      ]
+    },
+    "61231000087107": {
+      "displayEN": "[RSVAb] Respiratory syncytial virus monoclonal antibody",
+      "displayFR": "[RSVAb] Respiratory syncytial virus monoclonal antibody",
+      "diseaseEN": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "55735004": "infection à virus respiratoire syncytial"
+        }
+      ]
+    },
+    "61771000087101": {
+      "displayEN": "[RSV] Respiratory syncytial virus mRNA vaccine",
+      "displayFR": "[RSV] Respiratory syncytial virus mRNA vaccine",
+      "diseaseEN": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "55735004": "infection à virus respiratoire syncytial"
+        }
+      ]
+    },
+    "61741000087109": {
+      "displayEN": "[RSV] Respiratory syncytial virus vaccine",
+      "displayFR": "[RSV] Respiratory syncytial virus vaccine",
+      "diseaseEN": [],
+      "diseaseFR": []
+    },
     "19291000087108": {
       "displayEN": "[Inf] Xanaflu",
       "displayFR": "[Inf] Xanaflu",
@@ -3205,20 +5079,6 @@
       "MAHEN": "GlaxoSmithKline Biologicals",
       "MAHFR": "GlaxoSmithKline Biologicals"
     },
-    "24211000087105": {
-      "displayEN": "[Typh-O] Vivotif (Pax)",
-      "displayFR": "[Typh-O] Vivotif (Pax)",
-      "diseaseEN": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4834000": "fièvre typhoïde"
-        }
-      ]
-    },
     "26571000087105": {
       "displayEN": "[SMV] IMVAMUNE",
       "displayFR": "[SMV] IMVAMUNE",
@@ -3967,20 +5827,6 @@
       "MAHEN": "MERCK CANADA INC.",
       "MAHFR": "MERCK CANADA INC."
     },
-    "7211000087109": {
-      "displayEN": "[TBE] FSME-IMMUN (BAG)",
-      "displayFR": "[TBE] FSME-IMMUN (BAG)",
-      "diseaseEN": [
-        {
-          "712986001": "Tickborne encephalitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "712986001": "encéphalite à tiques"
-        }
-      ]
-    },
     "7311000087102": {
       "displayEN": "[Typh-I] TYPHIM VI",
       "displayFR": "[Typh-I] TYPHIM VI",
@@ -4272,20 +6118,6 @@
       ],
       "MAHEN": "GLAXOSMITHKLINE INC.",
       "MAHFR": "GLAXOSMITHKLINE INC."
-    },
-    "7111000087104": {
-      "displayEN": "[Men-P-ACYW-135] MENOMUNE (SP)",
-      "displayFR": "[Men-P-ACYW-135] MENOMUNE (SP)",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
     },
     "34631000087100": {
       "displayEN": "[Anth] BioThrax",
@@ -4635,34 +6467,6 @@
       "MAHEN": "MERCK CANADA INC.",
       "MAHFR": "MERCK CANADA INC."
     },
-    "7011000087100": {
-      "displayEN": "[BCG] BCG Vaccine (SP)",
-      "displayFR": "[BCG] BCG Vaccine (SP)",
-      "diseaseEN": [
-        {
-          "56717001": "Tuberculosis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "56717001": "tuberculose"
-        }
-      ]
-    },
-    "7061000087103": {
-      "displayEN": "[Men-C-C] Meningitec (BB)",
-      "displayFR": "[Men-C-C] Meningitec (BB)",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
     "7141000087103": {
       "displayEN": "[Men-C-ACYW-135] Menveo (NVD)",
       "displayFR": "[Men-C-ACYW-135] Menveo (NVD)",
@@ -4939,20 +6743,6 @@
       "MAHEN": "ASTRAZENECA CANADA INC.",
       "MAHFR": "ASTRAZENECA CANADA INC."
     },
-    "7621000087103": {
-      "displayEN": "[Inf] INFLUVAC (API)",
-      "displayFR": "[Inf] INFLUVAC (API)",
-      "diseaseEN": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "6142004": "influenza"
-        }
-      ]
-    },
     "7681000087102": {
       "displayEN": "[Pneu-C-13] Prevnar 13",
       "displayFR": "[Pneu-C-13] Prevnar 13",
@@ -5012,20 +6802,6 @@
       ],
       "MAHEN": "SANOFI PASTEUR LIMITED",
       "MAHFR": "SANOFI PASTEUR LIMITED"
-    },
-    "7321000087105": {
-      "displayEN": "[Typh-O] Vivotif (CS)",
-      "displayFR": "[Typh-O] Vivotif (CS)",
-      "diseaseEN": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4834000": "fièvre typhoïde"
-        }
-      ]
     },
     "7371000087109": {
       "displayEN": "[Td] Td ADSORBED (with preservative)",
@@ -5539,20 +7315,6 @@
       "MAHEN": "MERCK CANADA INC.",
       "MAHFR": "MERCK CANADA INC."
     },
-    "9851000087104": {
-      "displayEN": "[HA] Epaxal Berna (SSV)",
-      "displayFR": "[HA] Epaxal Berna (SSV)",
-      "diseaseEN": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "40468003": "hépatite A"
-        }
-      ]
-    },
     "19301000087107": {
       "displayEN": "[Datx] Diphtheria Antitoxin B.P.",
       "displayFR": "[Datx] Diphtheria Antitoxin B.P.",
@@ -5568,20 +7330,6 @@
       ],
       "MAHEN": "VINS Bioproducts Limited",
       "MAHFR": "VINS Bioproducts Limited"
-    },
-    "19331000087104": {
-      "displayEN": "[CMVIg] Cytogam (CSL)",
-      "displayFR": "[CMVIg] Cytogam (CSL)",
-      "diseaseEN": [
-        {
-          "28944009": "Cytomegalovirus disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "28944009": "infection à cytomégalovirus"
-        }
-      ]
     },
     "19361000087106": {
       "displayEN": "[Batx] Botulism Antitoxin Behring",
@@ -5714,20 +7462,6 @@
       ],
       "MAHEN": "Cangene Corporation",
       "MAHFR": "Cangene Corporation"
-    },
-    "19431000087108": {
-      "displayEN": "[Datx] Diphtheria antitoxin (IOI)",
-      "displayFR": "[Datx] Diphtheria antitoxin (IOI)",
-      "diseaseEN": [
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "397430003": "diphtérie"
-        }
-      ]
     },
     "26531000087108": {
       "displayEN": "[CMVIg] Cytogam (STR)",
@@ -5992,34 +7726,6 @@
       "displayFR": "HBIg HyperHEP B Grif",
       "diseaseEN": [],
       "diseaseFR": []
-    },
-    "7941000087100": {
-      "displayEN": "[HBIg] HepaGam B (Cang)",
-      "displayFR": "[HBIg] HepaGam B (Cang)",
-      "diseaseEN": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "66071002": "hépatite B"
-        }
-      ]
-    },
-    "7991000087107": {
-      "displayEN": "[VarIg] VariZIG (Cang)",
-      "displayFR": "[VarIg] VariZIG (Cang)",
-      "diseaseEN": [
-        {
-          "38907003": "Varicella"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "38907003": "varicelle"
-        }
-      ]
     },
     "56761000087108": {
       "displayEN": "[Sma] ACAM2000",
@@ -6346,1784 +8052,6 @@
       ],
       "MAHEN": "MODERNA BIOPHARMA CANADA CORPORATION",
       "MAHFR": "MODERNA BIOPHARMA CANADA CORPORATION"
-    },
-    "1051000221104": {
-      "displayEN": "[OPV] Poliomyelitis live vaccine",
-      "displayFR": "[OPV] Poliomyelitis live vaccine",
-      "diseaseEN": [
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "398102009": "poliomyélite"
-        }
-      ]
-    },
-    "19461000087101": {
-      "displayEN": "Men-B meningococcal B unspecified",
-      "displayFR": "Men-B meningococcal B unspecified",
-      "diseaseEN": [],
-      "diseaseFR": []
-    },
-    "20681000087105": {
-      "displayEN": "[Men-C-CY-Hib] Meningococcal conjugate C + Y + Haemophilus influenzae type b vaccine",
-      "displayFR": "[Men-C-CY-Hib] Meningococcal conjugate C + Y + Haemophilus influenzae type b vaccine",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        },
-        {
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        },
-        {
-          "406583002": "infection invasive à Haemophilus influenzae"
-        }
-      ]
-    },
-    "21901000087102": {
-      "displayEN": "[Men-C-CY] Meningococcal conjugate C + Y vaccine",
-      "displayFR": "[Men-C-CY] vaccin contre le méningocoque conjugué C + Y",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "23701000087103": {
-      "displayEN": "[DTaP-Hib] Diphtheria, tetanus, acellular pertussis, and Haemophilus influenzae type b pediatric vaccine",
-      "displayFR": "[DTaP-Hib] Diphtheria, tetanus, acellular pertussis, and Haemophilus influenzae type b pediatric vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        },
-        {
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        },
-        {
-          "406583002": "infection invasive à Haemophilus influenzae"
-        }
-      ]
-    },
-    "28451000087102": {
-      "displayEN": "[HZ] Herpes zoster vaccine",
-      "displayFR": "[Zona] vaccin contre le herpès zoster",
-      "diseaseEN": [
-        {
-          "4740000": "Shingles"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4740000": "zona"
-        }
-      ]
-    },
-    "319941000221104": {
-      "displayEN": "[BCG] Bacillus Calmette Guerin vaccine",
-      "displayFR": "[BCG] Bacillus Calmette Guerin vaccine",
-      "diseaseEN": [
-        {
-          "56717001": "Tuberculosis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "56717001": "tuberculose"
-        }
-      ]
-    },
-    "1801000221105": {
-      "displayEN": "[Pneu-C] Pneumococcal conjugated vaccine",
-      "displayFR": "[Pneu-C] vaccin contre le pneumocoque conjugué",
-      "diseaseEN": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "16814004": "infection pneumococcique"
-        }
-      ]
-    },
-    "20591000087106": {
-      "displayEN": "[DPT-HB-Hib] Diphtheria, pertussis, tetanus, hepatitis B and Haemophilus influenzae type b pediatric vaccine",
-      "displayFR": "[DPT-HB-Hib] Diphtheria, pertussis, tetanus, hepatitis B and Haemophilus influenzae type b pediatric vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "66071002": "Hepatitis B"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        },
-        {
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "66071002": "hépatite B"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        },
-        {
-          "406583002": "infection invasive à Haemophilus influenzae"
-        }
-      ]
-    },
-    "20861000087100": {
-      "displayEN": "[HPV-9] Human papillomavirus 9-valent vaccine",
-      "displayFR": "[VPH-9] vaccin 9-valent contre le virus du papillome humain",
-      "diseaseEN": [
-        {
-          "240532009": "Human papilloma virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "240532009": "infection par le virus du papillome humain"
-        }
-      ]
-    },
-    "2221000221107": {
-      "displayEN": "Varicella-zoster live attenuated vaccine",
-      "displayFR": "Varicella-zoster live attenuated vaccine",
-      "diseaseEN": [],
-      "diseaseFR": []
-    },
-    "33381000087107": {
-      "displayEN": "[Inf] Influenza quadrivalent high-dose vaccine",
-      "displayFR": "[Inf] Influenza quadrivalent high-dose vaccine",
-      "diseaseEN": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "6142004": "influenza"
-        }
-      ]
-    },
-    "45891000087103": {
-      "displayEN": "[EZV] Ebola vaccine",
-      "displayFR": "[EZV] Ebola vaccine",
-      "diseaseEN": [
-        {
-          "45901000087102": "Zaire Ebolavirus disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "45901000087102": "maladie à virus Ebola-Zaïre"
-        }
-      ]
-    },
-    "52821000087108": {
-      "displayEN": "[Men-C-A] Meningococcal conjugate A vaccine",
-      "displayFR": "[Men-C-A] vaccin contre le méningocoque conjugué A",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "601000221108": {
-      "displayEN": "Pertussis vaccine",
-      "displayFR": "Pertussis vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        }
-      ]
-    },
-    "19401000087100": {
-      "displayEN": "[Inf] Influenza quadrivalent vaccine",
-      "displayFR": "[Inf] Influenza quadrivalent vaccine",
-      "diseaseEN": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "6142004": "influenza"
-        }
-      ]
-    },
-    "20641000087100": {
-      "displayEN": "[DTaP-HB-IPV] Diphtheria, tetanus, acellular pertussis, hepatitis B and inactivated poliomyelitis pediatric vaccine",
-      "displayFR": "[DTaP-HB-IPV] Diphtheria, tetanus, acellular pertussis, hepatitis B and inactivated poliomyelitis pediatric vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "66071002": "Hepatitis B"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        },
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "66071002": "hépatite B"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        },
-        {
-          "398102009": "poliomyélite"
-        }
-      ]
-    },
-    "1981000221108": {
-      "displayEN": "[Men-B] Meningococcal B vaccine",
-      "displayFR": "[Men-B] Meningococcal B vaccine",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "20851000087103": {
-      "displayEN": "[Men-C-CY-Hib] MENHIBRIX",
-      "displayFR": "[Men-C-CY-Hib] MENHIBRIX",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        },
-        {
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        },
-        {
-          "406583002": "infection invasive à Haemophilus influenzae"
-        }
-      ]
-    },
-    "21921000087108": {
-      "displayEN": "[Inf] Influenza trivalent high-dose vaccine",
-      "displayFR": "[Inf] Influenza trivalent high-dose vaccine",
-      "diseaseEN": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "6142004": "influenza"
-        }
-      ]
-    },
-    "28481000087105": {
-      "displayEN": "[Pneu-P] Pneumococcal polysaccharide vaccine",
-      "displayFR": "[Pneu-P] vaccin contre le pneumocoque polysaccharide",
-      "diseaseEN": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "16814004": "infection pneumococcique"
-        }
-      ]
-    },
-    "1181000221105": {
-      "displayEN": "[Inf] Influenza vaccine",
-      "displayFR": "[Inf] Influenza vaccine",
-      "diseaseEN": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "6142004": "influenza"
-        }
-      ]
-    },
-    "19371000087102": {
-      "displayEN": "[HA] Hepatitis A regular strength vaccine",
-      "displayFR": "[HA] vaccin contre l'hépatite A formulation régulière",
-      "diseaseEN": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "40468003": "hépatite A"
-        }
-      ]
-    },
-    "20601000087103": {
-      "displayEN": "[DPT-HB] Diphtheria, pertussis, tetanus and hepatitis B pediatric vaccine",
-      "displayFR": "[DPT-HB] Diphtheria, pertussis, tetanus and hepatitis B pediatric vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "66071002": "Hepatitis B"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "66071002": "hépatite B"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        }
-      ]
-    },
-    "2171000221104": {
-      "displayEN": "[Typh-I] Typhoid polysaccharide injectable vaccine",
-      "displayFR": "[Typh-I] Typhoid polysaccharide injectable vaccine",
-      "diseaseEN": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4834000": "fièvre typhoïde"
-        }
-      ]
-    },
-    "24371000087105": {
-      "displayEN": "[HAHB] Hepatitis A and B regular strength vaccine",
-      "displayFR": "[HAHB] Hepatitis A and B regular strength vaccine",
-      "diseaseEN": [
-        {
-          "40468003": "Hepatitis A"
-        },
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "40468003": "hépatite A"
-        },
-        {
-          "66071002": "hépatite B"
-        }
-      ]
-    },
-    "28531000087107": {
-      "displayEN": "[COVID-19] COVID-19 vaccine",
-      "displayFR": "[COVID-19] COVID-19 vaccine",
-      "diseaseEN": [],
-      "diseaseFR": []
-    },
-    "6981000087108": {
-      "displayEN": "[Inf] Influenza A monovalent vaccine",
-      "displayFR": "[Inf] Influenza A monovalent vaccine",
-      "diseaseEN": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "6142004": "influenza"
-        }
-      ]
-    },
-    "7101000087101": {
-      "displayEN": "[Men-P-ACYW-135] Meningococcal polysaccharide A + C + Y + W-135 vaccine",
-      "displayFR": "[Men-P-ACYW-135] vaccin contre le méningocoque polysaccharide A + C + Y + W-135",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "7261000087106": {
-      "displayEN": "Pneumococcal conjugate vaccine",
-      "displayFR": "Pneumococcal conjugate vaccine",
-      "diseaseEN": [],
-      "diseaseFR": []
-    },
-    "7691000087100": {
-      "displayEN": "[Inf] Influenza trivalent vaccine",
-      "displayFR": "[Inf] Influenza trivalent vaccine",
-      "diseaseEN": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "6142004": "influenza"
-        }
-      ]
-    },
-    "7741000087102": {
-      "displayEN": "[d] Diphtheria adult vaccine",
-      "displayFR": "[d] vaccin contre la diphtérie adulte",
-      "diseaseEN": [
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "397430003": "diphtérie"
-        }
-      ]
-    },
-    "7791000087109": {
-      "displayEN": "[HPV-2] Human papillomavirus bivalent vaccine",
-      "displayFR": "[VPH-2] vaccin bivalent contre le virus du papillome humain",
-      "diseaseEN": [
-        {
-          "240532009": "Human papilloma virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "240532009": "infection par le virus du papillome humain"
-        }
-      ]
-    },
-    "7841000087106": {
-      "displayEN": "[DTaP] Diphtheria, tetanus and acellular pertussis pediatric vaccine",
-      "displayFR": "[DTaP] Diphtheria, tetanus and acellular pertussis pediatric vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        }
-      ]
-    },
-    "7881000087101": {
-      "displayEN": "[DTaP-IPV] Diphtheria, tetanus, acellular pertussis and inactivated poliomyelitis pediatric vaccine",
-      "displayFR": "[DTaP-IPV] Diphtheria, tetanus, acellular pertussis and inactivated poliomyelitis pediatric vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        },
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        },
-        {
-          "398102009": "poliomyélite"
-        }
-      ]
-    },
-    "21721000087105": {
-      "displayEN": "[Men-C-AC] Meningococcal conjugate A + C vaccine",
-      "displayFR": "[Men-C-AC] vaccin contre le méningocoque conjugué A + C",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "23681000087100": {
-      "displayEN": "[DTwP-HB] Diphtheria, whole cell pertussis, yetanus and hepatitis B pediatric vaccine",
-      "displayFR": "[DTwP-HB] Diphtheria, whole cell pertussis, yetanus and hepatitis B pediatric vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "66071002": "Hepatitis B"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "66071002": "hépatite B"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        }
-      ]
-    },
-    "28441000087100": {
-      "displayEN": "[Var] Varicella vaccine",
-      "displayFR": "[Var] vaccin contre la varicelle",
-      "diseaseEN": [
-        {
-          "38907003": "Varicella"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "38907003": "varicelle"
-        }
-      ]
-    },
-    "30141000087107": {
-      "displayEN": "[COVID-19] Virus-like particle antigen COVID-19 vaccine",
-      "displayFR": "[COVID-19] Virus-like particle antigen COVID-19 vaccine",
-      "diseaseEN": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "33581000087104": {
-      "displayEN": "[COVID-19] Pediatric mRNA COVID-19 vaccine",
-      "displayFR": "[COVID-19] Pediatric mRNA COVID-19 vaccine",
-      "diseaseEN": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "23001000087100": {
-      "displayEN": "Zos zoster non-live adjuvanted unspecified",
-      "displayFR": "Zos zoster non-live adjuvanted unspecified",
-      "diseaseEN": [],
-      "diseaseFR": []
-    },
-    "27511000087101": {
-      "displayEN": "[Men-C-C] Meningococcal conjugate C vaccine",
-      "displayFR": "[Men-C-C] Meningococcal conjugate C vaccine",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "29061000087103": {
-      "displayEN": "[COVID-19] Non-replicating vector COVID-19 vaccine",
-      "displayFR": "[COVID-19] Non-replicating vector COVID-19 vaccine",
-      "diseaseEN": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "51311000087100": {
-      "displayEN": "[RSV] Respiratory syncytial virus antigen vaccine",
-      "displayFR": "[RSV] Respiratory syncytial virus antigen vaccine",
-      "diseaseEN": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "55735004": "infection à virus respiratoire syncytial"
-        }
-      ]
-    },
-    "56341000087108": {
-      "displayEN": "[LZV] Live attenuated herpes zoster vaccine",
-      "displayFR": "[VZV] vaccin vivant atténué contre le herpès zoster",
-      "diseaseEN": [
-        {
-          "4740000": "Shingles"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4740000": "zona"
-        }
-      ]
-    },
-    "7121000087107": {
-      "displayEN": "[Men-C-ACYW] Meningococcal conjugate A + C + Y + W vaccine",
-      "displayFR": "[Men-C-ACYW] vaccin contre le méningocoque conjugué A + C + Y + W",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "7711000087103": {
-      "displayEN": "[Men-P-A] Meningococcal polysaccharide A vaccine",
-      "displayFR": "[Men-P-A] Meningococcal polysaccharide A vaccine",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "7761000087101": {
-      "displayEN": "[wP] Pertussis whole cell pediatric vaccine",
-      "displayFR": "[CGE] vaccin pédiatrique contre la coqueluche à germes entiers",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        }
-      ]
-    },
-    "7931000087106": {
-      "displayEN": "[DTaP-IPV-Hib] Diphtheria, tetanus, acellular pertussis, inactivated poliomyelitis and Haemophilus influenzae type b pediatric vaccine",
-      "displayFR": "[DTaP-IPV-Hib] Diphtheria, tetanus, acellular pertussis, inactivated poliomyelitis and Haemophilus influenzae type b pediatric vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        },
-        {
-          "398102009": "Poliomyelitis"
-        },
-        {
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        },
-        {
-          "398102009": "poliomyélite"
-        },
-        {
-          "406583002": "infection invasive à Haemophilus influenzae"
-        }
-      ]
-    },
-    "8231000087103": {
-      "displayEN": "[Men-C] Meningococcal conjugate vaccine",
-      "displayFR": "[Men-C] Meningococcal conjugate vaccine",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "911000221103": {
-      "displayEN": "[HPV] Human papillomavirus vaccine",
-      "displayFR": "[HPV] Human papillomavirus vaccine",
-      "diseaseEN": [
-        {
-          "240532009": "Human papilloma virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "240532009": "infection par le virus du papillome humain"
-        }
-      ]
-    },
-    "981000221107": {
-      "displayEN": "[Pneu] Pneumococcal vaccine",
-      "displayFR": "[Pneu] Pneumococcal vaccine",
-      "diseaseEN": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "16814004": "infection pneumococcique"
-        }
-      ]
-    },
-    "45861000087106": {
-      "displayEN": "[PF] Plasmodium falciparum vaccine",
-      "displayFR": "[PF] Plasmodium falciparum vaccine",
-      "diseaseEN": [
-        {
-          "61462000": "Malaria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "61462000": "infection à Plasmodium"
-        }
-      ]
-    },
-    "51591000087104": {
-      "displayEN": "[EV-A71] Enterovirus A71 vaccine",
-      "displayFR": "[EV-A71] Enterovirus A71 vaccine",
-      "diseaseEN": [
-        {
-          "713456006": "Enterovirus 71 infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "713456006": "infection par l'entérovirus A71"
-        }
-      ]
-    },
-    "56011000087109": {
-      "displayEN": "[RZV] Recombinant herpes zoster vaccine",
-      "displayFR": "[RZV] Recombinant herpes zoster vaccine",
-      "diseaseEN": [],
-      "diseaseFR": []
-    },
-    "7001000087102": {
-      "displayEN": "[Inf] Influenza A monovalent H1N1 adjuvanted vaccine",
-      "displayFR": "[Inf] Influenza A monovalent H1N1 adjuvanted vaccine",
-      "diseaseEN": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "6142004": "influenza"
-        }
-      ]
-    },
-    "7281000087100": {
-      "displayEN": "Measles + rubella vaccine",
-      "displayFR": "Measles + rubella vaccine",
-      "diseaseEN": [],
-      "diseaseFR": []
-    },
-    "7701000087100": {
-      "displayEN": "[D] Diphtheria pediatric vaccine",
-      "displayFR": "[D] vaccin pédiatrique contre la diphtérie",
-      "diseaseEN": [
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "397430003": "diphtérie"
-        }
-      ]
-    },
-    "51451000087105": {
-      "displayEN": "[Pneu-C-13] Pneumococcal conjugate 13-valent vaccine",
-      "displayFR": "[Pneu-C-13] vaccin contre le pneumocoque conjugué 13-valent",
-      "diseaseEN": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "16814004": "infection pneumococcique"
-        }
-      ]
-    },
-    "7811000087105": {
-      "displayEN": "[Rota-1] Rotavirus monovalent vaccine",
-      "displayFR": "[Rota-1] vaccin monovalent contre le rotavirus",
-      "diseaseEN": [
-        {
-          "18624000": "Rotavirus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "18624000": "infection à rotavirus"
-        }
-      ]
-    },
-    "7901000087103": {
-      "displayEN": "[DT-IPV] Diphtheria, tetanus and inactivated poliomyelitis pediatric vaccine",
-      "displayFR": "[DT-IPV] Diphtheria, tetanus and inactivated poliomyelitis pediatric vaccine",
-      "diseaseEN": [
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        },
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        },
-        {
-          "398102009": "poliomyélite"
-        }
-      ]
-    },
-    "805595741000087102": {
-      "displayEN": "[Inf] Influenza A monovalent H1N1 unadjuvanted vaccine",
-      "displayFR": "[Inf] Influenza A monovalent H1N1 unadjuvanted vaccine",
-      "diseaseEN": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "6142004": "influenza"
-        }
-      ]
-    },
-    "7091000087106": {
-      "displayEN": "[Men-P-AC] Meningococcal polysaccharide A + C vaccine",
-      "displayFR": "[Men-P-AC] vaccin contre le méningocoque polysaccharide A + C",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "7251000087108": {
-      "displayEN": "[Pneu-P-23] Pneumococcal polysaccharide 23-valent vaccine",
-      "displayFR": "[Pneu-P-23] vaccin contre le pneumocoque polysaccharide 23-valent",
-      "diseaseEN": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "16814004": "infection pneumococcique"
-        }
-      ]
-    },
-    "7661000087108": {
-      "displayEN": "Pneu-C-10 pneumococcal conjugate 10-valent unspecified",
-      "displayFR": "Pneu-C-10 pneumococcal conjugate 10-valent unspecified",
-      "diseaseEN": [],
-      "diseaseFR": []
-    },
-    "7731000087108": {
-      "displayEN": "[DTaP-HB-IPV-Hib] Diphtheria, tetanus, acellular pertussis, hepatitis B, inactivated poliomyelitis and Haemophilus influenzae type b pediatric vaccine",
-      "displayFR": "[DTaP-HB-IPV-Hib] Diphtheria, tetanus, acellular pertussis, hepatitis B, inactivated poliomyelitis and Haemophilus influenzae type b pediatric vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "66071002": "Hepatitis B"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        },
-        {
-          "398102009": "Poliomyelitis"
-        },
-        {
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "66071002": "hépatite B"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        },
-        {
-          "398102009": "poliomyélite"
-        },
-        {
-          "406583002": "infection invasive à Haemophilus influenzae"
-        }
-      ]
-    },
-    "7781000087107": {
-      "displayEN": "[ap] Pertussis acellular adult vaccine",
-      "displayFR": "[ca] vaccin adulte contre la coqueluche acelllaire",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        }
-      ]
-    },
-    "7831000087100": {
-      "displayEN": "[DPT] Diphtheria, pertussis and tetanus pediatric vaccine",
-      "displayFR": "[DPT] Diphtheria, pertussis and tetanus pediatric vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        }
-      ]
-    },
-    "7751000087104": {
-      "displayEN": "[T-IPV] Tetanus and inactivated poliomyelitis vaccine",
-      "displayFR": "[T-IPV] Tetanus and inactivated poliomyelitis vaccine",
-      "diseaseEN": [
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "398102009": "poliomyélite"
-        }
-      ]
-    },
-    "7801000087108": {
-      "displayEN": "[HPV-4] Human papillomavirus quadrivalent vaccine",
-      "displayFR": "[VPH-4] vaccin quadrivalent contre le virus du papillome humain",
-      "diseaseEN": [
-        {
-          "240532009": "Human papilloma virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "240532009": "infection par le virus du papillome humain"
-        }
-      ]
-    },
-    "7851000087109": {
-      "displayEN": "[Tdap] Tetanus, diphtheria, and acellular pertussis adult vaccine",
-      "displayFR": "[Tdap] Tetanus, diphtheria, and acellular pertussis adult vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        }
-      ]
-    },
-    "7891000087104": {
-      "displayEN": "[Tdap-IPV] Tetanus, diphteria, acellular pertussis and inactivated poliomyelitis vaccine",
-      "displayFR": "[Tdap-IPV] Tetanus, diphteria, acellular pertussis and inactivated poliomyelitis vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        },
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        },
-        {
-          "398102009": "poliomyélite"
-        }
-      ]
-    },
-    "8241000087109": {
-      "displayEN": "[Men-P] Meningococcal polysaccharide vaccine",
-      "displayFR": "[Men-P] Meningococcal polysaccharide vaccine",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "621000221101": {
-      "displayEN": "[aP or ap] Pertussis acellular vaccine",
-      "displayFR": "[aP or ap] Pertussis acellular vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        }
-      ]
-    },
-    "7721000087106": {
-      "displayEN": "[Chol-Ecol-O] Cholera and E.coli oral vaccine",
-      "displayFR": "[Chol-Ecol-O] Cholera and E.coli oral vaccine",
-      "diseaseEN": [
-        {
-          "11840006": "Traveler's diarrhea"
-        },
-        {
-          "63650001": "Cholera"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "11840006": "diarrhée du voyageur"
-        },
-        {
-          "63650001": "choléra"
-        }
-      ]
-    },
-    "7771000087105": {
-      "displayEN": "[aP] Pertussis acellular pediatric vaccine",
-      "displayFR": "[Ca] vaccin pédiatrique contre la coqueluche acelllaire",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        }
-      ]
-    },
-    "7821000087102": {
-      "displayEN": "[Rota-5] Rotavirus pentavalent vaccine",
-      "displayFR": "[Rota-5] vaccin pentavalent contre le rotavirus",
-      "diseaseEN": [
-        {
-          "18624000": "Rotavirus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "18624000": "infection à rotavirus"
-        }
-      ]
-    },
-    "8781000087106": {
-      "displayEN": "[HB] Hepatitis B dialysis strength vaccine",
-      "displayFR": "[HB] vaccin contre l'hépatite B formulation pour dialyse",
-      "diseaseEN": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "66071002": "hépatite B"
-        }
-      ]
-    },
-    "961000221100": {
-      "displayEN": "[Typh] Typhoid vaccine",
-      "displayFR": "[Typh] Typhoid vaccine",
-      "diseaseEN": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4834000": "fièvre typhoïde"
-        }
-      ]
-    },
-    "9821000087106": {
-      "displayEN": "[JE] JE-VAX",
-      "displayFR": "[JE] JE-VAX",
-      "diseaseEN": [
-        {
-          "52947006": "Japanese encephalitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "52947006": "encéphalite japonaise"
-        }
-      ]
-    },
-    "7871000087103": {
-      "displayEN": "[DPT-IPV] Diphtheria, pertussis, tetanus and inactivated poliomyelitis pediatric vaccine",
-      "displayFR": "[DPT-IPV] Diphtheria, pertussis, tetanus and inactivated poliomyelitis pediatric vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        },
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        },
-        {
-          "398102009": "poliomyélite"
-        }
-      ]
-    },
-    "7921000087109": {
-      "displayEN": "[DT] Diphtheria and tetanus pediatric vaccine",
-      "displayFR": "[DT] Diphtheria and tetanus pediatric vaccine",
-      "diseaseEN": [
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        }
-      ]
-    },
-    "8221000087100": {
-      "displayEN": "[DPTP-Hib] Diphtheria, tetanus, pertussis, poliomyelitis and Haemophilus influenzae type b pediatric vaccine",
-      "displayFR": "[DPTP-Hib] Diphtheria, tetanus, pertussis, poliomyelitis and Haemophilus influenzae type b pediatric vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        },
-        {
-          "398102009": "Poliomyelitis"
-        },
-        {
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        },
-        {
-          "398102009": "poliomyélite"
-        },
-        {
-          "406583002": "infection invasive à Haemophilus influenzae"
-        }
-      ]
-    },
-    "8771000087109": {
-      "displayEN": "[HB] Hepatitis B regular strength vaccine",
-      "displayFR": "[HB] vaccin contre l'hépatite B formulation régulière",
-      "diseaseEN": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "66071002": "hépatite B"
-        }
-      ]
-    },
-    "921000221108": {
-      "displayEN": "[Men] Meningococcal vaccine",
-      "displayFR": "[Men] Meningococcal vaccine",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "9811000087103": {
-      "displayEN": "[HA] Hepatitis A pediatric vaccine",
-      "displayFR": "[HA] vaccin contre l'hépatite A formulation pédiatrique",
-      "diseaseEN": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "40468003": "hépatite A"
-        }
-      ]
-    },
-    "991000221105": {
-      "displayEN": "[Chol] Cholera vaccine",
-      "displayFR": "[Chol] Cholera vaccine",
-      "diseaseEN": [
-        {
-          "11840006": "Traveler's diarrhea"
-        },
-        {
-          "63650001": "Cholera"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "11840006": "diarrhée du voyageur"
-        },
-        {
-          "63650001": "choléra"
-        }
-      ]
-    },
-    "7861000087107": {
-      "displayEN": "[DPTP] Diphtheria, pertussis, tetanus and human poliomyelitis pediatric vaccine",
-      "displayFR": "[DPTP] Diphtheria, pertussis, tetanus and human poliomyelitis pediatric vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        },
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        },
-        {
-          "398102009": "poliomyélite"
-        }
-      ]
-    },
-    "7911000087101": {
-      "displayEN": "[Td-IPV] Tetanus, diphteria, and inactivated polio adult vaccine",
-      "displayFR": "[Td-IPV] Tetanus, diphteria, and inactivated polio adult vaccine",
-      "diseaseEN": [
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        },
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        },
-        {
-          "398102009": "poliomyélite"
-        }
-      ]
-    },
-    "8211000087108": {
-      "displayEN": "[DPT-Hib] Diphtheria, pertussis, tetanus and Haemophilus influenzae type b pediatric vaccine",
-      "displayFR": "[DPT-Hib] Diphtheria, pertussis, tetanus and Haemophilus influenzae type b pediatric vaccine",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        },
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        },
-        {
-          "406583002": "Haemophilus influenzae infection, invasive"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        },
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        },
-        {
-          "406583002": "infection invasive à Haemophilus influenzae"
-        }
-      ]
-    },
-    "9801000087100": {
-      "displayEN": "[HAHB] Hepatitis A and B pediatric vaccine",
-      "displayFR": "[HAHB] Hepatitis A and B pediatric vaccine",
-      "diseaseEN": [
-        {
-          "40468003": "Hepatitis A"
-        },
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "40468003": "hépatite A"
-        },
-        {
-          "66071002": "hépatite B"
-        }
-      ]
-    },
-    "9841000087102": {
-      "displayEN": "[Inf] AREPANRIX H1N1",
-      "displayFR": "[Inf] AREPANRIX H1N1",
-      "diseaseEN": [
-        {
-          "6142004": "Influenza"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "6142004": "influenza"
-        }
-      ]
-    },
-    "971000221109": {
-      "displayEN": "[Typh-O] Typhoid live oral vacccine",
-      "displayFR": "[Typh-O] Typhoid live oral vacccine",
-      "diseaseEN": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4834000": "fièvre typhoïde"
-        }
-      ]
-    },
-    "9831000087108": {
-      "displayEN": "[HB] Hepatitis B pediatric strength vaccine",
-      "displayFR": "[HB] vaccin contre l'hépatite B formulation pédiatrique",
-      "diseaseEN": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "66071002": "hépatite B"
-        }
-      ]
-    },
-    "6991000087105": {
-      "displayEN": "Inf influenza A monovalent H1N1 unadjuvanted unspecified",
-      "displayFR": "Inf influenza A monovalent H1N1 unadjuvanted unspecified",
-      "diseaseEN": [],
-      "diseaseFR": []
-    },
-    "7291000087103": {
-      "displayEN": "Mu mumps unspecified",
-      "displayFR": "Mu mumps unspecified",
-      "diseaseEN": [],
-      "diseaseFR": []
-    },
-    "21911000087100": {
-      "displayEN": "BAtx botulism antitoxin heptavalent unspecified",
-      "displayFR": "AtxB antitoxine botulinique heptavalent non spécifié",
-      "diseaseEN": [
-        {
-          "1149327007": "Poisoning caused by Clostridium botulinum toxin"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "1149327007": "intoxication à Clostridium botulinum"
-        }
-      ]
-    },
-    "56831000087109": {
-      "displayEN": "[fIPV] Poliomyelitis inactivated fractional vaccine",
-      "displayFR": "[fIPV] Poliomyelitis inactivated fractional vaccine",
-      "diseaseEN": [
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "398102009": "poliomyélite"
-        }
-      ]
-    },
-    "56841000087103": {
-      "displayEN": "[IPV] Poliomyelitis inactivated standard dose vaccine",
-      "displayFR": "[IPV] Poliomyelitis inactivated standard dose vaccine",
-      "diseaseEN": [
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "398102009": "poliomyélite"
-        }
-      ]
-    },
-    "58321000087103": {
-      "displayEN": "Nirsevimab 100 mg/1 mL solution for injection syringe",
-      "displayFR": "Nirsevimab 100 mg/1 mL solution for injection syringe",
-      "diseaseEN": [],
-      "diseaseFR": []
-    },
-    "58311000087106": {
-      "displayEN": "Nirsevimab 50 mg/0.5 mL solution for injection syringe",
-      "displayFR": "Nirsevimab 50 mg/0.5 mL solution for injection syringe",
-      "diseaseEN": [],
-      "diseaseFR": []
-    },
-    "58531000087106": {
-      "displayEN": "[RSVAb] Respiratory syncytial virus monoclonal antibody nirsevimab",
-      "displayFR": "[RSVAb] Respiratory syncytial virus monoclonal antibody nirsevimab",
-      "diseaseEN": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "55735004": "infection à virus respiratoire syncytial"
-        }
-      ]
-    },
-    "1011000221100": {
-      "displayEN": "[Chol-O] Cholera live attenuated oral vaccine",
-      "displayFR": "[Chol-O] Cholera live attenuated oral vaccine",
-      "diseaseEN": [
-        {
-          "11840006": "Traveler's diarrhea"
-        },
-        {
-          "63650001": "Cholera"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "11840006": "diarrhée du voyageur"
-        },
-        {
-          "63650001": "choléra"
-        }
-      ]
-    },
-    "60591000087104": {
-      "displayEN": "[Pneu-C-21] Pneumococcal conjugate 21-valent vaccine",
-      "displayFR": "[Pneu-C-21] vaccin contre le pneumocoque conjugué 21-valent",
-      "diseaseEN": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "16814004": "infection pneumococcique"
-        }
-      ]
-    },
-    "61231000087107": {
-      "displayEN": "[RSVAb] Respiratory syncytial virus monoclonal antibody",
-      "displayFR": "[RSVAb] Respiratory syncytial virus monoclonal antibody",
-      "diseaseEN": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "55735004": "infection à virus respiratoire syncytial"
-        }
-      ]
-    },
-    "61771000087101": {
-      "displayEN": "[RSV] Respiratory syncytial virus mRNA vaccine",
-      "displayFR": "[RSV] Respiratory syncytial virus mRNA vaccine",
-      "diseaseEN": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "55735004": "infection à virus respiratoire syncytial"
-        }
-      ]
-    },
-    "61741000087109": {
-      "displayEN": "[RSV] Respiratory syncytial virus vaccine",
-      "displayFR": "[RSV] Respiratory syncytial virus vaccine",
-      "diseaseEN": [],
-      "diseaseFR": []
     },
     "20891000087108": {
       "displayEN": "Vaccinia immune globulin",
