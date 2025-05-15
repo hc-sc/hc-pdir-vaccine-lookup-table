@@ -1,0 +1,4979 @@
+{
+  "include": [
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "21911000087100",
+                        "display": "BAtx botulism antitoxin heptavalent unspecified"
+                      }
+                    ],
+                    "text": "BAtx botulism antitoxin heptavalent unspecified"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "385336006",
+                        "display": "Botulism antitoxin"
+                      }
+                    ],
+                    "text": "Botulism antitoxin"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "417299009",
+                        "display": "Botulism immunoglobulin"
+                      }
+                    ],
+                    "text": "Botulism immunoglobulin"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "1149327007",
+          "display": "Poisoning caused by Clostridium botulinum toxin",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Poisoning caused by Clostridium botulinum toxin (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Poisoning caused by Clostridium botulinum toxin"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "intoxication à Clostridium botulinum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "422303009",
+                        "display": "Rabies immunoglobulin"
+                      }
+                    ],
+                    "text": "Rabies immunoglobulin"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "120980007",
+                        "display": "Rabies lyssavirus antigen"
+                      }
+                    ],
+                    "text": "Rabies lyssavirus antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "14168008",
+          "display": "Rabies",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Rabies (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Rabies"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "rage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "709157005",
+                        "display": "Vibrio cholerae toxin antigen"
+                      }
+                    ],
+                    "text": "Vibrio cholerae toxin antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8661000087107",
+                        "display": "Enterotoxigenic e. coli antigen"
+                      }
+                    ],
+                    "text": "Enterotoxigenic e. coli antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8261000087105",
+                        "display": "Cholera antigen"
+                      }
+                    ],
+                    "text": "Cholera antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "581000221101",
+                        "display": "Cholera live attenuated antigen"
+                      }
+                    ],
+                    "text": "Cholera live attenuated antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "571000221104",
+                        "display": "Vibrio cholerae antigen"
+                      }
+                    ],
+                    "text": "Vibrio cholerae antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "591000221103",
+                        "display": "Inactivated whole Vibrio cholerae antigen"
+                      }
+                    ],
+                    "text": "Inactivated whole Vibrio cholerae antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "721120005",
+                        "display": "Vibrio cholerae recombinant toxin B subunit antigen"
+                      }
+                    ],
+                    "text": "Vibrio cholerae recombinant toxin B subunit antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "11840006",
+          "display": "Traveler's diarrhea",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Traveler's diarrhea (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Traveler's diarrhea"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "diarrhée du voyageur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "420084002",
+                        "display": "Immune globulin"
+                      }
+                    ],
+                    "text": "Immune globulin"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "120997001",
+                        "display": "Measles virus antigen"
+                      }
+                    ],
+                    "text": "Measles virus antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "121030007",
+                        "display": "Measles virus antigen"
+                      }
+                    ],
+                    "text": "Measles virus antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "14189004",
+          "display": "Measles",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Measles (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Measles"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "rougeole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "713619006",
+                        "display": "Rota P1A (8) serotype antigen"
+                      }
+                    ],
+                    "text": "Rota P1A (8) serotype antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "714077009",
+                        "display": "Rota G2 serotype antigen"
+                      }
+                    ],
+                    "text": "Rota G2 serotype antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "121000004",
+                        "display": "Rotavirus antigen"
+                      }
+                    ],
+                    "text": "Rotavirus antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "713621001",
+                        "display": "Rota G3 serotype antigen"
+                      }
+                    ],
+                    "text": "Rota G3 serotype antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "713640007",
+                        "display": "Rota G4 serotype antigen"
+                      }
+                    ],
+                    "text": "Rota G4 serotype antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "713622008",
+                        "display": "Rota G1 serotype antigen"
+                      }
+                    ],
+                    "text": "Rota G1 serotype antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "713628007",
+                        "display": "Rota G1 (P8) serotype antigen"
+                      }
+                    ],
+                    "text": "Rota G1 (P8) serotype antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "7811000087105",
+                        "display": "[Rota-1] Rotavirus monovalent vaccine"
+                      }
+                    ],
+                    "text": "[Rota-1] Rotavirus monovalent vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "7821000087102",
+                        "display": "[Rota-5] Rotavirus pentavalent vaccine"
+                      }
+                    ],
+                    "text": "[Rota-5] Rotavirus pentavalent vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8681000087101",
+                        "display": "Rota G2 serotype antigen"
+                      }
+                    ],
+                    "text": "Rota G2 serotype antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8701000087104",
+                        "display": "Rota G4 serotype antigen"
+                      }
+                    ],
+                    "text": "Rota G4 serotype antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8751000087103",
+                        "display": "Rota G1 (P8) serotype antigen"
+                      }
+                    ],
+                    "text": "Rota G1 (P8) serotype antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8691000087104",
+                        "display": "Rota G3 serotype antigen"
+                      }
+                    ],
+                    "text": "Rota G3 serotype antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8671000087103",
+                        "display": "Rota G1 serotype antigen"
+                      }
+                    ],
+                    "text": "Rota G1 serotype antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8711000087102",
+                        "display": "Rota P1A (8) serotype antigen"
+                      }
+                    ],
+                    "text": "Rota P1A (8) serotype antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "18624000",
+          "display": "Rotavirus infection",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Disease caused by Rotavirus (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Rotavirus infection"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "infection à rotavirus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "713629004",
+                        "display": "Yellow fever antigen"
+                      }
+                    ],
+                    "text": "Yellow fever antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8371000087108",
+                        "display": "Yellow fever antigen"
+                      }
+                    ],
+                    "text": "Yellow fever antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "16541001",
+          "display": "Yellow fever",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Yellow fever (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Yellow fever"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "fièvre jaune"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "inactive"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            }
+          ],
+          "code": "186150001",
+          "display": "Rotavirus enteritis",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Enteritis caused by rotavirus (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Rotavirus enteritis"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "gastro-entérite à rotavirus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "120941004",
+                        "display": "Cytomegalovirus antibody"
+                      }
+                    ],
+                    "text": "Cytomegalovirus antibody"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "28944009",
+          "display": "Cytomegalovirus disease",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Cytomegalovirus infection (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Cytomegalovirus disease"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "infection à cytomégalovirus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "inactive"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            }
+          ],
+          "code": "397428000",
+          "display": "Diphtheria",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Diphtheria (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Diphtheria"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "diphtérie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2025-03-06"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "120975003",
+                        "display": "Haemophilus influenzae type b antigen"
+                      }
+                    ],
+                    "text": "Haemophilus influenzae type b antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "406583002",
+          "display": "Haemophilus influenzae infection, invasive",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Invasive Haemophilus influenzae disease (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Haemophilus influenzae infection, invasive"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "infection invasive à Haemophilus influenzae"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "291000221101",
+                        "display": "Typhoid antigen"
+                      }
+                    ],
+                    "text": "Typhoid antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "767841007",
+                        "display": "Vi polysaccharide typhoid antigen"
+                      }
+                    ],
+                    "text": "Vi polysaccharide typhoid antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8361000087104",
+                        "display": "Typhoid antigen"
+                      }
+                    ],
+                    "text": "Typhoid antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8471000087100",
+                        "display": "Vi polysaccharide typhoid antigen"
+                      }
+                    ],
+                    "text": "Vi polysaccharide typhoid antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8461000087109",
+                        "display": "Typhoid live attenuated Ty21a antigen"
+                      }
+                    ],
+                    "text": "Typhoid live attenuated Ty21a antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "4834000",
+          "display": "Typhoid fever",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Typhoid fever (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Typhoid fever"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "fièvre typhoïde"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "260210008",
+                        "display": "Influenza virus antigen"
+                      }
+                    ],
+                    "text": "Influenza virus antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "442269004",
+                        "display": "Influenza A virus subtype H1N1 antigen"
+                      }
+                    ],
+                    "text": "Influenza A virus subtype H1N1 antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "121006005",
+                        "display": "Influenza A virus antigen"
+                      }
+                    ],
+                    "text": "Influenza A virus antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "6142004",
+          "display": "Influenza",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Influenza (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Influenza"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "influenza"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "51581000087101",
+                        "display": "Enterovirus A71 antigen"
+                      }
+                    ],
+                    "text": "Enterovirus A71 antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "713456006",
+          "display": "Enterovirus 71 infection",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Infection caused by Human enterovirus 71 (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Enterovirus 71 infection"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "infection par l'entérovirus A71"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "115578007",
+                        "display": "Pneumococcal polysaccharide antigen"
+                      }
+                    ],
+                    "text": "Pneumococcal polysaccharide antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "120985002",
+                        "display": "Pneumococcal antigen"
+                      }
+                    ],
+                    "text": "Pneumococcal antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "714078004",
+                        "display": "Pneumococcal conjugate antigen"
+                      }
+                    ],
+                    "text": "Pneumococcal conjugate antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8411000087107",
+                        "display": "Pneumococcal conjugate antigen"
+                      }
+                    ],
+                    "text": "Pneumococcal conjugate antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "1052330009",
+                        "display": "[Pneu-C-10] Pneumococcal conjugate 10-valent vaccine"
+                      }
+                    ],
+                    "text": "[Pneu-C-10] Pneumococcal conjugate 10-valent vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "51451000087105",
+                        "display": "[Pneu-C-13] Pneumococcal conjugate 13-valent vaccine"
+                      }
+                    ],
+                    "text": "[Pneu-C-13] Pneumococcal conjugate 13-valent vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "1252708008",
+                        "display": "[Pneu-C-15] Pneumococcal conjugate 15-valent vaccine"
+                      }
+                    ],
+                    "text": "[Pneu-C-15] Pneumococcal conjugate 15-valent vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "1252709000",
+                        "display": "[Pneu-C-20] Pneumococcal conjugate 20-valent vaccine"
+                      }
+                    ],
+                    "text": "[Pneu-C-20] Pneumococcal conjugate 20-valent vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "1052328007",
+                        "display": "[Pneu-C-7] Pneumococcal conjugate 7-valent vaccine"
+                      }
+                    ],
+                    "text": "[Pneu-C-7] Pneumococcal conjugate 7-valent vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "7251000087108",
+                        "display": "[Pneu-P-23] Pneumococcal polysaccharide 23-valent vaccine"
+                      }
+                    ],
+                    "text": "[Pneu-P-23] Pneumococcal polysaccharide 23-valent vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "1801000221105",
+                        "display": "[Pneu-C] Pneumococcal conjugated vaccine"
+                      }
+                    ],
+                    "text": "[Pneu-C] Pneumococcal conjugated vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "28481000087105",
+                        "display": "[Pneu-P] Pneumococcal polysaccharide vaccine"
+                      }
+                    ],
+                    "text": "[Pneu-P] Pneumococcal polysaccharide vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "60591000087104",
+                        "display": "[Pneu-C-21] Pneumococcal conjugate 21-valent vaccine"
+                      }
+                    ],
+                    "text": "[Pneu-C-21] Pneumococcal conjugate 21-valent vaccine"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "16814004",
+          "display": "Pneumococcal disease",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Pneumococcal infectious disease (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Pneumococcal disease"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "infection pneumococcique"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "121074009",
+                        "display": "Pertussis antigen"
+                      }
+                    ],
+                    "text": "Pertussis antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "7781000087107",
+                        "display": "[ap] Pertussis acellular adult vaccine"
+                      }
+                    ],
+                    "text": "[ap] Pertussis acellular adult vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "713610005",
+                        "display": "Acellular Bordetella pertussis antigen"
+                      }
+                    ],
+                    "text": "Acellular Bordetella pertussis antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8631000087100",
+                        "display": "Pertussis antigen standard dose"
+                      }
+                    ],
+                    "text": "Pertussis antigen standard dose"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "7761000087101",
+                        "display": "[wP] Pertussis whole cell pediatric vaccine"
+                      }
+                    ],
+                    "text": "[wP] Pertussis whole cell pediatric vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8591000087100",
+                        "display": "Acellular pertussis antigen low dose"
+                      }
+                    ],
+                    "text": "Acellular pertussis antigen low dose"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "714076000",
+                        "display": "Whole cell Bordetella pertussis antigen"
+                      }
+                    ],
+                    "text": "Whole cell Bordetella pertussis antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "7771000087105",
+                        "display": "[aP] Pertussis acellular pediatric vaccine"
+                      }
+                    ],
+                    "text": "[aP] Pertussis acellular pediatric vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8601000087108",
+                        "display": "Acellular pertussis antigen standard dose"
+                      }
+                    ],
+                    "text": "Acellular pertussis antigen standard dose"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8641000087106",
+                        "display": "Pertussis antigen low dose"
+                      }
+                    ],
+                    "text": "Pertussis antigen low dose"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8491000087101",
+                        "display": "Acellular pertussis antigen"
+                      }
+                    ],
+                    "text": "Acellular pertussis antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8481000087103",
+                        "display": "Whole cell pertussis antigen"
+                      }
+                    ],
+                    "text": "Whole cell pertussis antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "27836007",
+          "display": "Pertussis",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Pertussis (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Pertussis"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "coqueluche"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "259858000",
+                        "display": "Varicellovirus humanalpha3 antibody"
+                      }
+                    ],
+                    "text": "Varicellovirus humanalpha3 antibody"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "420084002",
+                        "display": "Immune globulin"
+                      }
+                    ],
+                    "text": "Immune globulin"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "121005009",
+                        "display": "Varicella antigen"
+                      }
+                    ],
+                    "text": "Varicella antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "28441000087100",
+                        "display": "[Var] Varicella vaccine"
+                      }
+                    ],
+                    "text": "[Var] Varicella vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "561000221108",
+                        "display": "Live attenuated Varicellovirus humanalpha3 antigen"
+                      }
+                    ],
+                    "text": "Live attenuated Varicellovirus humanalpha3 antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "766838005",
+                        "display": "Varicella antigen"
+                      }
+                    ],
+                    "text": "Varicella antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "871908002",
+                        "display": "[MMR-Var] Measles, mumps, rubella and varicella vaccine"
+                      }
+                    ],
+                    "text": "[MMR-Var] Measles, mumps, rubella and varicella vaccine"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "38907003",
+          "display": "Varicella",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Varicella (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Varicella"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "varicelle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "420084002",
+                        "display": "Immune globulin"
+                      }
+                    ],
+                    "text": "Immune globulin"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "19451000087104",
+                        "display": "Hepatitis A antigen pediatric strength"
+                      }
+                    ],
+                    "text": "Hepatitis A antigen pediatric strength"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "19341000087105",
+                        "display": "Hepatitis A antigen regular strength"
+                      }
+                    ],
+                    "text": "Hepatitis A antigen regular strength"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "19371000087102",
+                        "display": "[HA] Hepatitis A regular strength vaccine"
+                      }
+                    ],
+                    "text": "[HA] Hepatitis A regular strength vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "9811000087103",
+                        "display": "[HA] Hepatitis A pediatric vaccine"
+                      }
+                    ],
+                    "text": "[HA] Hepatitis A pediatric vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "713618003",
+                        "display": "Hepatitis A virus antigen"
+                      }
+                    ],
+                    "text": "Hepatitis A virus antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8271000087101",
+                        "display": "Hepatitis A antigen"
+                      }
+                    ],
+                    "text": "Hepatitis A antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "40468003",
+          "display": "Hepatitis A",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Viral hepatitis, type A (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Hepatitis A"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "hépatite A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "27841000087102",
+                        "display": "Non-live Human alphaherpesvirus 3 antigen"
+                      }
+                    ],
+                    "text": "Non-live Human alphaherpesvirus 3 antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "260214004",
+                        "display": "Varicellovirus humanalpha3 antigen"
+                      }
+                    ],
+                    "text": "Varicellovirus humanalpha3 antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "23021000087106",
+                        "display": "Varicella-zoster virus surface glycoprotein E antigen"
+                      }
+                    ],
+                    "text": "Varicella-zoster virus surface glycoprotein E antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "28451000087102",
+                        "display": "[HZ] Herpes zoster vaccine"
+                      }
+                    ],
+                    "text": "[HZ] Herpes zoster vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "56341000087108",
+                        "display": "[LZV] Live attenuated herpes zoster vaccine"
+                      }
+                    ],
+                    "text": "[LZV] Live attenuated herpes zoster vaccine"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "4740000",
+          "display": "Shingles",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Herpes zoster (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Shingles"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "zona"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "120981006",
+                        "display": "Meningococcal group W-135 antigen"
+                      }
+                    ],
+                    "text": "Meningococcal group W-135 antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "120982004",
+                        "display": "Neisseria meningitidis serogroup Y antigen"
+                      }
+                    ],
+                    "text": "Neisseria meningitidis serogroup Y antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "120983009",
+                        "display": "Neisseria meningitidis serogroup C antigen"
+                      }
+                    ],
+                    "text": "Neisseria meningitidis serogroup C antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "121079004",
+                        "display": "Neisseria meningitidis serogroup A antigen"
+                      }
+                    ],
+                    "text": "Neisseria meningitidis serogroup A antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "7091000087106",
+                        "display": "[Men-P-AC] Meningococcal polysaccharide A + C vaccine"
+                      }
+                    ],
+                    "text": "[Men-P-AC] Meningococcal polysaccharide A + C vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "7101000087101",
+                        "display": "[Men-P-ACYW-135] Meningococcal polysaccharide A + C + Y + W-135 vaccine"
+                      }
+                    ],
+                    "text": "[Men-P-ACYW-135] Meningococcal polysaccharide A + C + Y + W-135 vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "121080001",
+                        "display": "Meningococcal group B antigen"
+                      }
+                    ],
+                    "text": "Meningococcal group B antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "21721000087105",
+                        "display": "[Men-C-AC] Meningococcal conjugate A + C vaccine"
+                      }
+                    ],
+                    "text": "[Men-C-AC] Meningococcal conjugate A + C vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "52821000087108",
+                        "display": "[Men-C-A] Meningococcal conjugate A vaccine"
+                      }
+                    ],
+                    "text": "[Men-C-A] Meningococcal conjugate A vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "716266006",
+                        "display": "Meningococcal conjugate group C antigen"
+                      }
+                    ],
+                    "text": "Meningococcal conjugate group C antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "716271004",
+                        "display": "Meningococcal polysaccharide group Y antigen"
+                      }
+                    ],
+                    "text": "Meningococcal polysaccharide group Y antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "21901000087102",
+                        "display": "[Men-C-CY] Meningococcal conjugate C + Y vaccine"
+                      }
+                    ],
+                    "text": "[Men-C-CY] Meningococcal conjugate C + Y vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "420261000",
+                        "display": "Meningococcal groups A+C+W135+Y vaccine"
+                      }
+                    ],
+                    "text": "Meningococcal groups A+C+W135+Y vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "715978009",
+                        "display": "Meningococcal conjugate antigen"
+                      }
+                    ],
+                    "text": "Meningococcal conjugate antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "716268007",
+                        "display": "Meningococcal conjugate group W-135 antigen"
+                      }
+                    ],
+                    "text": "Meningococcal conjugate group W-135 antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "871873006",
+                        "display": "[Men-ACYW-135] Meningococcal A + C + Y + W-135 vaccine"
+                      }
+                    ],
+                    "text": "[Men-ACYW-135] Meningococcal A + C + Y + W-135 vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "7121000087107",
+                        "display": "[Men-C-ACYW] Meningococcal conjugate A + C + Y + W vaccine"
+                      }
+                    ],
+                    "text": "[Men-C-ACYW] Meningococcal conjugate A + C + Y + W vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "121077002",
+                        "display": "Meningococcal antigen"
+                      }
+                    ],
+                    "text": "Meningococcal antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "715979001",
+                        "display": "Meningococcal polysaccharide antigen"
+                      }
+                    ],
+                    "text": "Meningococcal polysaccharide antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "716267002",
+                        "display": "Meningococcal conjugate group Y antigen"
+                      }
+                    ],
+                    "text": "Meningococcal conjugate group Y antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "716272006",
+                        "display": "Meningococcal polysaccharide group W-135 antigen"
+                      }
+                    ],
+                    "text": "Meningococcal polysaccharide group W-135 antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "716269004",
+                        "display": "Meningococcal polysaccharide group A antigen"
+                      }
+                    ],
+                    "text": "Meningococcal polysaccharide group A antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "716265005",
+                        "display": "Meningococcal conjugate group A antigen"
+                      }
+                    ],
+                    "text": "Meningococcal conjugate group A antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "716270003",
+                        "display": "Meningococcal polysaccharide group C antigen"
+                      }
+                    ],
+                    "text": "Meningococcal polysaccharide group C antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8581000087102",
+                        "display": "Meningococcal polysaccharide group Y antigen"
+                      }
+                    ],
+                    "text": "Meningococcal polysaccharide group Y antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8571000087104",
+                        "display": "Meningococcal polysaccharide group W-135 antigen"
+                      }
+                    ],
+                    "text": "Meningococcal polysaccharide group W-135 antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8511000087106",
+                        "display": "Meningococcal conjugate group A antigen"
+                      }
+                    ],
+                    "text": "Meningococcal conjugate group A antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8551000087105",
+                        "display": "Meningococcal polysaccharide group A antigen"
+                      }
+                    ],
+                    "text": "Meningococcal polysaccharide group A antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8531000087101",
+                        "display": "Meningococcal conjugate group W-135 antigen"
+                      }
+                    ],
+                    "text": "Meningococcal conjugate group W-135 antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8391000087107",
+                        "display": "Meningococcal polysaccharide antigen"
+                      }
+                    ],
+                    "text": "Meningococcal polysaccharide antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8381000087105",
+                        "display": "Meningococcal conjugate antigen"
+                      }
+                    ],
+                    "text": "Meningococcal conjugate antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8561000087108",
+                        "display": "Meningococcal polysaccharide group C antigen"
+                      }
+                    ],
+                    "text": "Meningococcal polysaccharide group C antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8521000087103",
+                        "display": "Meningococcal conjugate group C antigen"
+                      }
+                    ],
+                    "text": "Meningococcal conjugate group C antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8541000087107",
+                        "display": "Meningococcal conjugate group Y antigen"
+                      }
+                    ],
+                    "text": "Meningococcal conjugate group Y antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "23511006",
+          "display": "Meningococcal disease",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Meningococcal infectious disease (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Meningococcal disease"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "maladie infectieuse à méningocoques"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "121087003",
+                        "display": "Orthorubulavirus parotitidis antigen"
+                      }
+                    ],
+                    "text": "Orthorubulavirus parotitidis antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "36989005",
+          "display": "Mumps",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Mumps (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Mumps"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "oreillons"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "inactive"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            }
+          ],
+          "code": "398523009",
+          "display": "Foodborne botulism",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Foodborne botulism (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Foodborne botulism"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "botulisme d'origine alimentaire"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2025-03-06"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "1287549005",
+                        "display": "Zaire ebolavirus antigen"
+                      }
+                    ],
+                    "text": "Zaire ebolavirus antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "45771000087109",
+                        "display": "Zaire ebolavirus antigen"
+                      }
+                    ],
+                    "text": "Zaire ebolavirus antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "1287018009",
+                        "display": "Live attenuated Zaire ebolavirus antigen"
+                      }
+                    ],
+                    "text": "Live attenuated Zaire ebolavirus antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "45781000087106",
+                        "display": "Live attenuated Zaire ebolavirus antigen"
+                      }
+                    ],
+                    "text": "Live attenuated Zaire ebolavirus antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "45901000087102",
+          "display": "Zaire Ebolavirus disease",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Disease caused by Zaire Ebolavirus (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Zaire Ebolavirus disease"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "maladie à virus Ebola-Zaïre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "718280005",
+                        "display": "Bacillus Calmette-Guerin antigen"
+                      }
+                    ],
+                    "text": "Bacillus Calmette-Guerin antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8251000087107",
+                        "display": "Bacillus Calmette Guerin antigen"
+                      }
+                    ],
+                    "text": "Bacillus Calmette Guerin antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "56717001",
+          "display": "Tuberculosis",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Tuberculosis (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Tuberculosis"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "tuberculose"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "717220006",
+                        "display": "Vaccinia human immune globulin"
+                      }
+                    ],
+                    "text": "Vaccinia human immune globulin"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "20891000087108",
+                        "display": "Vaccinia immune globulin"
+                      }
+                    ],
+                    "text": "Vaccinia immune globulin"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8721000087105",
+                        "display": "Smallpox antigen"
+                      }
+                    ],
+                    "text": "Smallpox antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "1290763000",
+                        "display": "Modified Vaccinia virus Ankara strain antigen"
+                      }
+                    ],
+                    "text": "Modified Vaccinia virus Ankara strain antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "1269334003",
+                        "display": "Live attenuated Vaccinia virus antigen"
+                      }
+                    ],
+                    "text": "Live attenuated Vaccinia virus antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "789154000",
+                        "display": "Vaccinia virus antigen"
+                      }
+                    ],
+                    "text": "Vaccinia virus antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "67924001",
+          "display": "Smallpox",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Smallpox (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Smallpox"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "variole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "121025008",
+                        "display": "Human papillomavirus 16 antigen"
+                      }
+                    ],
+                    "text": "Human papillomavirus 16 antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "120996005",
+                        "display": "Human papillomavirus antigen"
+                      }
+                    ],
+                    "text": "Human papillomavirus antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "121235008",
+                        "display": "Human papillomavirus 18 antigen"
+                      }
+                    ],
+                    "text": "Human papillomavirus 18 antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "20861000087100",
+                        "display": "[HPV-9] Human papillomavirus 9-valent vaccine"
+                      }
+                    ],
+                    "text": "[HPV-9] Human papillomavirus 9-valent vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "709348007",
+                        "display": "Human papillomavirus, type 11 antigen"
+                      }
+                    ],
+                    "text": "Human papillomavirus, type 11 antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "7801000087108",
+                        "display": "[HPV-4] Human papillomavirus quadrivalent vaccine"
+                      }
+                    ],
+                    "text": "[HPV-4] Human papillomavirus quadrivalent vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "7791000087109",
+                        "display": "[HPV-2] Human papillomavirus bivalent vaccine"
+                      }
+                    ],
+                    "text": "[HPV-2] Human papillomavirus bivalent vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "709358006",
+                        "display": "Human papillomavirus, type 6 antigen"
+                      }
+                    ],
+                    "text": "Human papillomavirus, type 6 antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8281000087104",
+                        "display": "Human papillomavirus, type 11 antigen"
+                      }
+                    ],
+                    "text": "Human papillomavirus, type 11 antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8291000087102",
+                        "display": "Human papillomavirus, type 6 antigen"
+                      }
+                    ],
+                    "text": "Human papillomavirus, type 6 antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "240532009",
+          "display": "Human papilloma virus infection",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Human papillomavirus infection (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Human papilloma virus infection"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "infection par le virus du papillome humain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "420084002",
+                        "display": "Immune globulin"
+                      }
+                    ],
+                    "text": "Immune globulin"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "120998006",
+                        "display": "Rubella virus antigen"
+                      }
+                    ],
+                    "text": "Rubella virus antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "36653000",
+          "display": "Rubella",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Rubella (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Rubella"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "rubéole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8301000087103",
+                        "display": "Inactivated poliomyelitis antigen"
+                      }
+                    ],
+                    "text": "Inactivated poliomyelitis antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "713620000",
+                        "display": "Live Poliovirus Ag"
+                      }
+                    ],
+                    "text": "Live Poliovirus Ag"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "713616004",
+                        "display": "Poliomyelitis antigen"
+                      }
+                    ],
+                    "text": "Poliomyelitis antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "719956007",
+                        "display": "Inactivated Poliovirus antigen"
+                      }
+                    ],
+                    "text": "Inactivated Poliovirus antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "863875008",
+                        "display": "Live poliomyelitis antigen"
+                      }
+                    ],
+                    "text": "Live poliomyelitis antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "844578004",
+                        "display": "Inactivated Poliovirus antigen"
+                      }
+                    ],
+                    "text": "Inactivated Poliovirus antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8341000087100",
+                        "display": "Poliomyelitis antigen"
+                      }
+                    ],
+                    "text": "Poliomyelitis antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8311000087101",
+                        "display": "Live poliomyelitis antigen"
+                      }
+                    ],
+                    "text": "Live poliomyelitis antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "398102009",
+          "display": "Poliomyelitis",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Acute poliomyelitis (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Poliomyelitis"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "poliomyélite"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "inactive"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            }
+          ],
+          "code": "414531002",
+          "display": "Intoxication with Clostridium botulinum toxin",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Intoxication with Clostridium botulinum toxin (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Intoxication with Clostridium botulinum toxin"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "botulisme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "386900007",
+                        "display": "Palivizumab"
+                      }
+                    ],
+                    "text": "Palivizumab"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "51291000087101",
+                        "display": "RSV glycoprotein F antigen"
+                      }
+                    ],
+                    "text": "RSV glycoprotein F antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "58331000087101",
+                        "display": "Nirsevimab"
+                      }
+                    ],
+                    "text": "Nirsevimab"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "61221000087105",
+                        "display": "Monoclonal antibody to Human respiratory syncytial virus"
+                      }
+                    ],
+                    "text": "Monoclonal antibody to Human respiratory syncytial virus"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "61731000087103",
+                        "display": "RSV (respiratory syncytial virus) mRNA"
+                      }
+                    ],
+                    "text": "RSV (respiratory syncytial virus) mRNA"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "767467006",
+                        "display": "Respiratory syncytial virus immune globulin"
+                      }
+                    ],
+                    "text": "Respiratory syncytial virus immune globulin"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "61751000087107",
+                        "display": "RSV (respiratory syncytial virus) mRNA encoding surface glycoprotein F"
+                      }
+                    ],
+                    "text": "RSV (respiratory syncytial virus) mRNA encoding surface glycoprotein F"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "55735004",
+          "display": "Respiratory syncytial virus infection",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Respiratory syncytial virus infection (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Respiratory syncytial virus infection"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "infection à virus respiratoire syncytial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "709155002",
+                        "display": "Plague antigen"
+                      }
+                    ],
+                    "text": "Plague antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8331000087106",
+                        "display": "Plague antigen"
+                      }
+                    ],
+                    "text": "Plague antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "58750007",
+          "display": "Plague",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Plague (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Plague"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "peste"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8351000087102",
+                        "display": "Tick-borne encephalitis virus antigen"
+                      }
+                    ],
+                    "text": "Tick-borne encephalitis virus antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "712986001",
+          "display": "Tickborne encephalitis",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Encephalitis caused by tick-borne encephalitis virus (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Tickborne encephalitis"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "encéphalite à tiques"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "418747006",
+                        "display": "Hepatitis B immunoglobulin"
+                      }
+                    ],
+                    "text": "Hepatitis B immunoglobulin"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "303233001",
+                        "display": "Hepatitis B virus antigen"
+                      }
+                    ],
+                    "text": "Hepatitis B virus antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "19381000087100",
+                        "display": "Hepatitis B antigen pediatric strength"
+                      }
+                    ],
+                    "text": "Hepatitis B antigen pediatric strength"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8741000087101",
+                        "display": "Hepatitis B antigen dialysis strength"
+                      }
+                    ],
+                    "text": "Hepatitis B antigen dialysis strength"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8731000087107",
+                        "display": "Hepatitis B antigen regular strength"
+                      }
+                    ],
+                    "text": "Hepatitis B antigen regular strength"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "9831000087108",
+                        "display": "[HB] Hepatitis B pediatric strength vaccine"
+                      }
+                    ],
+                    "text": "[HB] Hepatitis B pediatric strength vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8771000087109",
+                        "display": "[HB] Hepatitis B regular strength vaccine"
+                      }
+                    ],
+                    "text": "[HB] Hepatitis B regular strength vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8781000087106",
+                        "display": "[HB] Hepatitis B dialysis strength vaccine"
+                      }
+                    ],
+                    "text": "[HB] Hepatitis B dialysis strength vaccine"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "66071002",
+          "display": "Hepatitis B",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Viral hepatitis type B (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Hepatitis B"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "hépatite B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "121004008",
+                        "display": "Lyme antigen"
+                      }
+                    ],
+                    "text": "Lyme antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "713641006",
+                        "display": "Lyme antigen"
+                      }
+                    ],
+                    "text": "Lyme antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8321000087109",
+                        "display": "Lyme antigen"
+                      }
+                    ],
+                    "text": "Lyme antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "23502006",
+          "display": "Lyme disease",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Lyme disease (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Lyme disease"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "maladie de Lyme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "1290763000",
+                        "display": "Modified Vaccinia virus Ankara strain antigen"
+                      }
+                    ],
+                    "text": "Modified Vaccinia virus Ankara strain antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "359814004",
+          "display": "Mpox",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Monkeypox (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Mpox"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "variole simienne"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "412175006",
+                        "display": "Diphtheria antitoxin"
+                      }
+                    ],
+                    "text": "Diphtheria antitoxin"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "161000221102",
+                        "display": "Diphtheria toxoid"
+                      }
+                    ],
+                    "text": "Diphtheria toxoid"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8611000087105",
+                        "display": "Diphtheria toxoid low dose"
+                      }
+                    ],
+                    "text": "Diphtheria toxoid low dose"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "7741000087102",
+                        "display": "[d] Diphtheria adult vaccine"
+                      }
+                    ],
+                    "text": "[d] Diphtheria adult vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "7701000087100",
+                        "display": "[D] Diphtheria pediatric vaccine"
+                      }
+                    ],
+                    "text": "[D] Diphtheria pediatric vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "396417009",
+                        "display": "Diphtheria toxoid"
+                      }
+                    ],
+                    "text": "Diphtheria toxoid"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8621000087102",
+                        "display": "Diphtheria toxoid standard dose"
+                      }
+                    ],
+                    "text": "Diphtheria toxoid standard dose"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8501000087109",
+                        "display": "Diphtheria toxoid"
+                      }
+                    ],
+                    "text": "Diphtheria toxoid"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "151000221104",
+                        "display": "Corynebacterium diphtheriae antigen"
+                      }
+                    ],
+                    "text": "Corynebacterium diphtheriae antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "397430003",
+          "display": "Diphtheria",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Diphtheria caused by Corynebacterium diphtheriae (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Diphtheria"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "diphtérie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "409629009",
+                        "display": "Anthrax antigen"
+                      }
+                    ],
+                    "text": "Anthrax antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "409498004",
+          "display": "Anthrax",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Anthrax (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Anthrax"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "maladie du charbon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2025-04-03"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "121027000",
+                        "display": "Japanese encephalitis virus antigen"
+                      }
+                    ],
+                    "text": "Japanese encephalitis virus antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "52947006",
+          "display": "Japanese encephalitis",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Japanese encephalitis virus disease (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Japanese encephalitis"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "encéphalite japonaise"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "709157005",
+                        "display": "Vibrio cholerae toxin antigen"
+                      }
+                    ],
+                    "text": "Vibrio cholerae toxin antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8261000087105",
+                        "display": "Cholera antigen"
+                      }
+                    ],
+                    "text": "Cholera antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "581000221101",
+                        "display": "Cholera live attenuated antigen"
+                      }
+                    ],
+                    "text": "Cholera live attenuated antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "571000221104",
+                        "display": "Vibrio cholerae antigen"
+                      }
+                    ],
+                    "text": "Vibrio cholerae antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "591000221103",
+                        "display": "Inactivated whole Vibrio cholerae antigen"
+                      }
+                    ],
+                    "text": "Inactivated whole Vibrio cholerae antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "721120005",
+                        "display": "Vibrio cholerae recombinant toxin B subunit antigen"
+                      }
+                    ],
+                    "text": "Vibrio cholerae recombinant toxin B subunit antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "63650001",
+          "display": "Cholera",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Cholera (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Cholera"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "choléra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "428527002",
+                        "display": "Human tetanus immunoglobulin"
+                      }
+                    ],
+                    "text": "Human tetanus immunoglobulin"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8451000087106",
+                        "display": "Tetanus toxoid"
+                      }
+                    ],
+                    "text": "Tetanus toxoid"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "551000221106",
+                        "display": "Tetanus toxoid"
+                      }
+                    ],
+                    "text": "Tetanus toxoid"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "412375000",
+                        "display": "Tetanus toxoid"
+                      }
+                    ],
+                    "text": "Tetanus toxoid"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "541000221109",
+                        "display": "Clostridium tetani antigen"
+                      }
+                    ],
+                    "text": "Clostridium tetani antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "76902006",
+          "display": "Tetanus",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Tetanus (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Tetanus"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "tétanos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "30131000087101",
+                        "display": "Antigen of SARS-CoV-2 virus-like particle"
+                      }
+                    ],
+                    "text": "Antigen of SARS-CoV-2 virus-like particle"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "29301000087104",
+                        "display": "SARS-CoV-2 recombinant spike protein antigen"
+                      }
+                    ],
+                    "text": "SARS-CoV-2 recombinant spike protein antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "840536004",
+                        "display": "Antigen of SARS-CoV-2"
+                      }
+                    ],
+                    "text": "Antigen of SARS-CoV-2"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "1157044000",
+                        "display": "Recombinant non-replicating viral vector encoding severe acute respiratory syndrome coronavirus 2 spike protein"
+                      }
+                    ],
+                    "text": "Recombinant non-replicating viral vector encoding severe acute respiratory syndrome coronavirus 2 spike protein"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "1119343008",
+                        "display": "Severe acute respiratory syndrome coronavirus 2 mRNA"
+                      }
+                    ],
+                    "text": "Severe acute respiratory syndrome coronavirus 2 mRNA"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "1153537004",
+                        "display": "Inactivated whole severe acute respiratory syndrome coronavirus 2 antigen"
+                      }
+                    ],
+                    "text": "Inactivated whole severe acute respiratory syndrome coronavirus 2 antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "840539006",
+          "display": "COVID-19",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "COVID-19"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "COVID-19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "inactive"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-03-24"
+            }
+          ],
+          "code": "8761000087100",
+          "display": "Tickborne encephalitis",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Tick-borne encephalitis (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Tickborne encephalitis"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Encéphalite à tiques"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-06-06"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "121033009",
+                        "display": "Plasmodium falciparum antigen"
+                      }
+                    ],
+                    "text": "Plasmodium falciparum antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "61462000",
+          "display": "Malaria",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Malaria (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Malaria"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "infection à Plasmodium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2024-10-04"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "1344967001",
+                        "display": "Live attenuated Chikungunya virus antigen"
+                      }
+                    ],
+                    "text": "Live attenuated Chikungunya virus antigen"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "111864006",
+          "display": "Chikungunya fever",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Chikungunya fever (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Chikungunya fever"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "fièvre chikungunya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
