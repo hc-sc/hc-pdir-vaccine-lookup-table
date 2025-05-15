@@ -137,9 +137,20 @@ function getExtensionValueByUrl(
 
 // Helper functions to get display names
 function getDisplayName(concept: Concept, lang: string, code: string): string | undefined {
-  return concept.designation?.find(
-    d => d.language === lang && d.use?.code === code && d.use?.system === "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation"
+  // Try strict match (Display Term in NVC system)
+  const strict = concept.designation?.find(
+    d => d.language === lang && d.use?.code === code && (
+      d.use?.system === "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation" ||
+      d.use?.system === "http://snomed.info/sct"
+    )
   )?.value;
+  if (strict) return strict;
+  // Fallback: any French designation
+  if (lang === 'fr') {
+    const anyFr = concept.designation?.find(d => d.language === 'fr')?.value;
+    if (anyFr) return anyFr;
+  }
+  return undefined;
 }
 
 function parseNVCBundle(data: Data, diseaseLookup: Record<string, { en: string, fr: string }>, mahLookup: Record<string, { en: string, fr: string }>) {
