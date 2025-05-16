@@ -2054,6 +2054,19 @@
                     ],
                     "text": "[LZV] Live attenuated herpes zoster vaccine"
                   }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "56011000087109",
+                        "display": "[RZV] Recombinant herpes zoster vaccine"
+                      }
+                    ],
+                    "text": "[RZV] Recombinant herpes zoster vaccine"
+                  }
                 }
               ],
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
