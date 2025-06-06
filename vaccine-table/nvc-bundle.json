@@ -1,5 +1,5 @@
 {
-  "version": "1.62",
+  "version": "1.63",
   "table": {
     "3526007": {
       "displayEN": "Rabies vaccine, human",
@@ -1962,7 +1962,7 @@
       ]
     },
     "871804001": {
-      "displayEN": "[HA-Typh-I] Hepatitis A and thyphoid vaccine",
+      "displayEN": "[HA-Typh-I] Hepatitis A and typhoid vaccine",
       "displayFR": "[HA-Typh-I] vaccin contre l'hépatite A et typhoide",
       "diseaseEN": [
         {
@@ -2367,6 +2367,26 @@
         }
       ]
     },
+    "1362134008": {
+      "displayEN": "[Chol-Ecol-O] Cholera and E. coli oral vaccine",
+      "displayFR": "[Chol-Ecol-O] vaccin oral contre le choléra et E. coli",
+      "diseaseEN": [
+        {
+          "11840006": "Traveler's diarrhea"
+        },
+        {
+          "63650001": "Cholera"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "11840006": "diarrhée du voyageur"
+        },
+        {
+          "63650001": "choléra"
+        }
+      ]
+    },
     "1051000221104": {
       "displayEN": "[OPV] Poliomyelitis live vaccine",
       "displayFR": "[VPO] vaccin vivant contre la poliomyélite",
@@ -2693,7 +2713,9 @@
         {
           "406583002": "infection invasive à Haemophilus influenzae"
         }
-      ]
+      ],
+      "MAHEN": "GlaxoSmithKline Biologicals",
+      "MAHFR": "GlaxoSmithKline Biologicals"
     },
     "21921000087108": {
       "displayEN": "[Inf] Influenza trivalent high-dose vaccine",
@@ -2710,10 +2732,18 @@
       ]
     },
     "24211000087105": {
-      "displayEN": "Typh-O Vivotif Pax",
-      "displayFR": "Typh-O Vivotif Pax",
-      "diseaseEN": [],
-      "diseaseFR": [],
+      "displayEN": "[Typh-O] Vivotif (Pax)",
+      "displayFR": "[Typh-O] Vivotif (Pax)",
+      "diseaseEN": [
+        {
+          "4834000": "Typhoid fever"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4834000": "fièvre typhoïde"
+        }
+      ],
       "MAHEN": "Berna GmbH",
       "MAHFR": "Berna GmbH"
     },
@@ -3116,10 +3146,18 @@
       ]
     },
     "7011000087100": {
-      "displayEN": "BCG Vaccine SP",
-      "displayFR": "BCG vaccin BCG SP",
-      "diseaseEN": [],
-      "diseaseFR": [],
+      "displayEN": "[BCG] BCG Vaccine (SP)",
+      "displayFR": "[BCG] BCG Vaccine (SP)",
+      "diseaseEN": [
+        {
+          "56717001": "Tuberculosis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "56717001": "tuberculose"
+        }
+      ],
       "MAHEN": "SANOFI PASTEUR LIMITED",
       "MAHFR": "SANOFI PASTEUR LIMITED"
     },
@@ -3138,10 +3176,18 @@
       ]
     },
     "7321000087105": {
-      "displayEN": "Typh-O Vivotif CS",
-      "displayFR": "Typh-O Vivotif CS",
-      "diseaseEN": [],
-      "diseaseFR": [],
+      "displayEN": "[Typh-O] Vivotif (CS)",
+      "displayFR": "[Typh-O] Vivotif (CS)",
+      "diseaseEN": [
+        {
+          "4834000": "Typhoid fever"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4834000": "fièvre typhoïde"
+        }
+      ],
       "MAHEN": "Crucell Switzerland LTD",
       "MAHFR": "Crucell Switzerland LTD"
     },
@@ -3310,10 +3356,18 @@
       ]
     },
     "7111000087104": {
-      "displayEN": "Men-P-ACYW-135 MENOMUNE-A/C/Y/W-135 SP",
-      "displayFR": "Men-P-ACYW-135 MENOMUNE-A/C/Y/W-135 SP",
-      "diseaseEN": [],
-      "diseaseFR": [],
+      "displayEN": "[Men-P-ACYW-135] MENOMUNE (SP)",
+      "displayFR": "[Men-P-ACYW-135] MENOMUNE (SP)",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ],
       "MAHEN": "Sanofi Pasteur Inc.",
       "MAHFR": "Sanofi Pasteur Inc."
     },
@@ -3406,10 +3460,18 @@
       ]
     },
     "9851000087104": {
-      "displayEN": "HA Epaxal Berna SSV",
-      "displayFR": "HA Epaxal Berna SSV",
-      "diseaseEN": [],
-      "diseaseFR": [],
+      "displayEN": "[HA] Epaxal Berna (SSV)",
+      "displayFR": "[HA] Epaxal Berna (SSV)",
+      "diseaseEN": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "40468003": "hépatite A"
+        }
+      ],
       "MAHEN": "Berna Biotech Limited",
       "MAHFR": "Berna Biotech Limited"
     },
@@ -3652,48 +3714,58 @@
       ]
     },
     "7061000087103": {
-      "displayEN": "Men-C-C Meningitec BB",
-      "displayFR": "Men-C-C Meningitec BB",
-      "diseaseEN": [],
-      "diseaseFR": [],
+      "displayEN": "[Men-C-C] Meningitec (BB)",
+      "displayFR": "[Men-C-C] Meningitec (BB)",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ],
       "MAHEN": "Berna Biotech AG",
       "MAHFR": "Berna Biotech AG"
     },
     "7211000087109": {
-      "displayEN": "TBE FSME-IMMUN BAG",
-      "displayFR": "ETT FSME-IMMUN BAG",
-      "diseaseEN": [],
-      "diseaseFR": [],
+      "displayEN": "[TBE] FSME-IMMUN (BAG)",
+      "displayFR": "[ETT] FSME-IMMUN (BAG)",
+      "diseaseEN": [
+        {
+          "712986001": "Tickborne encephalitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "712986001": "encéphalite à tiques"
+        }
+      ],
       "MAHEN": "Baxter AG",
       "MAHFR": "Baxter AG"
     },
     "7621000087103": {
-      "displayEN": "Inf INFLUVAC API",
-      "displayFR": "Inf INFLUVAC API",
-      "diseaseEN": [],
-      "diseaseFR": [],
+      "displayEN": "[Inf] INFLUVAC (API)",
+      "displayFR": "[Inf] INFLUVAC (API)",
+      "diseaseEN": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "6142004": "influenza"
+        }
+      ],
       "MAHEN": "Drug Safety, Abbott Laboratories, Limited",
       "MAHFR": "Drug Safety, Abbott Laboratories, Limited"
     },
     "7721000087106": {
       "displayEN": "[Chol-Ecol-O] Cholera and E.coli oral vaccine",
       "displayFR": "[Chol-Ecol-O] vaccin oral contre le choléra et E.coli",
-      "diseaseEN": [
-        {
-          "11840006": "Traveler's diarrhea"
-        },
-        {
-          "63650001": "Cholera"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "11840006": "diarrhée du voyageur"
-        },
-        {
-          "63650001": "choléra"
-        }
-      ]
+      "diseaseEN": [],
+      "diseaseFR": []
     },
     "7771000087105": {
       "displayEN": "[aP] Pertussis acellular pediatric vaccine",
@@ -3763,7 +3835,9 @@
         {
           "52947006": "encéphalite japonaise"
         }
-      ]
+      ],
+      "MAHEN": "The Research Foundation for Microbial Diseases of Osaka University",
+      "MAHFR": "The Research Foundation for Microbial Diseases of Osaka University"
     },
     "7871000087103": {
       "displayEN": "[DPT-IPV] Diphtheria, pertussis, tetanus and inactivated poliomyelitis pediatric vaccine",
@@ -3885,7 +3959,7 @@
     },
     "9811000087103": {
       "displayEN": "[HA] Hepatitis A pediatric vaccine",
-      "displayFR": "[HA] vaccin contre l'hépatite A formulation pédiatrique",
+      "displayFR": "[HA] vaccin pédiatrique contre l'hépatite A",
       "diseaseEN": [
         {
           "40468003": "Hepatitis A"
@@ -4039,7 +4113,9 @@
         {
           "6142004": "influenza"
         }
-      ]
+      ],
+      "MAHEN": "GLAXOSMITHKLINE INC.",
+      "MAHFR": "GLAXOSMITHKLINE INC."
     },
     "971000221109": {
       "displayEN": "[Typh-O] Typhoid live oral vacccine",
@@ -4057,7 +4133,7 @@
     },
     "9831000087108": {
       "displayEN": "[HB] Hepatitis B pediatric strength vaccine",
-      "displayFR": "[HB] vaccin contre l'hépatite B formulation pédiatrique",
+      "displayFR": "[HB] vaccin pédiatrique contre l'hépatite B",
       "diseaseEN": [
         {
           "66071002": "Hepatitis B"
@@ -4082,10 +4158,18 @@
       "diseaseFR": []
     },
     "19331000087104": {
-      "displayEN": "CMVIg Cytogam CSL",
-      "displayFR": "CMVIg Cytogam CSL",
-      "diseaseEN": [],
-      "diseaseFR": [],
+      "displayEN": "[CMVIg] Cytogam (CSL)",
+      "displayFR": "[CMVIg] Cytogam (CSL)",
+      "diseaseEN": [
+        {
+          "28944009": "Cytomegalovirus disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "28944009": "infection à cytomégalovirus"
+        }
+      ],
       "MAHEN": "CSL Behring AG",
       "MAHFR": "CSL Behring AG"
     },
@@ -4112,18 +4196,34 @@
       "MAHFR": "Institute of Immunology Inc."
     },
     "7941000087100": {
-      "displayEN": "HBIg HepaGam B Cang",
-      "displayFR": "HBIg HepaGam B Cang",
-      "diseaseEN": [],
-      "diseaseFR": [],
+      "displayEN": "[HBIg] HepaGam B (Cang)",
+      "displayFR": "[HBIg] HepaGam B (Cang)",
+      "diseaseEN": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "66071002": "hépatite B"
+        }
+      ],
       "MAHEN": "Cangene Corporation",
       "MAHFR": "Cangene Corporation"
     },
     "7991000087107": {
-      "displayEN": "VarIg VariZIG Cang",
-      "displayFR": "VarIg VariZIG Cang",
-      "diseaseEN": [],
-      "diseaseFR": [],
+      "displayEN": "[VarIg] VariZIG (Cang)",
+      "displayFR": "[VarIg] VariZIG (Cang)",
+      "diseaseEN": [
+        {
+          "38907003": "Varicella"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "38907003": "varicelle"
+        }
+      ],
       "MAHEN": "Cangene Corporation",
       "MAHFR": "Cangene Corporation"
     },
