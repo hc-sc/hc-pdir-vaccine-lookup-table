@@ -984,8 +984,16 @@
     "420261000": {
       "displayEN": "Meningococcal groups A+C+W135+Y vaccine",
       "displayFR": "Men-ACYW-135 méningocoque A + C + Y + W-135 non spécifié",
-      "diseaseEN": [],
-      "diseaseFR": []
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
     },
     "422303009": {
       "displayEN": "Rabies immunoglobulin",
@@ -2078,28 +2086,10 @@
       "displayFR": "[RRO-Var] vaccin contre la rougeole, la rubéole, les oreillons et la varicelle",
       "diseaseEN": [
         {
-          "14189004": "Measles"
-        },
-        {
-          "36653000": "Rubella"
-        },
-        {
-          "36989005": "Mumps"
-        },
-        {
           "38907003": "Varicella"
         }
       ],
       "diseaseFR": [
-        {
-          "14189004": "rougeole"
-        },
-        {
-          "36653000": "rubéole"
-        },
-        {
-          "36989005": "oreillons"
-        },
         {
           "38907003": "varicelle"
         }
@@ -2383,1464 +2373,6 @@
         }
       ]
     },
-    "21911000087100": {
-      "displayEN": "[Batx] Botulism antitoxin heptavalent",
-      "displayFR": "[AtxB] antitoxine heptavalent contre le botulisme",
-      "diseaseEN": [
-        {
-          "1149327007": "Poisoning caused by Clostridium botulinum toxin"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "1149327007": "intoxication à Clostridium botulinum"
-        }
-      ]
-    },
-    "20891000087108": {
-      "displayEN": "Vaccinia immune globulin",
-      "displayFR": "Immunoglobuline antivaccinale",
-      "diseaseEN": [
-        {
-          "67924001": "Smallpox"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "67924001": "variole"
-        }
-      ]
-    },
-    "19451000087104": {
-      "displayEN": "Hepatitis A antigen pediatric strength",
-      "displayFR": "antigène de l'hépatite A formulation pédiatrique",
-      "diseaseEN": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "40468003": "hépatite A"
-        }
-      ]
-    },
-    "291000221101": {
-      "displayEN": "Typhoid antigen",
-      "displayFR": "antigène de la typhoïde",
-      "diseaseEN": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4834000": "fièvre typhoïde"
-        }
-      ]
-    },
-    "51291000087101": {
-      "displayEN": "RSV glycoprotein F antigen",
-      "displayFR": "antigène de la glycoprotéine F du VRS",
-      "diseaseEN": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "55735004": "infection à virus respiratoire syncytial"
-        }
-      ]
-    },
-    "7091000087106": {
-      "displayEN": "[Men-P-AC] Meningococcal polysaccharide A + C vaccine",
-      "displayFR": "[Men-P-AC] vaccin contre le méningocoque polysaccharide A + C",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "7101000087101": {
-      "displayEN": "[Men-P-ACYW-135] Meningococcal polysaccharide A + C + Y + W-135 vaccine",
-      "displayFR": "[Men-P-ACYW-135] vaccin contre le méningocoque polysaccharide A + C + Y + W-135",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "19341000087105": {
-      "displayEN": "Hepatitis A antigen regular strength",
-      "displayFR": "antigène de l'hépatite A formulation régulière",
-      "diseaseEN": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "40468003": "hépatite A"
-        }
-      ]
-    },
-    "21721000087105": {
-      "displayEN": "[Men-C-AC] Meningococcal conjugate A + C vaccine",
-      "displayFR": "[Men-C-AC] vaccin contre le méningocoque conjugué A + C",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "27841000087102": {
-      "displayEN": "Non-live Human alphaherpesvirus 3 antigen",
-      "displayFR": "antigène de l'alphaherpèsvirus humain 3 non vivant",
-      "diseaseEN": [
-        {
-          "4740000": "Shingles"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4740000": "zona"
-        }
-      ]
-    },
-    "30131000087101": {
-      "displayEN": "Antigen of SARS-CoV-2 virus-like particle",
-      "displayFR": "antigène à particules pseudo-virales du SRAS-CoV-2",
-      "diseaseEN": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "52821000087108": {
-      "displayEN": "[Men-C-A] Meningococcal conjugate A vaccine",
-      "displayFR": "[Men-C-A] vaccin contre le méningocoque conjugué A",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "7781000087107": {
-      "displayEN": "[ap] Pertussis acellular adult vaccine",
-      "displayFR": "[ca] vaccin adulte contre la coqueluche acelllaire",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        }
-      ]
-    },
-    "8301000087103": {
-      "displayEN": "Inactivated poliomyelitis antigen",
-      "displayFR": "antigène de la polio inactivé",
-      "diseaseEN": [
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "398102009": "poliomyélite"
-        }
-      ]
-    },
-    "19371000087102": {
-      "displayEN": "[HA] Hepatitis A regular strength vaccine",
-      "displayFR": "[HA] vaccin contre l'hépatite A formulation régulière",
-      "diseaseEN": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "40468003": "hépatite A"
-        }
-      ]
-    },
-    "21901000087102": {
-      "displayEN": "[Men-C-CY] Meningococcal conjugate C + Y vaccine",
-      "displayFR": "[Men-C-CY] vaccin contre le méningocoque conjugué C + Y",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "28441000087100": {
-      "displayEN": "[Var] Varicella vaccine",
-      "displayFR": "[Var] vaccin contre la varicelle",
-      "diseaseEN": [
-        {
-          "38907003": "Varicella"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "38907003": "varicelle"
-        }
-      ]
-    },
-    "45771000087109": {
-      "displayEN": "Zaire ebolavirus antigen",
-      "displayFR": "antigène du virus Ebola du Zaïre",
-      "diseaseEN": [
-        {
-          "45901000087102": "Zaire Ebolavirus disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "45901000087102": "maladie à virus Ebola-Zaïre"
-        }
-      ]
-    },
-    "161000221102": {
-      "displayEN": "Diphtheria toxoid",
-      "displayFR": "anatoxine diphtérique",
-      "diseaseEN": [
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "397430003": "diphtérie"
-        }
-      ]
-    },
-    "20861000087100": {
-      "displayEN": "[HPV-9] Human papillomavirus 9-valent vaccine",
-      "displayFR": "[VPH-9] vaccin 9-valent contre le virus du papillome humain",
-      "diseaseEN": [
-        {
-          "240532009": "Human papilloma virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "240532009": "infection par le virus du papillome humain"
-        }
-      ]
-    },
-    "29301000087104": {
-      "displayEN": "SARS-CoV-2 recombinant spike protein antigen",
-      "displayFR": "antigène de la protéine S recombinante du SRAS-CoV-2",
-      "diseaseEN": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "840539006": "COVID-19"
-        }
-      ]
-    },
-    "51581000087101": {
-      "displayEN": "Enterovirus A71 antigen",
-      "displayFR": "antigène de l'entérovirus A71",
-      "diseaseEN": [
-        {
-          "713456006": "Enterovirus 71 infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "713456006": "infection par l'entérovirus A71"
-        }
-      ]
-    },
-    "8451000087106": {
-      "displayEN": "Tetanus toxoid",
-      "displayFR": "anatoxine tétanique",
-      "diseaseEN": [
-        {
-          "76902006": "Tetanus"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "76902006": "tétanos"
-        }
-      ]
-    },
-    "8611000087105": {
-      "displayEN": "Diphtheria toxoid low dose",
-      "displayFR": "anatoxine diphtérique dose réduite",
-      "diseaseEN": [
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "397430003": "diphtérie"
-        }
-      ]
-    },
-    "9811000087103": {
-      "displayEN": "[HA] Hepatitis A pediatric vaccine",
-      "displayFR": "[HA] vaccin pédiatrique contre l'hépatite A",
-      "diseaseEN": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "40468003": "hépatite A"
-        }
-      ]
-    },
-    "551000221106": {
-      "displayEN": "Tetanus toxoid",
-      "displayFR": "anatoxine tétanique",
-      "diseaseEN": [
-        {
-          "76902006": "Tetanus"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "76902006": "tétanos"
-        }
-      ]
-    },
-    "7121000087107": {
-      "displayEN": "[Men-C-ACYW] Meningococcal conjugate A + C + Y + W vaccine",
-      "displayFR": "[Men-C-ACYW] vaccin contre le méningocoque conjugué A + C + Y + W",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "19381000087100": {
-      "displayEN": "Hepatitis B antigen pediatric strength",
-      "displayFR": "antigène de l'hépatite B formulation pédiatrique",
-      "diseaseEN": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "66071002": "hépatite B"
-        }
-      ]
-    },
-    "23021000087106": {
-      "displayEN": "Varicella-zoster virus surface glycoprotein E antigen",
-      "displayFR": "antigène de la glycoprotéine E de surface recombinante de l'herpèsvirus humain 3",
-      "diseaseEN": [
-        {
-          "4740000": "Shingles"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4740000": "zona"
-        }
-      ]
-    },
-    "28451000087102": {
-      "displayEN": "[HZ] Herpes zoster vaccine",
-      "displayFR": "[Zona] vaccin contre le herpès zoster",
-      "diseaseEN": [
-        {
-          "4740000": "Shingles"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4740000": "zona"
-        }
-      ]
-    },
-    "7741000087102": {
-      "displayEN": "[d] Diphtheria adult vaccine",
-      "displayFR": "[d] vaccin contre la diphtérie adulte",
-      "diseaseEN": [
-        {
-          "76902006": "Tetanus"
-        },
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "76902006": "tétanos"
-        },
-        {
-          "397430003": "diphtérie"
-        }
-      ]
-    },
-    "7801000087108": {
-      "displayEN": "[HPV-4] Human papillomavirus quadrivalent vaccine",
-      "displayFR": "[VPH-4] vaccin quadrivalent contre le virus du papillome humain",
-      "diseaseEN": [
-        {
-          "240532009": "Human papilloma virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "240532009": "infection par le virus du papillome humain"
-        }
-      ]
-    },
-    "8361000087104": {
-      "displayEN": "Typhoid antigen",
-      "displayFR": "antigène de la typhoïde",
-      "diseaseEN": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4834000": "fièvre typhoïde"
-        }
-      ]
-    },
-    "8471000087100": {
-      "displayEN": "Vi polysaccharide typhoid antigen",
-      "displayFR": "antigène de la typhoïde polysaccharidique Vi",
-      "diseaseEN": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4834000": "fièvre typhoïde"
-        }
-      ]
-    },
-    "8631000087100": {
-      "displayEN": "Pertussis antigen standard dose",
-      "displayFR": "antigène coquelucheux dose standard",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        }
-      ]
-    },
-    "8741000087101": {
-      "displayEN": "Hepatitis B antigen dialysis strength",
-      "displayFR": "antigène de l'hépatite B formulation pour dialyse",
-      "diseaseEN": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "66071002": "hépatite B"
-        }
-      ]
-    },
-    "7701000087100": {
-      "displayEN": "[D] Diphtheria pediatric vaccine",
-      "displayFR": "[D] vaccin pédiatrique contre la diphtérie",
-      "diseaseEN": [
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "397430003": "diphtérie"
-        }
-      ]
-    },
-    "7791000087109": {
-      "displayEN": "[HPV-2] Human papillomavirus bivalent vaccine",
-      "displayFR": "[VPH-2] vaccin bivalent contre le virus du papillome humain",
-      "diseaseEN": [
-        {
-          "240532009": "Human papilloma virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "240532009": "infection par le virus du papillome humain"
-        }
-      ]
-    },
-    "8351000087102": {
-      "displayEN": "Tick-borne encephalitis virus antigen",
-      "displayFR": "antigène du virus de l'encéphalite à tiques",
-      "diseaseEN": [
-        {
-          "712986001": "Tickborne encephalitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "712986001": "encéphalite à tiques"
-        }
-      ]
-    },
-    "45781000087106": {
-      "displayEN": "Live attenuated Zaire ebolavirus antigen",
-      "displayFR": "antigène du virus Ebola du Zaïre vivant",
-      "diseaseEN": [
-        {
-          "45901000087102": "Zaire Ebolavirus disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "45901000087102": "maladie à virus Ebola-Zaïre"
-        }
-      ]
-    },
-    "561000221108": {
-      "displayEN": "Live attenuated Varicellovirus humanalpha3 antigen",
-      "displayFR": "antigène de l'herpèsvirus humain 3 vivant atténué",
-      "diseaseEN": [
-        {
-          "38907003": "Varicella"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "38907003": "varicelle"
-        }
-      ]
-    },
-    "7761000087101": {
-      "displayEN": "[wP] Pertussis whole cell pediatric vaccine",
-      "displayFR": "[CGE] vaccin pédiatrique contre la coqueluche à germes entiers",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        }
-      ]
-    },
-    "7811000087105": {
-      "displayEN": "[Rota-1] Rotavirus monovalent vaccine",
-      "displayFR": "[Rota-1] vaccin monovalent contre le rotavirus",
-      "diseaseEN": [
-        {
-          "18624000": "Rotavirus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "18624000": "infection à rotavirus"
-        }
-      ]
-    },
-    "8591000087100": {
-      "displayEN": "Acellular pertussis antigen low dose",
-      "displayFR": "antigène coquelucheux acellulaire dose réduite",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        }
-      ]
-    },
-    "8461000087109": {
-      "displayEN": "Typhoid live attenuated Ty21a antigen",
-      "displayFR": "antigène de la typhoïde vivant Ty21a",
-      "diseaseEN": [
-        {
-          "4834000": "Typhoid fever"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4834000": "fièvre typhoïde"
-        }
-      ]
-    },
-    "8621000087102": {
-      "displayEN": "Diphtheria toxoid standard dose",
-      "displayFR": "anatoxine diphtérique dose standard",
-      "diseaseEN": [
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "397430003": "diphtérie"
-        }
-      ]
-    },
-    "8731000087107": {
-      "displayEN": "Hepatitis B antigen regular strength",
-      "displayFR": "antigène de l'hépatite B formulation régulière",
-      "diseaseEN": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "66071002": "hépatite B"
-        }
-      ]
-    },
-    "9831000087108": {
-      "displayEN": "[HB] Hepatitis B pediatric strength vaccine",
-      "displayFR": "[HB] vaccin pédiatrique contre l'hépatite B",
-      "diseaseEN": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "66071002": "hépatite B"
-        }
-      ]
-    },
-    "7771000087105": {
-      "displayEN": "[aP] Pertussis acellular pediatric vaccine",
-      "displayFR": "[Ca] vaccin pédiatrique contre la coqueluche acelllaire",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        }
-      ]
-    },
-    "8771000087109": {
-      "displayEN": "[HB] Hepatitis B regular strength vaccine",
-      "displayFR": "[HB] vaccin contre l'hépatite B formulation régulière",
-      "diseaseEN": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "66071002": "hépatite B"
-        }
-      ]
-    },
-    "7821000087102": {
-      "displayEN": "[Rota-5] Rotavirus pentavalent vaccine",
-      "displayFR": "[Rota-5] vaccin pentavalent contre le rotavirus",
-      "diseaseEN": [
-        {
-          "18624000": "Rotavirus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "18624000": "infection à rotavirus"
-        }
-      ]
-    },
-    "8601000087108": {
-      "displayEN": "Acellular pertussis antigen standard dose",
-      "displayFR": "antigène coquelucheux acellulaire dose standard",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        }
-      ]
-    },
-    "8641000087106": {
-      "displayEN": "Pertussis antigen low dose",
-      "displayFR": "antigène coquelucheux dose réduite",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        }
-      ]
-    },
-    "8781000087106": {
-      "displayEN": "[HB] Hepatitis B dialysis strength vaccine",
-      "displayFR": "[HB] vaccin contre l'hépatite B formulation pour dialyse",
-      "diseaseEN": [
-        {
-          "66071002": "Hepatitis B"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "66071002": "hépatite B"
-        }
-      ]
-    },
-    "8681000087101": {
-      "displayEN": "Rota G2 serotype antigen",
-      "displayFR": "Antigène du sérotype Rota G2",
-      "diseaseEN": [
-        {
-          "18624000": "Rotavirus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "18624000": "infection à rotavirus"
-        }
-      ]
-    },
-    "8701000087104": {
-      "displayEN": "Rota G4 serotype antigen",
-      "displayFR": "Antigène du sérotype Rota G4",
-      "diseaseEN": [
-        {
-          "18624000": "Rotavirus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "18624000": "infection à rotavirus"
-        }
-      ]
-    },
-    "8581000087102": {
-      "displayEN": "Meningococcal polysaccharide group Y antigen",
-      "displayFR": "Antigène polysaccharidique du méningocoque du sérogroupe Y",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "8571000087104": {
-      "displayEN": "Meningococcal polysaccharide group W-135 antigen",
-      "displayFR": "Antigène polysaccharidique du méningocoque du sérogroupe W-135",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "8511000087106": {
-      "displayEN": "Meningococcal conjugate group A antigen",
-      "displayFR": "Antigène du méningocoque conjugué du sérogroupe A",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "8491000087101": {
-      "displayEN": "Acellular pertussis antigen",
-      "displayFR": "Antigène coquelucheux acellulaire",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        }
-      ]
-    },
-    "8281000087104": {
-      "displayEN": "Human papillomavirus, type 11 antigen",
-      "displayFR": "Antigène du virus du papillome humain de type 11",
-      "diseaseEN": [
-        {
-          "240532009": "Human papilloma virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "240532009": "infection par le virus du papillome humain"
-        }
-      ]
-    },
-    "8751000087103": {
-      "displayEN": "Rota G1 (P8) serotype antigen",
-      "displayFR": "Antigène du sérotype Rota G1 (P8)",
-      "diseaseEN": [
-        {
-          "18624000": "Rotavirus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "18624000": "infection à rotavirus"
-        }
-      ]
-    },
-    "8551000087105": {
-      "displayEN": "Meningococcal polysaccharide group A antigen",
-      "displayFR": "Antigène polysaccharidique du méningocoque du sérogroupe A",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "8501000087109": {
-      "displayEN": "Diphtheria toxoid",
-      "displayFR": "Anatoxine diphtérique",
-      "diseaseEN": [
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "397430003": "diphtérie"
-        }
-      ]
-    },
-    "8481000087103": {
-      "displayEN": "Whole cell pertussis antigen",
-      "displayFR": "Antigène coquelucheux à germes entiers",
-      "diseaseEN": [
-        {
-          "27836007": "Pertussis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "27836007": "coqueluche"
-        }
-      ]
-    },
-    "8721000087105": {
-      "displayEN": "Smallpox antigen",
-      "displayFR": "Antigène de la variole",
-      "diseaseEN": [
-        {
-          "67924001": "Smallpox"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "67924001": "variole"
-        }
-      ]
-    },
-    "8691000087104": {
-      "displayEN": "Rota G3 serotype antigen",
-      "displayFR": "Antigène du sérotype Rota G3",
-      "diseaseEN": [
-        {
-          "18624000": "Rotavirus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "18624000": "infection à rotavirus"
-        }
-      ]
-    },
-    "8251000087107": {
-      "displayEN": "Bacillus Calmette Guerin antigen",
-      "displayFR": "Antigène de Mycobacterium tuberculosis",
-      "diseaseEN": [
-        {
-          "56717001": "Tuberculosis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "56717001": "tuberculose"
-        }
-      ]
-    },
-    "8271000087101": {
-      "displayEN": "Hepatitis A antigen",
-      "displayFR": "Antigène de l'hépatite A",
-      "diseaseEN": [
-        {
-          "40468003": "Hepatitis A"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "40468003": "hépatite A"
-        }
-      ]
-    },
-    "8291000087102": {
-      "displayEN": "Human papillomavirus, type 6 antigen",
-      "displayFR": "Antigène du virus du papillome humain de type 6",
-      "diseaseEN": [
-        {
-          "240532009": "Human papilloma virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "240532009": "infection par le virus du papillome humain"
-        }
-      ]
-    },
-    "8331000087106": {
-      "displayEN": "Plague antigen",
-      "displayFR": "Antigène de la peste",
-      "diseaseEN": [
-        {
-          "58750007": "Plague"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "58750007": "peste"
-        }
-      ]
-    },
-    "8531000087101": {
-      "displayEN": "Meningococcal conjugate group W-135 antigen",
-      "displayFR": "Antigène du méningocoque conjugué du sérogroupe W-135",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "8661000087107": {
-      "displayEN": "Enterotoxigenic e. coli antigen",
-      "displayFR": "Enterotoxigenic e. coli antigen",
-      "diseaseEN": [
-        {
-          "11840006": "Traveler's diarrhea"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "11840006": "diarrhée du voyageur"
-        }
-      ]
-    },
-    "8341000087100": {
-      "displayEN": "Poliomyelitis antigen",
-      "displayFR": "Antigène de poliovirus",
-      "diseaseEN": [
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "398102009": "poliomyélite"
-        }
-      ]
-    },
-    "8321000087109": {
-      "displayEN": "Lyme antigen",
-      "displayFR": "Antigène de la maladie de Lyme",
-      "diseaseEN": [
-        {
-          "23502006": "Lyme disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23502006": "maladie de Lyme"
-        }
-      ]
-    },
-    "8261000087105": {
-      "displayEN": "Cholera antigen",
-      "displayFR": "Antigène du choléra",
-      "diseaseEN": [
-        {
-          "11840006": "Traveler's diarrhea"
-        },
-        {
-          "63650001": "Cholera"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "11840006": "diarrhée du voyageur"
-        },
-        {
-          "63650001": "choléra"
-        }
-      ]
-    },
-    "8671000087103": {
-      "displayEN": "Rota G1 serotype antigen",
-      "displayFR": "Antigène du sérotype Rota G1",
-      "diseaseEN": [
-        {
-          "18624000": "Rotavirus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "18624000": "infection à rotavirus"
-        }
-      ]
-    },
-    "8711000087102": {
-      "displayEN": "Rota P1A (8) serotype antigen",
-      "displayFR": "Antigène du sérotype Rota P1A (8)",
-      "diseaseEN": [
-        {
-          "18624000": "Rotavirus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "18624000": "infection à rotavirus"
-        }
-      ]
-    },
-    "8411000087107": {
-      "displayEN": "Pneumococcal conjugate antigen",
-      "displayFR": "Antigène du pneumocoque conjugué",
-      "diseaseEN": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "16814004": "infection pneumococcique"
-        }
-      ]
-    },
-    "8391000087107": {
-      "displayEN": "Meningococcal polysaccharide antigen",
-      "displayFR": "Antigène polysaccharidique du méningocoque",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "8381000087105": {
-      "displayEN": "Meningococcal conjugate antigen",
-      "displayFR": "Antigène du méningocoque conjugué",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "8561000087108": {
-      "displayEN": "Meningococcal polysaccharide group C antigen",
-      "displayFR": "Antigène polysaccharidique du méningocoque du sérogroupe C",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "8521000087103": {
-      "displayEN": "Meningococcal conjugate group C antigen",
-      "displayFR": "Antigène du méningocoque conjugué du sérogroupe C",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "8541000087107": {
-      "displayEN": "Meningococcal conjugate group Y antigen",
-      "displayFR": "Antigène du méningocoque conjugué du sérogroupe Y",
-      "diseaseEN": [
-        {
-          "23511006": "Meningococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "23511006": "maladie infectieuse à méningocoques"
-        }
-      ]
-    },
-    "8371000087108": {
-      "displayEN": "Yellow fever antigen",
-      "displayFR": "Antigène du virus de la fièvre jaune",
-      "diseaseEN": [
-        {
-          "16541001": "Yellow fever"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "16541001": "fièvre jaune"
-        }
-      ]
-    },
-    "8311000087101": {
-      "displayEN": "Live poliomyelitis antigen",
-      "displayFR": "Antigène de la polio vivant",
-      "diseaseEN": [
-        {
-          "398102009": "Poliomyelitis"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "398102009": "poliomyélite"
-        }
-      ]
-    },
-    "58331000087101": {
-      "displayEN": "Nirsevimab",
-      "displayFR": "nirsevimab",
-      "diseaseEN": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "55735004": "infection à virus respiratoire syncytial"
-        }
-      ]
-    },
-    "51451000087105": {
-      "displayEN": "[Pneu-C-13] Pneumococcal conjugate 13-valent vaccine",
-      "displayFR": "[Pneu-C-13] vaccin contre le pneumocoque conjugué 13-valent",
-      "diseaseEN": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "16814004": "infection pneumococcique"
-        }
-      ]
-    },
-    "7251000087108": {
-      "displayEN": "[Pneu-P-23] Pneumococcal polysaccharide 23-valent vaccine",
-      "displayFR": "[Pneu-P-23] vaccin contre le pneumocoque polysaccharide 23-valent",
-      "diseaseEN": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "16814004": "infection pneumococcique"
-        }
-      ]
-    },
-    "1801000221105": {
-      "displayEN": "[Pneu-C] Pneumococcal conjugated vaccine",
-      "displayFR": "[Pneu-C] vaccin contre le pneumocoque conjugué",
-      "diseaseEN": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "16814004": "infection pneumococcique"
-        }
-      ]
-    },
-    "28481000087105": {
-      "displayEN": "[Pneu-P] Pneumococcal polysaccharide vaccine",
-      "displayFR": "[Pneu-P] vaccin contre le pneumocoque polysaccharide",
-      "diseaseEN": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "16814004": "infection pneumococcique"
-        }
-      ]
-    },
-    "581000221101": {
-      "displayEN": "Cholera live attenuated antigen",
-      "displayFR": "antigène du choléra vivant atténué",
-      "diseaseEN": [
-        {
-          "11840006": "Traveler's diarrhea"
-        },
-        {
-          "63650001": "Cholera"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "11840006": "diarrhée du voyageur"
-        },
-        {
-          "63650001": "choléra"
-        }
-      ]
-    },
-    "60591000087104": {
-      "displayEN": "[Pneu-C-21] Pneumococcal conjugate 21-valent vaccine",
-      "displayFR": "[Pneu-C-21] vaccin contre le pneumocoque conjugué 21-valent",
-      "diseaseEN": [
-        {
-          "16814004": "Pneumococcal disease"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "16814004": "infection pneumococcique"
-        }
-      ]
-    },
-    "61221000087105": {
-      "displayEN": "Monoclonal antibody to Human respiratory syncytial virus",
-      "displayFR": "anticorps monoclonal contre le virus respiratoire syncytial humain",
-      "diseaseEN": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "55735004": "infection à virus respiratoire syncytial"
-        }
-      ]
-    },
-    "151000221104": {
-      "displayEN": "Corynebacterium diphtheriae antigen",
-      "displayFR": "Corynebacterium diphtheriae antigen",
-      "diseaseEN": [
-        {
-          "397430003": "Diphtheria"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "397430003": "diphtérie"
-        }
-      ]
-    },
-    "571000221104": {
-      "displayEN": "Vibrio cholerae antigen",
-      "displayFR": "antigène de Vibrio cholerae",
-      "diseaseEN": [
-        {
-          "11840006": "Traveler's diarrhea"
-        },
-        {
-          "63650001": "Cholera"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "11840006": "diarrhée du voyageur"
-        },
-        {
-          "63650001": "choléra"
-        }
-      ]
-    },
-    "541000221109": {
-      "displayEN": "Clostridium tetani antigen",
-      "displayFR": "Clostridium tetani antigen",
-      "diseaseEN": [
-        {
-          "76902006": "Tetanus"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "76902006": "tétanos"
-        }
-      ]
-    },
-    "591000221103": {
-      "displayEN": "Inactivated whole Vibrio cholerae antigen",
-      "displayFR": "antigène de Vibrio cholerae entier inactivé",
-      "diseaseEN": [
-        {
-          "11840006": "Traveler's diarrhea"
-        },
-        {
-          "63650001": "Cholera"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "11840006": "diarrhée du voyageur"
-        },
-        {
-          "63650001": "choléra"
-        }
-      ]
-    },
-    "61731000087103": {
-      "displayEN": "RSV (respiratory syncytial virus) mRNA",
-      "displayFR": "VRS (virus respiratoire syncytial) ARNm",
-      "diseaseEN": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "55735004": "infection à virus respiratoire syncytial"
-        }
-      ]
-    },
-    "61751000087107": {
-      "displayEN": "RSV (respiratory syncytial virus) mRNA encoding surface glycoprotein F",
-      "displayFR": "VRS (virus respiratoire syncytial) ARNm codant pour la glycoprotéine F de surface",
-      "diseaseEN": [
-        {
-          "55735004": "Respiratory syncytial virus infection"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "55735004": "infection à virus respiratoire syncytial"
-        }
-      ]
-    },
-    "56341000087108": {
-      "displayEN": "[LZV] Live attenuated herpes zoster vaccine",
-      "displayFR": "[VZV] vaccin vivant atténué contre le herpès zoster",
-      "diseaseEN": [
-        {
-          "4740000": "Shingles"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4740000": "zona"
-        }
-      ]
-    },
-    "56011000087109": {
-      "displayEN": "[RZV] Recombinant herpes zoster vaccine",
-      "displayFR": "[VRZ] vaccin recombinant contre le herpès zoster",
-      "diseaseEN": [
-        {
-          "4740000": "Shingles"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "4740000": "zona"
-        }
-      ]
-    },
     "1051000221104": {
       "displayEN": "[OPV] Poliomyelitis live vaccine",
       "displayFR": "[VPO] vaccin vivant contre la poliomyélite",
@@ -3881,6 +2413,20 @@
         }
       ]
     },
+    "21901000087102": {
+      "displayEN": "[Men-C-CY] Meningococcal conjugate C + Y vaccine",
+      "displayFR": "[Men-C-CY] vaccin contre le méningocoque conjugué C + Y",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
     "23701000087103": {
       "displayEN": "[DTaP-Hib] Diphtheria, tetanus, acellular pertussis, and Haemophilus influenzae type b pediatric vaccine",
       "displayFR": "[DCaT-Hib] vaccin pédiatrique contre la diphtérie, la coqueluche acellulaire, le tétanos et Haemophilus influenzae de type b",
@@ -3913,6 +2459,20 @@
         }
       ]
     },
+    "28451000087102": {
+      "displayEN": "[HZ] Herpes zoster vaccine",
+      "displayFR": "[Zona] vaccin contre le herpès zoster",
+      "diseaseEN": [
+        {
+          "4740000": "Shingles"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4740000": "zona"
+        }
+      ]
+    },
     "319941000221104": {
       "displayEN": "[BCG] Bacillus Calmette Guerin vaccine",
       "displayFR": "[BCG] vaccin contre le bacille de Calmette-Guérin",
@@ -3924,6 +2484,20 @@
       "diseaseFR": [
         {
           "56717001": "tuberculose"
+        }
+      ]
+    },
+    "1801000221105": {
+      "displayEN": "[Pneu-C] Pneumococcal conjugated vaccine",
+      "displayFR": "[Pneu-C] vaccin contre le pneumocoque conjugué",
+      "diseaseEN": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "16814004": "infection pneumococcique"
         }
       ]
     },
@@ -3965,6 +2539,20 @@
         }
       ]
     },
+    "20861000087100": {
+      "displayEN": "[HPV-9] Human papillomavirus 9-valent vaccine",
+      "displayFR": "[VPH-9] vaccin 9-valent contre le virus du papillome humain",
+      "diseaseEN": [
+        {
+          "240532009": "Human papilloma virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "240532009": "infection par le virus du papillome humain"
+        }
+      ]
+    },
     "2221000221107": {
       "displayEN": "Varicella-zoster live attenuated vaccine",
       "displayFR": "vaccin vivant atténué contre le virus varicella-zoster",
@@ -3996,6 +2584,20 @@
       "diseaseFR": [
         {
           "45901000087102": "maladie à virus Ebola-Zaïre"
+        }
+      ]
+    },
+    "52821000087108": {
+      "displayEN": "[Men-C-A] Meningococcal conjugate A vaccine",
+      "displayFR": "[Men-C-A] vaccin contre le méningocoque conjugué A",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
         }
       ]
     },
@@ -4131,6 +2733,20 @@
       "MAHEN": "Berna GmbH",
       "MAHFR": "Berna GmbH"
     },
+    "28481000087105": {
+      "displayEN": "[Pneu-P] Pneumococcal polysaccharide vaccine",
+      "displayFR": "[Pneu-P] vaccin contre le pneumocoque polysaccharide",
+      "diseaseEN": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "16814004": "infection pneumococcique"
+        }
+      ]
+    },
     "1181000221105": {
       "displayEN": "[Inf] Influenza vaccine",
       "displayFR": "[Inf] vaccin contre l'influenza",
@@ -4142,6 +2758,20 @@
       "diseaseFR": [
         {
           "6142004": "influenza"
+        }
+      ]
+    },
+    "19371000087102": {
+      "displayEN": "[HA] Hepatitis A regular strength vaccine",
+      "displayFR": "[HA] vaccin contre l'hépatite A formulation régulière",
+      "diseaseEN": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "40468003": "hépatite A"
         }
       ]
     },
@@ -4231,6 +2861,20 @@
         }
       ]
     },
+    "7101000087101": {
+      "displayEN": "[Men-P-ACYW-135] Meningococcal polysaccharide A + C + Y + W-135 vaccine",
+      "displayFR": "[Men-P-ACYW-135] vaccin contre le méningocoque polysaccharide A + C + Y + W-135",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
     "7261000087106": {
       "displayEN": "Pneumococcal conjugate vaccine",
       "displayFR": "Pneu-C pneumocoque conjugué non spécifié",
@@ -4248,6 +2892,34 @@
       "diseaseFR": [
         {
           "6142004": "influenza"
+        }
+      ]
+    },
+    "7741000087102": {
+      "displayEN": "[d] Diphtheria adult vaccine",
+      "displayFR": "[d] vaccin contre la diphtérie adulte",
+      "diseaseEN": [
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "397430003": "diphtérie"
+        }
+      ]
+    },
+    "7791000087109": {
+      "displayEN": "[HPV-2] Human papillomavirus bivalent vaccine",
+      "displayFR": "[VPH-2] vaccin bivalent contre le virus du papillome humain",
+      "diseaseEN": [
+        {
+          "240532009": "Human papilloma virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "240532009": "infection par le virus du papillome humain"
         }
       ]
     },
@@ -4309,6 +2981,20 @@
         }
       ]
     },
+    "21721000087105": {
+      "displayEN": "[Men-C-AC] Meningococcal conjugate A + C vaccine",
+      "displayFR": "[Men-C-AC] vaccin contre le méningocoque conjugué A + C",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
     "23681000087100": {
       "displayEN": "[DTwP-HB] Diphtheria, whole cell pertussis, yetanus and hepatitis B pediatric vaccine",
       "displayFR": "[DCGET-HB] vaccin pédiatrique contre la diphtérie, la coqueluche à germes entiers, le tétanos et l'hépatite B",
@@ -4338,6 +3024,20 @@
         },
         {
           "397430003": "diphtérie"
+        }
+      ]
+    },
+    "28441000087100": {
+      "displayEN": "[Var] Varicella vaccine",
+      "displayFR": "[Var] vaccin contre la varicelle",
+      "diseaseEN": [
+        {
+          "38907003": "Varicella"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "38907003": "varicelle"
         }
       ]
     },
@@ -4417,6 +3117,20 @@
         }
       ]
     },
+    "56341000087108": {
+      "displayEN": "[LZV] Live attenuated herpes zoster vaccine",
+      "displayFR": "[VZV] vaccin vivant atténué contre le herpès zoster",
+      "diseaseEN": [
+        {
+          "4740000": "Shingles"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4740000": "zona"
+        }
+      ]
+    },
     "7011000087100": {
       "displayEN": "[BCG] BCG Vaccine (SP)",
       "displayFR": "[BCG] BCG Vaccine (SP)",
@@ -4432,6 +3146,20 @@
       ],
       "MAHEN": "SANOFI PASTEUR LIMITED",
       "MAHFR": "SANOFI PASTEUR LIMITED"
+    },
+    "7121000087107": {
+      "displayEN": "[Men-C-ACYW] Meningococcal conjugate A + C + Y + W vaccine",
+      "displayFR": "[Men-C-ACYW] vaccin contre le méningocoque conjugué A + C + Y + W",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
     },
     "7321000087105": {
       "displayEN": "[Typh-O] Vivotif (CS)",
@@ -4460,6 +3188,20 @@
       "diseaseFR": [
         {
           "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "7761000087101": {
+      "displayEN": "[wP] Pertussis whole cell pediatric vaccine",
+      "displayFR": "[CGE] vaccin pédiatrique contre la coqueluche à germes entiers",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
         }
       ]
     },
@@ -4571,6 +3313,20 @@
         }
       ]
     },
+    "56011000087109": {
+      "displayEN": "[RZV] Recombinant herpes zoster vaccine",
+      "displayFR": "[VRZ] vaccin recombinant contre le herpès zoster",
+      "diseaseEN": [
+        {
+          "4740000": "Shingles"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4740000": "zona"
+        }
+      ]
+    },
     "7001000087102": {
       "displayEN": "[Inf] Influenza A monovalent H1N1 adjuvanted vaccine",
       "displayFR": "[Inf] vaccin monovalent contre l'influenza A H1N1 avec adjuvant",
@@ -4606,6 +3362,48 @@
       "displayFR": "RR rougeole + rubéole non spécifié",
       "diseaseEN": [],
       "diseaseFR": []
+    },
+    "7701000087100": {
+      "displayEN": "[D] Diphtheria pediatric vaccine",
+      "displayFR": "[D] vaccin pédiatrique contre la diphtérie",
+      "diseaseEN": [
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "397430003": "diphtérie"
+        }
+      ]
+    },
+    "51451000087105": {
+      "displayEN": "[Pneu-C-13] Pneumococcal conjugate 13-valent vaccine",
+      "displayFR": "[Pneu-C-13] vaccin contre le pneumocoque conjugué 13-valent",
+      "diseaseEN": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "16814004": "infection pneumococcique"
+        }
+      ]
+    },
+    "7811000087105": {
+      "displayEN": "[Rota-1] Rotavirus monovalent vaccine",
+      "displayFR": "[Rota-1] vaccin monovalent contre le rotavirus",
+      "diseaseEN": [
+        {
+          "18624000": "Rotavirus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "18624000": "infection à rotavirus"
+        }
+      ]
     },
     "7901000087103": {
       "displayEN": "[DT-IPV] Diphtheria, tetanus and inactivated poliomyelitis pediatric vaccine",
@@ -4663,6 +3461,34 @@
       "MAHEN": "Berna Biotech Limited",
       "MAHFR": "Berna Biotech Limited"
     },
+    "7091000087106": {
+      "displayEN": "[Men-P-AC] Meningococcal polysaccharide A + C vaccine",
+      "displayFR": "[Men-P-AC] vaccin contre le méningocoque polysaccharide A + C",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "7251000087108": {
+      "displayEN": "[Pneu-P-23] Pneumococcal polysaccharide 23-valent vaccine",
+      "displayFR": "[Pneu-P-23] vaccin contre le pneumocoque polysaccharide 23-valent",
+      "diseaseEN": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "16814004": "infection pneumococcique"
+        }
+      ]
+    },
     "7661000087108": {
       "displayEN": "Pneu-C-10 pneumococcal conjugate 10-valent unspecified",
       "displayFR": "Pneu-C-10 pneumocoque conjugué 10-valent non spécifié",
@@ -4713,6 +3539,20 @@
         }
       ]
     },
+    "7781000087107": {
+      "displayEN": "[ap] Pertussis acellular adult vaccine",
+      "displayFR": "[ca] vaccin adulte contre la coqueluche acelllaire",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        }
+      ]
+    },
     "7831000087100": {
       "displayEN": "[DPT] Diphtheria, pertussis and tetanus pediatric vaccine",
       "displayFR": "[DCT] vaccin pédiatrique contre la diphtérie, la coqueluche et le tétanos",
@@ -4756,6 +3596,20 @@
         },
         {
           "398102009": "poliomyélite"
+        }
+      ]
+    },
+    "7801000087108": {
+      "displayEN": "[HPV-4] Human papillomavirus quadrivalent vaccine",
+      "displayFR": "[VPH-4] vaccin quadrivalent contre le virus du papillome humain",
+      "diseaseEN": [
+        {
+          "240532009": "Human papilloma virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "240532009": "infection par le virus du papillome humain"
         }
       ]
     },
@@ -4899,6 +3753,48 @@
       "diseaseEN": [],
       "diseaseFR": []
     },
+    "7771000087105": {
+      "displayEN": "[aP] Pertussis acellular pediatric vaccine",
+      "displayFR": "[Ca] vaccin pédiatrique contre la coqueluche acelllaire",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        }
+      ]
+    },
+    "7821000087102": {
+      "displayEN": "[Rota-5] Rotavirus pentavalent vaccine",
+      "displayFR": "[Rota-5] vaccin pentavalent contre le rotavirus",
+      "diseaseEN": [
+        {
+          "18624000": "Rotavirus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "18624000": "infection à rotavirus"
+        }
+      ]
+    },
+    "8781000087106": {
+      "displayEN": "[HB] Hepatitis B dialysis strength vaccine",
+      "displayFR": "[HB] vaccin contre l'hépatite B formulation pour dialyse",
+      "diseaseEN": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "66071002": "hépatite B"
+        }
+      ]
+    },
     "961000221100": {
       "displayEN": "[Typh] Typhoid vaccine",
       "displayFR": "[Typh] vaccin contre la typhoïde",
@@ -5019,6 +3915,20 @@
         }
       ]
     },
+    "8771000087109": {
+      "displayEN": "[HB] Hepatitis B regular strength vaccine",
+      "displayFR": "[HB] vaccin contre l'hépatite B formulation régulière",
+      "diseaseEN": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "66071002": "hépatite B"
+        }
+      ]
+    },
     "921000221108": {
       "displayEN": "[Men] Meningococcal vaccine",
       "displayFR": "[Men] vaccin contre le méningocoque",
@@ -5030,6 +3940,20 @@
       "diseaseFR": [
         {
           "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "9811000087103": {
+      "displayEN": "[HA] Hepatitis A pediatric vaccine",
+      "displayFR": "[HA] vaccin pédiatrique contre l'hépatite A",
+      "diseaseEN": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "40468003": "hépatite A"
         }
       ]
     },
@@ -5193,6 +4117,20 @@
         }
       ]
     },
+    "9831000087108": {
+      "displayEN": "[HB] Hepatitis B pediatric strength vaccine",
+      "displayFR": "[HB] vaccin pédiatrique contre l'hépatite B",
+      "diseaseEN": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "66071002": "hépatite B"
+        }
+      ]
+    },
     "6991000087105": {
       "displayEN": "Inf influenza A monovalent H1N1 unadjuvanted unspecified",
       "displayFR": "Inf influenza A monovalent H1N1 unadjuvanted unspecified",
@@ -5220,6 +4158,20 @@
       ],
       "MAHEN": "CSL Behring AG",
       "MAHFR": "CSL Behring AG"
+    },
+    "21911000087100": {
+      "displayEN": "BAtx botulism antitoxin heptavalent unspecified",
+      "displayFR": "AtxB antitoxine botulinique heptavalent non spécifié",
+      "diseaseEN": [
+        {
+          "1149327007": "Poisoning caused by Clostridium botulinum toxin"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "1149327007": "intoxication à Clostridium botulinum"
+        }
+      ]
     },
     "19431000087108": {
       "displayEN": "DAtx Diphtheria antitoxin IOI",
@@ -5332,6 +4284,20 @@
         },
         {
           "63650001": "choléra"
+        }
+      ]
+    },
+    "60591000087104": {
+      "displayEN": "[Pneu-C-21] Pneumococcal conjugate 21-valent vaccine",
+      "displayFR": "[Pneu-C-21] vaccin contre le pneumocoque conjugué 21-valent",
+      "diseaseEN": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "16814004": "infection pneumococcique"
         }
       ]
     },
@@ -9222,6 +8188,1024 @@
       ],
       "MAHEN": "MODERNA BIOPHARMA CANADA CORPORATION",
       "MAHFR": "MODERNA BIOPHARMA CANADA CORPORATION"
+    },
+    "20891000087108": {
+      "displayEN": "Vaccinia immune globulin",
+      "displayFR": "Immunoglobuline antivaccinale",
+      "diseaseEN": [
+        {
+          "67924001": "Smallpox"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "67924001": "variole"
+        }
+      ]
+    },
+    "19451000087104": {
+      "displayEN": "Hepatitis A antigen pediatric strength",
+      "displayFR": "antigène de l'hépatite A formulation pédiatrique",
+      "diseaseEN": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "40468003": "hépatite A"
+        }
+      ]
+    },
+    "291000221101": {
+      "displayEN": "Typhoid antigen",
+      "displayFR": "antigène de la typhoïde",
+      "diseaseEN": [
+        {
+          "4834000": "Typhoid fever"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4834000": "fièvre typhoïde"
+        }
+      ]
+    },
+    "51291000087101": {
+      "displayEN": "RSV glycoprotein F antigen",
+      "displayFR": "antigène de la glycoprotéine F du VRS",
+      "diseaseEN": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "55735004": "infection à virus respiratoire syncytial"
+        }
+      ]
+    },
+    "19341000087105": {
+      "displayEN": "Hepatitis A antigen regular strength",
+      "displayFR": "antigène de l'hépatite A formulation régulière",
+      "diseaseEN": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "40468003": "hépatite A"
+        }
+      ]
+    },
+    "27841000087102": {
+      "displayEN": "Non-live Human alphaherpesvirus 3 antigen",
+      "displayFR": "antigène de l'alphaherpèsvirus humain 3 non vivant",
+      "diseaseEN": [
+        {
+          "4740000": "Shingles"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4740000": "zona"
+        }
+      ]
+    },
+    "30131000087101": {
+      "displayEN": "Antigen of SARS-CoV-2 virus-like particle",
+      "displayFR": "antigène à particules pseudo-virales du SRAS-CoV-2",
+      "diseaseEN": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "8301000087103": {
+      "displayEN": "Inactivated poliomyelitis antigen",
+      "displayFR": "antigène de la polio inactivé",
+      "diseaseEN": [
+        {
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "398102009": "poliomyélite"
+        }
+      ]
+    },
+    "45771000087109": {
+      "displayEN": "Zaire ebolavirus antigen",
+      "displayFR": "antigène du virus Ebola du Zaïre",
+      "diseaseEN": [
+        {
+          "45901000087102": "Zaire Ebolavirus disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "45901000087102": "maladie à virus Ebola-Zaïre"
+        }
+      ]
+    },
+    "161000221102": {
+      "displayEN": "Diphtheria toxoid",
+      "displayFR": "anatoxine diphtérique",
+      "diseaseEN": [
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "397430003": "diphtérie"
+        }
+      ]
+    },
+    "29301000087104": {
+      "displayEN": "SARS-CoV-2 recombinant spike protein antigen",
+      "displayFR": "antigène de la protéine S recombinante du SRAS-CoV-2",
+      "diseaseEN": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "840539006": "COVID-19"
+        }
+      ]
+    },
+    "51581000087101": {
+      "displayEN": "Enterovirus A71 antigen",
+      "displayFR": "antigène de l'entérovirus A71",
+      "diseaseEN": [
+        {
+          "713456006": "Enterovirus 71 infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "713456006": "infection par l'entérovirus A71"
+        }
+      ]
+    },
+    "8451000087106": {
+      "displayEN": "Tetanus toxoid",
+      "displayFR": "anatoxine tétanique",
+      "diseaseEN": [
+        {
+          "76902006": "Tetanus"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "76902006": "tétanos"
+        }
+      ]
+    },
+    "8611000087105": {
+      "displayEN": "Diphtheria toxoid low dose",
+      "displayFR": "anatoxine diphtérique dose réduite",
+      "diseaseEN": [
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "397430003": "diphtérie"
+        }
+      ]
+    },
+    "551000221106": {
+      "displayEN": "Tetanus toxoid",
+      "displayFR": "anatoxine tétanique",
+      "diseaseEN": [
+        {
+          "76902006": "Tetanus"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "76902006": "tétanos"
+        }
+      ]
+    },
+    "19381000087100": {
+      "displayEN": "Hepatitis B antigen pediatric strength",
+      "displayFR": "antigène de l'hépatite B formulation pédiatrique",
+      "diseaseEN": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "66071002": "hépatite B"
+        }
+      ]
+    },
+    "23021000087106": {
+      "displayEN": "Varicella-zoster virus surface glycoprotein E antigen",
+      "displayFR": "antigène de la glycoprotéine E de surface recombinante de l'herpèsvirus humain 3",
+      "diseaseEN": [
+        {
+          "4740000": "Shingles"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4740000": "zona"
+        }
+      ]
+    },
+    "8361000087104": {
+      "displayEN": "Typhoid antigen",
+      "displayFR": "antigène de la typhoïde",
+      "diseaseEN": [
+        {
+          "4834000": "Typhoid fever"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4834000": "fièvre typhoïde"
+        }
+      ]
+    },
+    "8471000087100": {
+      "displayEN": "Vi polysaccharide typhoid antigen",
+      "displayFR": "antigène de la typhoïde polysaccharidique Vi",
+      "diseaseEN": [
+        {
+          "4834000": "Typhoid fever"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4834000": "fièvre typhoïde"
+        }
+      ]
+    },
+    "8631000087100": {
+      "displayEN": "Pertussis antigen standard dose",
+      "displayFR": "antigène coquelucheux dose standard",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        }
+      ]
+    },
+    "8741000087101": {
+      "displayEN": "Hepatitis B antigen dialysis strength",
+      "displayFR": "antigène de l'hépatite B formulation pour dialyse",
+      "diseaseEN": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "66071002": "hépatite B"
+        }
+      ]
+    },
+    "8351000087102": {
+      "displayEN": "Tick-borne encephalitis virus antigen",
+      "displayFR": "antigène du virus de l'encéphalite à tiques",
+      "diseaseEN": [
+        {
+          "712986001": "Tickborne encephalitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "712986001": "encéphalite à tiques"
+        }
+      ]
+    },
+    "45781000087106": {
+      "displayEN": "Live attenuated Zaire ebolavirus antigen",
+      "displayFR": "antigène du virus Ebola du Zaïre vivant",
+      "diseaseEN": [
+        {
+          "45901000087102": "Zaire Ebolavirus disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "45901000087102": "maladie à virus Ebola-Zaïre"
+        }
+      ]
+    },
+    "561000221108": {
+      "displayEN": "Live attenuated Varicellovirus humanalpha3 antigen",
+      "displayFR": "antigène de l'herpèsvirus humain 3 vivant atténué",
+      "diseaseEN": [
+        {
+          "38907003": "Varicella"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "38907003": "varicelle"
+        }
+      ]
+    },
+    "8591000087100": {
+      "displayEN": "Acellular pertussis antigen low dose",
+      "displayFR": "antigène coquelucheux acellulaire dose réduite",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        }
+      ]
+    },
+    "8461000087109": {
+      "displayEN": "Typhoid live attenuated Ty21a antigen",
+      "displayFR": "antigène de la typhoïde vivant Ty21a",
+      "diseaseEN": [
+        {
+          "4834000": "Typhoid fever"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "4834000": "fièvre typhoïde"
+        }
+      ]
+    },
+    "8621000087102": {
+      "displayEN": "Diphtheria toxoid standard dose",
+      "displayFR": "anatoxine diphtérique dose standard",
+      "diseaseEN": [
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "397430003": "diphtérie"
+        }
+      ]
+    },
+    "8731000087107": {
+      "displayEN": "Hepatitis B antigen regular strength",
+      "displayFR": "antigène de l'hépatite B formulation régulière",
+      "diseaseEN": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "66071002": "hépatite B"
+        }
+      ]
+    },
+    "8601000087108": {
+      "displayEN": "Acellular pertussis antigen standard dose",
+      "displayFR": "antigène coquelucheux acellulaire dose standard",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        }
+      ]
+    },
+    "8641000087106": {
+      "displayEN": "Pertussis antigen low dose",
+      "displayFR": "antigène coquelucheux dose réduite",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        }
+      ]
+    },
+    "8681000087101": {
+      "displayEN": "Rota G2 serotype antigen",
+      "displayFR": "Antigène du sérotype Rota G2",
+      "diseaseEN": [
+        {
+          "18624000": "Rotavirus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "18624000": "infection à rotavirus"
+        }
+      ]
+    },
+    "8701000087104": {
+      "displayEN": "Rota G4 serotype antigen",
+      "displayFR": "Antigène du sérotype Rota G4",
+      "diseaseEN": [
+        {
+          "18624000": "Rotavirus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "18624000": "infection à rotavirus"
+        }
+      ]
+    },
+    "8581000087102": {
+      "displayEN": "Meningococcal polysaccharide group Y antigen",
+      "displayFR": "Antigène polysaccharidique du méningocoque du sérogroupe Y",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "8571000087104": {
+      "displayEN": "Meningococcal polysaccharide group W-135 antigen",
+      "displayFR": "Antigène polysaccharidique du méningocoque du sérogroupe W-135",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "8511000087106": {
+      "displayEN": "Meningococcal conjugate group A antigen",
+      "displayFR": "Antigène du méningocoque conjugué du sérogroupe A",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "8491000087101": {
+      "displayEN": "Acellular pertussis antigen",
+      "displayFR": "Antigène coquelucheux acellulaire",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        }
+      ]
+    },
+    "8281000087104": {
+      "displayEN": "Human papillomavirus, type 11 antigen",
+      "displayFR": "Antigène du virus du papillome humain de type 11",
+      "diseaseEN": [
+        {
+          "240532009": "Human papilloma virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "240532009": "infection par le virus du papillome humain"
+        }
+      ]
+    },
+    "8751000087103": {
+      "displayEN": "Rota G1 (P8) serotype antigen",
+      "displayFR": "Antigène du sérotype Rota G1 (P8)",
+      "diseaseEN": [
+        {
+          "18624000": "Rotavirus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "18624000": "infection à rotavirus"
+        }
+      ]
+    },
+    "8551000087105": {
+      "displayEN": "Meningococcal polysaccharide group A antigen",
+      "displayFR": "Antigène polysaccharidique du méningocoque du sérogroupe A",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "8501000087109": {
+      "displayEN": "Diphtheria toxoid",
+      "displayFR": "Anatoxine diphtérique",
+      "diseaseEN": [
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "397430003": "diphtérie"
+        }
+      ]
+    },
+    "8481000087103": {
+      "displayEN": "Whole cell pertussis antigen",
+      "displayFR": "Antigène coquelucheux à germes entiers",
+      "diseaseEN": [
+        {
+          "27836007": "Pertussis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "27836007": "coqueluche"
+        }
+      ]
+    },
+    "8721000087105": {
+      "displayEN": "Smallpox antigen",
+      "displayFR": "Antigène de la variole",
+      "diseaseEN": [
+        {
+          "67924001": "Smallpox"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "67924001": "variole"
+        }
+      ]
+    },
+    "8691000087104": {
+      "displayEN": "Rota G3 serotype antigen",
+      "displayFR": "Antigène du sérotype Rota G3",
+      "diseaseEN": [
+        {
+          "18624000": "Rotavirus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "18624000": "infection à rotavirus"
+        }
+      ]
+    },
+    "8251000087107": {
+      "displayEN": "Bacillus Calmette Guerin antigen",
+      "displayFR": "Antigène de Mycobacterium tuberculosis",
+      "diseaseEN": [
+        {
+          "56717001": "Tuberculosis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "56717001": "tuberculose"
+        }
+      ]
+    },
+    "8271000087101": {
+      "displayEN": "Hepatitis A antigen",
+      "displayFR": "Antigène de l'hépatite A",
+      "diseaseEN": [
+        {
+          "40468003": "Hepatitis A"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "40468003": "hépatite A"
+        }
+      ]
+    },
+    "8291000087102": {
+      "displayEN": "Human papillomavirus, type 6 antigen",
+      "displayFR": "Antigène du virus du papillome humain de type 6",
+      "diseaseEN": [
+        {
+          "240532009": "Human papilloma virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "240532009": "infection par le virus du papillome humain"
+        }
+      ]
+    },
+    "8331000087106": {
+      "displayEN": "Plague antigen",
+      "displayFR": "Antigène de la peste",
+      "diseaseEN": [
+        {
+          "58750007": "Plague"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "58750007": "peste"
+        }
+      ]
+    },
+    "8531000087101": {
+      "displayEN": "Meningococcal conjugate group W-135 antigen",
+      "displayFR": "Antigène du méningocoque conjugué du sérogroupe W-135",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "8661000087107": {
+      "displayEN": "Enterotoxigenic e. coli antigen",
+      "displayFR": "Enterotoxigenic e. coli antigen",
+      "diseaseEN": [
+        {
+          "11840006": "Traveler's diarrhea"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "11840006": "diarrhée du voyageur"
+        }
+      ]
+    },
+    "8341000087100": {
+      "displayEN": "Poliomyelitis antigen",
+      "displayFR": "Antigène de poliovirus",
+      "diseaseEN": [
+        {
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "398102009": "poliomyélite"
+        }
+      ]
+    },
+    "8321000087109": {
+      "displayEN": "Lyme antigen",
+      "displayFR": "Antigène de la maladie de Lyme",
+      "diseaseEN": [
+        {
+          "23502006": "Lyme disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23502006": "maladie de Lyme"
+        }
+      ]
+    },
+    "8261000087105": {
+      "displayEN": "Cholera antigen",
+      "displayFR": "Antigène du choléra",
+      "diseaseEN": [
+        {
+          "11840006": "Traveler's diarrhea"
+        },
+        {
+          "63650001": "Cholera"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "11840006": "diarrhée du voyageur"
+        },
+        {
+          "63650001": "choléra"
+        }
+      ]
+    },
+    "8671000087103": {
+      "displayEN": "Rota G1 serotype antigen",
+      "displayFR": "Antigène du sérotype Rota G1",
+      "diseaseEN": [
+        {
+          "18624000": "Rotavirus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "18624000": "infection à rotavirus"
+        }
+      ]
+    },
+    "8711000087102": {
+      "displayEN": "Rota P1A (8) serotype antigen",
+      "displayFR": "Antigène du sérotype Rota P1A (8)",
+      "diseaseEN": [
+        {
+          "18624000": "Rotavirus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "18624000": "infection à rotavirus"
+        }
+      ]
+    },
+    "8411000087107": {
+      "displayEN": "Pneumococcal conjugate antigen",
+      "displayFR": "Antigène du pneumocoque conjugué",
+      "diseaseEN": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "16814004": "infection pneumococcique"
+        }
+      ]
+    },
+    "8391000087107": {
+      "displayEN": "Meningococcal polysaccharide antigen",
+      "displayFR": "Antigène polysaccharidique du méningocoque",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "8381000087105": {
+      "displayEN": "Meningococcal conjugate antigen",
+      "displayFR": "Antigène du méningocoque conjugué",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "8561000087108": {
+      "displayEN": "Meningococcal polysaccharide group C antigen",
+      "displayFR": "Antigène polysaccharidique du méningocoque du sérogroupe C",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "8521000087103": {
+      "displayEN": "Meningococcal conjugate group C antigen",
+      "displayFR": "Antigène du méningocoque conjugué du sérogroupe C",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "8541000087107": {
+      "displayEN": "Meningococcal conjugate group Y antigen",
+      "displayFR": "Antigène du méningocoque conjugué du sérogroupe Y",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
+    "8371000087108": {
+      "displayEN": "Yellow fever antigen",
+      "displayFR": "Antigène du virus de la fièvre jaune",
+      "diseaseEN": [
+        {
+          "16541001": "Yellow fever"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "16541001": "fièvre jaune"
+        }
+      ]
+    },
+    "8311000087101": {
+      "displayEN": "Live poliomyelitis antigen",
+      "displayFR": "Antigène de la polio vivant",
+      "diseaseEN": [
+        {
+          "398102009": "Poliomyelitis"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "398102009": "poliomyélite"
+        }
+      ]
+    },
+    "58331000087101": {
+      "displayEN": "Nirsevimab",
+      "displayFR": "nirsevimab",
+      "diseaseEN": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "55735004": "infection à virus respiratoire syncytial"
+        }
+      ]
+    },
+    "581000221101": {
+      "displayEN": "Cholera live attenuated antigen",
+      "displayFR": "antigène du choléra vivant atténué",
+      "diseaseEN": [
+        {
+          "11840006": "Traveler's diarrhea"
+        },
+        {
+          "63650001": "Cholera"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "11840006": "diarrhée du voyageur"
+        },
+        {
+          "63650001": "choléra"
+        }
+      ]
+    },
+    "61221000087105": {
+      "displayEN": "Monoclonal antibody to Human respiratory syncytial virus",
+      "displayFR": "anticorps monoclonal contre le virus respiratoire syncytial humain",
+      "diseaseEN": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "55735004": "infection à virus respiratoire syncytial"
+        }
+      ]
+    },
+    "151000221104": {
+      "displayEN": "Corynebacterium diphtheriae antigen",
+      "displayFR": "Corynebacterium diphtheriae antigen",
+      "diseaseEN": [
+        {
+          "397430003": "Diphtheria"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "397430003": "diphtérie"
+        }
+      ]
+    },
+    "571000221104": {
+      "displayEN": "Vibrio cholerae antigen",
+      "displayFR": "antigène de Vibrio cholerae",
+      "diseaseEN": [
+        {
+          "11840006": "Traveler's diarrhea"
+        },
+        {
+          "63650001": "Cholera"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "11840006": "diarrhée du voyageur"
+        },
+        {
+          "63650001": "choléra"
+        }
+      ]
+    },
+    "541000221109": {
+      "displayEN": "Clostridium tetani antigen",
+      "displayFR": "Clostridium tetani antigen",
+      "diseaseEN": [
+        {
+          "76902006": "Tetanus"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "76902006": "tétanos"
+        }
+      ]
+    },
+    "591000221103": {
+      "displayEN": "Inactivated whole Vibrio cholerae antigen",
+      "displayFR": "antigène de Vibrio cholerae entier inactivé",
+      "diseaseEN": [
+        {
+          "11840006": "Traveler's diarrhea"
+        },
+        {
+          "63650001": "Cholera"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "11840006": "diarrhée du voyageur"
+        },
+        {
+          "63650001": "choléra"
+        }
+      ]
+    },
+    "61731000087103": {
+      "displayEN": "RSV (respiratory syncytial virus) mRNA",
+      "displayFR": "VRS (virus respiratoire syncytial) ARNm",
+      "diseaseEN": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "55735004": "infection à virus respiratoire syncytial"
+        }
+      ]
+    },
+    "61751000087107": {
+      "displayEN": "RSV (respiratory syncytial virus) mRNA encoding surface glycoprotein F",
+      "displayFR": "VRS (virus respiratoire syncytial) ARNm codant pour la glycoprotéine F de surface",
+      "diseaseEN": [
+        {
+          "55735004": "Respiratory syncytial virus infection"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "55735004": "infection à virus respiratoire syncytial"
+        }
+      ]
     }
   }
 }
