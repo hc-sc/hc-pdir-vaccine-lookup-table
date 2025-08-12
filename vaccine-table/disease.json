@@ -12,7 +12,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -105,23 +105,10 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
-                {
-                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
-                  "valueCodeableConcept": {
-                    "coding": [
-                      {
-                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
-                        "code": "422303009",
-                        "display": "Rabies immunoglobulin"
-                      }
-                    ],
-                    "text": "Rabies immunoglobulin"
-                  }
-                },
                 {
                   "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
                   "valueCodeableConcept": {
@@ -133,6 +120,19 @@
                       }
                     ],
                     "text": "Rabies lyssavirus antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "422303009",
+                        "display": "Rabies immunoglobulin"
+                      }
+                    ],
+                    "text": "Rabies immunoglobulin"
                   }
                 }
               ],
@@ -185,7 +185,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -330,7 +330,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -423,7 +423,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -672,7 +672,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -752,7 +752,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             }
           ],
           "code": "186150001",
@@ -801,7 +801,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -868,7 +868,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             }
           ],
           "code": "397428000",
@@ -917,7 +917,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2025-03-06"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -984,7 +984,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -1103,7 +1103,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -1196,7 +1196,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -1263,7 +1263,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -1486,7 +1486,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -1696,7 +1696,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -1841,7 +1841,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -1869,6 +1869,19 @@
                       }
                     ],
                     "text": "Hepatitis A antigen pediatric strength"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "8271000087101",
+                        "display": "Hepatitis A antigen"
+                      }
+                    ],
+                    "text": "Hepatitis A antigen"
                   }
                 },
                 {
@@ -1922,19 +1935,6 @@
                     ],
                     "text": "Hepatitis A virus antigen"
                   }
-                },
-                {
-                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
-                  "valueCodeableConcept": {
-                    "coding": [
-                      {
-                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
-                        "code": "8271000087101",
-                        "display": "Hepatitis A antigen"
-                      }
-                    ],
-                    "text": "Hepatitis A antigen"
-                  }
                 }
               ],
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
@@ -1986,7 +1986,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -2118,7 +2118,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -2614,7 +2614,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -2681,7 +2681,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             }
           ],
           "code": "398523009",
@@ -2730,7 +2730,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2025-03-06"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -2836,7 +2836,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -2916,7 +2916,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -3048,7 +3048,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -3232,7 +3232,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -3312,7 +3312,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -3470,7 +3470,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             }
           ],
           "code": "414531002",
@@ -3519,7 +3519,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -3664,7 +3664,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -3744,7 +3744,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -3811,7 +3811,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -3969,7 +3969,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -4062,7 +4062,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -4129,7 +4129,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -4300,7 +4300,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -4367,7 +4367,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2025-04-03"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -4434,7 +4434,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -4566,7 +4566,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -4685,7 +4685,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -4817,7 +4817,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-03-24"
+              "valueDate": "2025-08-11"
             }
           ],
           "code": "8761000087100",
@@ -4866,7 +4866,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-06-06"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
@@ -4933,7 +4933,7 @@
             },
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2024-10-04"
+              "valueDate": "2025-08-11"
             },
             {
               "extension": [
