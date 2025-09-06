@@ -797,73 +797,6 @@
           "extension": [
             {
               "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
-              "valueString": "active"
-            },
-            {
-              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
-              "valueDate": "2025-08-11"
-            },
-            {
-              "extension": [
-                {
-                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
-                  "valueCodeableConcept": {
-                    "coding": [
-                      {
-                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
-                        "code": "120941004",
-                        "display": "Cytomegalovirus antibody"
-                      }
-                    ],
-                    "text": "Cytomegalovirus antibody"
-                  }
-                }
-              ],
-              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
-            }
-          ],
-          "code": "28944009",
-          "display": "Cytomegalovirus disease",
-          "designation": [
-            {
-              "language": "en",
-              "use": {
-                "system": "http://snomed.info/sct",
-                "code": "900000000000003001",
-                "display": "Fully Specified Name"
-              },
-              "value": "Cytomegalovirus infection (disorder)"
-            },
-            {
-              "language": "en",
-              "use": {
-                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
-                "code": "enDisplayTerm",
-                "display": "Display Term"
-              },
-              "value": "Cytomegalovirus disease"
-            },
-            {
-              "language": "fr",
-              "use": {
-                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
-                "code": "frDisplayTerm",
-                "display": "Display Term"
-              },
-              "value": "infection à cytomégalovirus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "system": "http://snomed.info/sct",
-      "version": "http://snomed.info/sct/20611000087101",
-      "concept": [
-        {
-          "extension": [
-            {
-              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
               "valueString": "inactive"
             },
             {
@@ -3071,19 +3004,6 @@
                     "coding": [
                       {
                         "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
-                        "code": "120996005",
-                        "display": "Human papillomavirus antigen"
-                      }
-                    ],
-                    "text": "Human papillomavirus antigen"
-                  }
-                },
-                {
-                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
-                  "valueCodeableConcept": {
-                    "coding": [
-                      {
-                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
                         "code": "121235008",
                         "display": "Human papillomavirus 18 antigen"
                       }
@@ -3180,6 +3100,19 @@
                       }
                     ],
                     "text": "Human papillomavirus, type 6 antigen"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "120996005",
+                        "display": "Human papillomavirus antigen"
+                      }
+                    ],
+                    "text": "Human papillomavirus antigen"
                   }
                 }
               ],
@@ -4983,6 +4916,73 @@
                 "display": "Display Term"
               },
               "value": "fièvre chikungunya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2025-09-05"
+            },
+            {
+              "extension": [
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "120941004",
+                        "display": "Cytomegalovirus antibody"
+                      }
+                    ],
+                    "text": "Cytomegalovirus antibody"
+                  }
+                }
+              ],
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigens"
+            }
+          ],
+          "code": "28944009",
+          "display": "Cytomegalovirus disease",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "Infection caused by Cytomegalovirus (disorder)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "Cytomegalovirus disease"
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "infection à cytomégalovirus"
             }
           ]
         }
