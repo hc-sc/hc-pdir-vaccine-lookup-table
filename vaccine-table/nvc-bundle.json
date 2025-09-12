@@ -1,5 +1,5 @@
 {
-  "version": "1.75",
+  "version": "1.76",
   "table": {
     "3526007": {
       "displayEN": "Rabies vaccine, human",
@@ -2067,6 +2067,20 @@
         }
       ]
     },
+    "871871008": {
+      "displayEN": "[Men-AC] Meningococcal A and C vaccine",
+      "displayFR": "[Men-AC] vaccin contre le méningocoque A et C",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
     "871873006": {
       "displayEN": "[Men-ACYW-135] Meningococcal A + C + Y + W-135 vaccine",
       "displayFR": "[Men-ACYW-135] vaccin contre le méningocoque A + C + Y + W-135",
@@ -2235,6 +2249,20 @@
         }
       ]
     },
+    "1252690003": {
+      "displayEN": "[Men-A] Meningococcal A vaccine",
+      "displayFR": "[Men-A] vaccin contre le méningocoque A",
+      "diseaseEN": [
+        {
+          "23511006": "Meningococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "23511006": "maladie infectieuse à méningocoques"
+        }
+      ]
+    },
     "1252708008": {
       "displayEN": "[Pneu-C-15] Pneumococcal conjugate 15-valent vaccine",
       "displayFR": "[Pneu-C-15] vaccin contre le pneumocoque conjugué 15-valent",
@@ -2356,8 +2384,16 @@
     "1360050007": {
       "displayEN": "[Pneu-C-21] Pneumococcal conjugate 21-valent vaccine",
       "displayFR": "[Pneu-C-21] vaccin contre le pneumocoque conjugué 21-valent",
-      "diseaseEN": [],
-      "diseaseFR": []
+      "diseaseEN": [
+        {
+          "16814004": "Pneumococcal disease"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "16814004": "infection pneumococcique"
+        }
+      ]
     },
     "1362134008": {
       "displayEN": "[Chol-Ecol-O] Cholera and E. coli oral vaccine",
@@ -8194,6 +8230,28 @@
       ],
       "MAHEN": "MERCK CANADA INC.",
       "MAHFR": "MERCK CANADA INC."
+    },
+    "271421000087109": {
+      "displayEN": "[Inf] FLUZONE Trivalent",
+      "displayFR": "[Inf] FLUZONE Trivalent",
+      "diseaseEN": [],
+      "diseaseFR": []
+    },
+    "268981000087103": {
+      "displayEN": "[Inf] FLUCELVAX",
+      "displayFR": "[Inf] FLUCELVAX",
+      "diseaseEN": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "6142004": "influenza"
+        }
+      ],
+      "MAHEN": "SEQIRUS UK LIMITED",
+      "MAHFR": "SEQIRUS UK LIMITED"
     },
     "20891000087108": {
       "displayEN": "Vaccinia immune globulin",

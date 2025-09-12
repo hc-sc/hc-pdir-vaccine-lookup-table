@@ -1362,6 +1362,19 @@
                     "coding": [
                       {
                         "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
+                        "code": "1360050007",
+                        "display": "[Pneu-C-21] Pneumococcal conjugate 21-valent vaccine"
+                      }
+                    ],
+                    "text": "[Pneu-C-21] Pneumococcal conjugate 21-valent vaccine"
+                  }
+                },
+                {
+                  "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-contains-antigen",
+                  "valueCodeableConcept": {
+                    "coding": [
+                      {
+                        "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
                         "code": "60591000087104",
                         "display": "[Pneu-C-21] Pneumococcal conjugate 21-valent vaccine"
                       }
