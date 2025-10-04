@@ -1,5 +1,5 @@
 {
-  "version": "1.78",
+  "version": "1.79",
   "table": {
     "3526007": {
       "displayEN": "Rabies vaccine, human",
@@ -5733,22 +5733,6 @@
         }
       ]
     },
-    "33361000087101": {
-      "displayEN": "[COVID-19] COMIRNATY (original strain) pediatric 10 mcg/0.2 mL",
-      "displayFR": "[COVID-19] COMIRNATY (souche originale) vaccin pédiatrique 10 mcg/0.2 mL",
-      "diseaseEN": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "diseaseFR": [
-        {
-          "840539006": "COVID-19"
-        }
-      ],
-      "MAHEN": "BIONTECH MANUFACTURING GMBH",
-      "MAHFR": "BIONTECH MANUFACTURING GMBH"
-    },
     "33431000087104": {
       "displayEN": "[COVID-19] KCONVAC",
       "displayFR": "[COVID-19] KCONVAC",
@@ -8231,12 +8215,6 @@
       "MAHEN": "MERCK CANADA INC.",
       "MAHFR": "MERCK CANADA INC."
     },
-    "271421000087109": {
-      "displayEN": "[Inf] FLUZONE Trivalent",
-      "displayFR": "[Inf] FLUZONE Trivalent",
-      "diseaseEN": [],
-      "diseaseFR": []
-    },
     "268981000087103": {
       "displayEN": "[Inf] FLUCELVAX",
       "displayFR": "[Inf] FLUCELVAX",
@@ -8252,6 +8230,38 @@
       ],
       "MAHEN": "SEQIRUS UK LIMITED",
       "MAHFR": "SEQIRUS UK LIMITED"
+    },
+    "33361000087101": {
+      "displayEN": "[COVID-19] COMIRNATY (original strain) pediatric 10 mcg/0.2 mL",
+      "displayFR": "[COVID-19] COMIRNATY (souche originale) vaccin pédiatrique 10 mcg/0.2 mL",
+      "diseaseEN": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAHEN": "BIONTECH MANUFACTURING GMBH",
+      "MAHFR": "BIONTECH MANUFACTURING GMBH"
+    },
+    "271421000087109": {
+      "displayEN": "[Inf] FLUZONE Trivalent",
+      "displayFR": "[Inf] FLUZONE Trivalent",
+      "diseaseEN": [
+        {
+          "6142004": "Influenza"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "6142004": "influenza"
+        }
+      ],
+      "MAHEN": "SANOFI PASTEUR LIMITED",
+      "MAHFR": "SANOFI PASTEUR LIMITED"
     },
     "20891000087108": {
       "displayEN": "Vaccinia immune globulin",
