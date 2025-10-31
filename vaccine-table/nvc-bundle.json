@@ -1,5 +1,5 @@
 {
-  "version": "1.82",
+  "version": "1.83",
   "table": {
     "3526007": {
       "displayEN": "Rabies vaccine, human",
@@ -8262,6 +8262,38 @@
       ],
       "MAHEN": "SANOFI PASTEUR LIMITED",
       "MAHFR": "SANOFI PASTEUR LIMITED"
+    },
+    "379081000087107": {
+      "displayEN": "[HB] PREHEVBRIO",
+      "displayFR": "[HB] PREHEVBRIO",
+      "diseaseEN": [
+        {
+          "66071002": "Hepatitis B"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "66071002": "hépatite B"
+        }
+      ],
+      "MAHEN": "VBI Vaccines Inc.",
+      "MAHFR": "VBI Vaccines Inc."
+    },
+    "379371000087107": {
+      "displayEN": "[COVID-19] mNEXSPIKE",
+      "displayFR": "[COVID-19] mNEXSPIKE",
+      "diseaseEN": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "diseaseFR": [
+        {
+          "840539006": "COVID-19"
+        }
+      ],
+      "MAHEN": "MODERNA BIOPHARMA CANADA CORPORATION",
+      "MAHFR": "MODERNA BIOPHARMA CANADA CORPORATION"
     },
     "20891000087108": {
       "displayEN": "Vaccinia immune globulin",

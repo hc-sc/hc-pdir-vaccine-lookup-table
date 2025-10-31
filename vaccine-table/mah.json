@@ -11710,6 +11710,55 @@
           ]
         }
       ]
+    },
+    {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/20611000087101",
+      "concept": [
+        {
+          "extension": [
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-status-extension",
+              "valueString": "active"
+            },
+            {
+              "url": "https://nvc-cnv.canada.ca/v1/StructureDefinition/nvc-concept-last-updated",
+              "valueDate": "2025-10-30"
+            }
+          ],
+          "code": "379091000087109",
+          "display": "VBI Vaccines Inc.",
+          "designation": [
+            {
+              "language": "en",
+              "use": {
+                "system": "http://snomed.info/sct",
+                "code": "900000000000003001",
+                "display": "Fully Specified Name"
+              },
+              "value": "VBI Vaccines Inc. (supplier)"
+            },
+            {
+              "language": "en",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "enDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "VBI Vaccines Inc."
+            },
+            {
+              "language": "fr",
+              "use": {
+                "system": "https://nvc-cnv.canada.ca/v1/NamingSystem/nvc-display-terms-designation",
+                "code": "frDisplayTerm",
+                "display": "Display Term"
+              },
+              "value": "VBI Vaccines Inc."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
