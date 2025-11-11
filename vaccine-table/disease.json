@@ -115,11 +115,11 @@
                     "coding": [
                       {
                         "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
-                        "code": "422303009",
-                        "display": "Rabies immunoglobulin"
+                        "code": "120980007",
+                        "display": "Rabies lyssavirus antigen"
                       }
                     ],
-                    "text": "Rabies immunoglobulin"
+                    "text": "Rabies lyssavirus antigen"
                   }
                 },
                 {
@@ -128,11 +128,11 @@
                     "coding": [
                       {
                         "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
-                        "code": "120980007",
-                        "display": "Rabies lyssavirus antigen"
+                        "code": "422303009",
+                        "display": "Rabies immunoglobulin"
                       }
                     ],
-                    "text": "Rabies lyssavirus antigen"
+                    "text": "Rabies immunoglobulin"
                   }
                 }
               ],
@@ -3188,11 +3188,11 @@
                     "coding": [
                       {
                         "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
-                        "code": "120998006",
-                        "display": "Rubella virus antigen"
+                        "code": "420084002",
+                        "display": "Immune globulin"
                       }
                     ],
-                    "text": "Rubella virus antigen"
+                    "text": "Immune globulin"
                   }
                 },
                 {
@@ -3201,11 +3201,11 @@
                     "coding": [
                       {
                         "system": "https://nvc-cnv.canada.ca/v1/ValueSet/AntigenIgAntitoxin",
-                        "code": "420084002",
-                        "display": "Immune globulin"
+                        "code": "120998006",
+                        "display": "Rubella virus antigen"
                       }
                     ],
-                    "text": "Immune globulin"
+                    "text": "Rubella virus antigen"
                   }
                 }
               ],
